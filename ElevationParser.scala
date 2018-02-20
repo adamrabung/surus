@@ -3,41 +3,78 @@ package surus
 import scala.xml.XML
 import pimpathon.any._
 
-//https://jsfiddle.net/z4ujdbp9/
-object ElevationParser extends App {
-  //springer - 3001
-  //baxter - 3044
-  //shenandoah 3019 and 3020
+object PlotTrip extends App {
+  val caledoniaTo233 = ElevationParser.parse(1082.7, 1101.5)
+  val hightopToLoft = ElevationParser.parse(903.4, 891.2)
+  println(s"ElevationParser.scala.9: ${formatForPlot(Seq(caledoniaTo233, hightopToLoft))}")
+  // val frontRoyalStart = 969.1
+  // val shen = {
+  //   val start = frontRoyalStart
+  //   val shen = (3019 to 3020)
+  //     .flatMap(ElevationParser.parse)
+  //     .sortBy(_.miles * -1)
+  //     .filter(tp => tp.miles < start)
+  //   val low = shen.head.altitude
+  //   shen
+  //     .map(tp => TrailPoint(miles = start - tp.miles, altitude = tp.altitude - low))
+  //     .map(tp => s"[${tp.miles}, ${tp.altitude}, null]")
+  // }
 
-  var frontRoyalStart = 969.1
-  val route50 = 989.1
-  val hightopParking = 905.8
-  val shen = {
-    val start = frontRoyalStart
-    val shen = (3019 to 3020)
-      .flatMap(parse)
-      .sortBy(_.miles * -1)
-      .filter(tp => tp.miles < start)
-    val low = shen.map(_.altitude).min
-    shen
-      .map(tp => TrailPoint(miles = start - tp.miles, altitude = tp.altitude - low))
-      .map(tp => s"[${tp.miles}, ${tp.altitude}, null]")
-  }
+  // val frontRoyal = {
+  //   val start = frontRoyalStart
+  //   val tps = ElevationParser.parse(3021).filter(tp => tp.miles > start)
+  //   val low = tps.head.altitude
+  //   tps
+  //     .map(tp => TrailPoint(miles = tp.miles - start, altitude = tp.altitude - low))
+  //     .map(tp => s"[${tp.miles}, null, ${tp.altitude}]")
+  // }
 
-  val frontRoyal = {
-    val start = frontRoyalStart
-    val tps = parse(3021)
-      .filter(tp => tp.miles > start)
+  def formatForPlot(trips: Seq[Seq[RelativeTrailPoint]]): String = trips
+    .zipWithIndex
+    .flatMap { case (trip, currTripIndex) => 
+      trip.map(tp => s"[${tp.relativeMiles}, " + (0 until trips.length).map(tripIndex => if (tripIndex == currTripIndex) tp.relativeAltitude.toString else "null").mkString(",") + "]") 
+    }
+    .mkString("", ",", "")
+  // //https://jsfiddle.net/z4ujdbp9/
+  // (shen ++ frontRoyal)
+  //   .tap(tps => println()
+}
+
+case class RelativeTrailPoint(relativeMiles: Double, relativeAltitude: Double, private val tp: ElevationParser.TrailPoint) {
+  val altitude = tp.altitude
+  val mileMaker = tp.miles
+}
+
+object ElevationParser {
+  case class Section(id: Int, name: String, startAtMile: Double)
+  val sections = Seq(
+    Section(3001, "Springer", 0.0),
+    Section(3015, "Pearisburg to Catawba", 633.5),
+    Section(3016, "Catawba to Daleville", 707.8),
+    Section(3017, "Daleville to James", 728.0),
+    Section(3018, "James to Waynesboro", 784.6),
+    Section(3019, "South Shenandoah", 861.6),
+    Section(3020, "North Shenandoah", 931.2),
+    Section(3021, "Front Royal to Harper's Ferry", 969.6),
+    Section(3022, "Harper's Ferry to Pine Grove", 1023.2),
+    Section(3044, "Baxter", 2174.1) //
+    )
+
+  def parse(start: Double, end: Double): Seq[RelativeTrailPoint] = {
+    val northernmost = Math.max(start, end)
+    val south = Math.min(start, end)
+    val tps: Seq[TrailPoint] = sections
+      .filterNot(section => northernmost < section.startAtMile)
+      .tap(x => println(s"ElevationParser.scala:63: $x"))
+      .flatMap(section => parse(section.id))
+      .filter(tp => tp.miles >= south && tp.miles <= northernmost)
+      .sortBy(tp => tp.miles * Math.signum(end - start).toInt)
+
     val low = tps.map(_.altitude).min
-    tps.map(tp => TrailPoint(miles = tp.miles - start, altitude = tp.altitude - low))
-    .map(tp => s"[${tp.miles}, null, ${tp.altitude}]")
+    tps.map(tp => RelativeTrailPoint(relativeMiles = Math.abs(tp.miles - start), relativeAltitude = Math.abs(tp.altitude - low), tp))
   }
-
-  (shen ++ frontRoyal)
-    .tap(tps => println(s"ElevationParser.scala:14 ${tps.mkString("[", ",", "]")}"))
-
   case class TrailPoint(miles: Double, altitude: Double)
-  def parse(sectionId: Int): Seq[TrailPoint] = {
+  private def parse(sectionId: Int): Seq[TrailPoint] = {
     val section = XML.load("http://www.wikitrail.org/sections/profile/at/" + sectionId)
     val altituteLines = (section \\ "line" \\ "@y1")
     val (altitueTexts, distanceTexts) = (section \\ "text").splitAt(altituteLines.size)
@@ -64,6 +101,10 @@ object ElevationParser extends App {
       .\\("@points")
       .map(n => n.toString.split(","))
       .flatMap(n => n.map(_.trim.split(" ").map(_.toDouble).toSeq.|> { case Seq(x, y) => (x, y) }))
-      .map { case (x, y) => TrailPoint(mile(x), alt(y)) }
+      .map {
+        case (x, y) =>
+          TrailPoint(miles = mile(x), altitude = alt(y))
+      }
   }
 }
+
