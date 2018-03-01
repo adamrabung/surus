@@ -1,7 +1,7 @@
 package surus
 
 import scala.xml.XML
-import pimpathon.any._
+import ImplicitConversions._
 
 object PlotTrip extends App {
   val caledoniaTo233 = ElevationParser.parse(1082.7, 1101.5)
@@ -35,8 +35,9 @@ object PlotTrip extends App {
 
   def formatForPlot(trips: Seq[Seq[RelativeTrailPoint]]): String = trips
     .zipWithIndex
-    .flatMap { case (trip, currTripIndex) => 
-      trip.map(tp => s"[${tp.relativeMiles}, " + (0 until trips.length).map(tripIndex => if (tripIndex == currTripIndex) tp.relativeAltitude.toString else "null").mkString(",") + "]") 
+    .flatMap {
+      case (trip, currTripIndex) =>
+        trip.map(tp => s"[${tp.relativeMiles}, " + (0 until trips.length).map(tripIndex => if (tripIndex == currTripIndex) tp.relativeAltitude.toString else "null").mkString(",") + "]")
     }
     .mkString("", ",", "")
   // //https://jsfiddle.net/z4ujdbp9/
@@ -47,6 +48,17 @@ object PlotTrip extends App {
 case class RelativeTrailPoint(relativeMiles: Double, relativeAltitude: Double, private val tp: ElevationParser.TrailPoint) {
   val altitude = tp.altitude
   val mileMaker = tp.miles
+}
+
+object ImplicitConversions {
+  implicit class RichU[A](val a: A) extends AnyVal {
+    def tap(block: A => Unit): A = { block(a); a }
+    def into[B](f: A => B): B = f(a)
+    // def where(pred: A => Boolean): Option[A] = if (pred(a)) Some(a) else None
+    // def where(cond: Boolean): Option[A] = if (cond) Some(a) else None
+    // def equalsAny[B](bs: B*)(implicit equality: Equality[A, B]): Boolean = bs.exists(b => b == a)
+    // def notEqualsAny[B](bs: B*)(implicit equality: Equality[A, B]): Boolean = bs.forall(b => b != a)
+  }
 }
 
 object ElevationParser {
@@ -104,7 +116,7 @@ object ElevationParser {
     section
       .\\("@points")
       .map(n => n.toString.split(","))
-      .flatMap(n => n.map(_.trim.split(" ").map(_.toDouble).toSeq.|> { case Seq(x, y) => (x, y) }))
+      .flatMap(n => n.map(_.trim.split(" ").map(_.toDouble).toSeq.into { case Seq(x, y) => (x, y) }))
       .map {
         case (x, y) =>
           TrailPoint(miles = mile(x), altitude = alt(y))
