@@ -4,11 +4,13 @@ import scala.xml.XML
 import pimpathon.any._
 
 object PlotTrip extends App {
-  val caledoniaTo233 = ElevationParser.parse(1082.7, 1091.1) //1101.5)
+  val caledoniaTo233 = ElevationParser.parse(1082.7, 1101.5)
   val hightopToLoft = ElevationParser.parse(903.4, 891.2)
   val upAppleOrchard = ElevationParser.parse(752.3, 774.4)
   val upThePriest = ElevationParser.parse(833.8, 820.1)
-  println(s"ElevationParser.scala.9: ${formatForPlot(Seq(hightopToLoft, upAppleOrchard, upThePriest))}")
+  val loftToTurkWithJen = ElevationParser.parse(891.2, 873.4)
+  val catawbaWithJen = ElevationParser.parse(707.5, 686.7)
+  println(s"ElevationParser.scala.9: ${formatForPlot(Seq(loftToTurkWithJen, catawbaWithJen))}")
   // val frontRoyalStart = 969.1
   // val shen = {
   //   val start = frontRoyalStart
