@@ -3,6 +3,11 @@ package surus
 import scala.xml.XML
 import ImplicitConversions._
 
+object SaveData extends App {
+  
+  def f(d: Double, scale: Int) = BigDecimal(d).setScale(scale, BigDecimal.RoundingMode.HALF_UP).toDouble
+  (3011 to 3044).flatMap(ElevationParser.parse).map(tp => s"[${f(tp.miles, 5)}, ${f(tp.altitude, 2)}]").mkString("[", ",", "]").tap(x => println(s"ElevationParser.scala:7: $x"))
+}
 object PlotTrip extends App {
   val caledoniaTo233 = ElevationParser.parse(1082.7, 1101.5)
   val hightopToLoft = ElevationParser.parse(903.4, 891.2)
@@ -10,7 +15,10 @@ object PlotTrip extends App {
   val upThePriest = ElevationParser.parse(833.8, 820.1)
   val loftToTurkWithJen = ElevationParser.parse(891.2, 873.4)
   val catawbaWithJen = ElevationParser.parse(707.5, 686.7)
-  println(s"ElevationParser.scala.9: ${formatForPlot(Seq(loftToTurkWithJen, catawbaWithJen))}")
+
+  val ripRapParkingToAfton = ElevationParser.parse(878.7, 861.7) //869.3 calf mtn shelter 9.4 and 7.6
+  val caledoniaToPa16 = ElevationParser.parse(1082.7, 1066.6)
+  println(s"ElevationParser.scala.9: ${formatForPlot(Seq(ripRapParkingToAfton, caledoniaToPa16))}")
   // val frontRoyalStart = 969.1
   // val shen = {
   //   val start = frontRoyalStart
@@ -90,7 +98,7 @@ object ElevationParser {
     tps.map(tp => RelativeTrailPoint(relativeMiles = Math.abs(tp.miles - start), relativeAltitude = Math.abs(tp.altitude - low), tp))
   }
   case class TrailPoint(miles: Double, altitude: Double)
-  private def parse(sectionId: Int): Seq[TrailPoint] = {
+  def parse(sectionId: Int): Seq[TrailPoint] = {
     val section = XML.load("http://www.wikitrail.org/sections/profile/at/" + sectionId)
     val altituteLines = (section \\ "line" \\ "@y1")
     val (altitueTexts, distanceTexts) = (section \\ "text").splitAt(altituteLines.size)

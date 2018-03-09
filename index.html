@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="surus.js"></script>
+<script src="jquery.js"></script>
+<script src="atPoints.js"></script>
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script>
+$(document).ready(function(){
+	document.getElementById("drawButton").addEventListener('click', function() {  
+		render(document.getElementById("start").value, document.getElementById("end").value)
+	}, false);
+});
+</script>
+</head>
+<body>
+	<input type="text" id="start">
+	<input type="text" id="end">
+	<button label="draw" id="drawButton">
+<div id="chart_div" style="width: 100%"></div>
+</body>
+</html>
