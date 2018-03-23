@@ -4,9 +4,14 @@ import scala.xml.XML
 import ImplicitConversions._
 
 object SaveData extends App {
-  
   def f(d: Double, scale: Int) = BigDecimal(d).setScale(scale, BigDecimal.RoundingMode.HALF_UP).toDouble
-  (3011 to 3044).flatMap(ElevationParser.parse).map(tp => s"[${f(tp.miles, 5)}, ${f(tp.altitude, 2)}]").mkString("[", ",", "]").tap(x => println(s"ElevationParser.scala:7: $x"))
+  //(3016 to 3016)
+  (3001 to 3044)
+    .flatMap(ElevationParser.parse)
+    .map(tp => s"[${f(tp.miles, 5)}, ${f(tp.altitude, 2)}]")
+    //.tap(x => println(s"ElevationParser.scala:7: ${x.mkString("\n")}"))
+    .mkString("[", ",", "]")
+    .tap(x => println(s"ElevationParser.scala:7: $x"))
 }
 object PlotTrip extends App {
   val caledoniaTo233 = ElevationParser.parse(1082.7, 1101.5)
@@ -118,9 +123,12 @@ object ElevationParser {
       (MileToX(0, distanceXs.head), MileToX(100, distanceXs.last))
     }
 
+    //(high = AltitudeToY(y = 28.0,1000.0),low = AltitudeToY(y = 2.0,4000.0))
     case class Point(x: Double, y: Double)
     def mile(x: Double): Double = (south.mile + ((x - south.x) / (north.x - south.x) * (north.mile - south.mile)))
-    def alt(y: Double): Double = (low.y - y) / (low.y - high.y) * high.alt
+    def alt(y: Double): Double = (low.alt + (((low.y - y) / (low.y - high.y)) * (high.alt - low.alt))) //.tap(x => println(s"ElevationParser.scala:124: $y -> $x"))
+
+    //
     section
       .\\("@points")
       .map(n => n.toString.split(","))
