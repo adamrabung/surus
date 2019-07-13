@@ -6,7 +6,24 @@ Array.prototype.min = function() {
   return Math.min.apply(null, this);
 };
 
-function render(start, end) {
+function resizeChart () {
+    chart.draw(data, options);
+}
+if (document.addEventListener) {
+    window.addEventListener('resize', render);
+}
+else if (document.attachEvent) {
+    window.attachEvent('onresize', render);
+}
+else {
+    window.resize = resizeChart;
+}
+
+function render() {
+	render0(document.getElementById("start").value, document.getElementById("end").value)
+}
+
+function render0(start, end) {
 	google.charts.load('current', {
 		'packages': ['corechart']
 	});
@@ -21,7 +38,7 @@ function render(start, end) {
 		var data = google.visualization.arrayToDataTable(ssm)
 		
 		var options = {
-			title: 'May vs. October',
+			title: '',
 			hAxis: {
 				title: 'Mile',
 				titleTextStyle: {

@@ -8,7 +8,7 @@
 <script>
 $(document).ready(function(){
 	document.getElementById("drawButton").addEventListener('click', function() {  
-		render(document.getElementById("start").value, document.getElementById("end").value)
+		render()
 	}, false);
 });
 </script>
@@ -18,6 +18,6 @@ $(document).ready(function(){
 	<input type="text" id="end">
 	<button label="draw" id="drawButton">Win</button>
 <br/>
-<div id="chart_div" style="width: 100%"></div>
+<div id="chart_div" style="height:600px"></div>
 </body>
 </html>

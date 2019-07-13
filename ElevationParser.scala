@@ -3,6 +3,21 @@ package surus
 import scala.xml.XML
 import ImplicitConversions._
 
+object MarchMadness extends App {
+  case class Pick(person: String, team: String, champ: Boolean, currPts: Int)
+  val picks = Seq(Pick("henry", "kansas", true, 720), Pick("lucy", "villa", false, 590), Pick("jen", "mich", true, 560), Pick("adam", "villa", true, 490))
+  for {
+    f1 <- Seq("mich", "loyola")
+    f2 <- Seq("kansas", "villa")
+    finals = Seq(f1, f2)
+    champ <- finals
+  } yield {
+    picks.map(p => (p.person, p.currPts + ((if (finals.contains(p.team)) 160 else 0) + (if (champ == p.team && p.champ) 320 else 0))))
+      .sortBy(_._2 * -1)
+      .tap(x => println(s"$champ beats ${finals.filter(_ !=  champ).head}: ${x.mkString(",")}"))
+  }
+}
+
 object SaveData extends App {
   def f(d: Double, scale: Int) = BigDecimal(d).setScale(scale, BigDecimal.RoundingMode.HALF_UP).toDouble
   //(3016 to 3016)
