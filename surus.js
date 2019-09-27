@@ -31,12 +31,17 @@ function render0(start, end) {
 
 	function drawChart() {
 		var ssm = allPoints.filter(function(mileAndAlt) { return mileAndAlt[0] > start && mileAndAlt[0] < end })
-		ssm.unshift(["Miles", "Alt"])
+		//ssm.unshift(["Miles", "Alt", "Tooltip"])
 		var alts = ssm.map(function(mileAndAlt) { return mileAndAlt[1] })
 		alts.shift()
 		var min = alts.min()
-		var data = google.visualization.arrayToDataTable(ssm)
 		
+		var data = new google.visualization.DataTable();
+		data.addColumn('number', 'Dist'); 
+		data.addColumn('number', 'Elevation (ft)'); 
+		data.addColumn({type:'string', role:'tooltip'}); 
+		data.addRows(ssm)
+
 		var options = {
 			title: '',
 			hAxis: {
