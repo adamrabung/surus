@@ -1,21 +1,68 @@
 package surus
 
-import scala.xml.XML
 import ImplicitConversions._
 
-object SaveData extends App {
+object Run extends App {
+  Grapher
+    //.graphTrip(Trip(start = 564.7, end = 656.1))
+    .graphTrip(Trip(start = 932.8, end = 983.5))
+    .into(excelFormat)
+    .tap(x => println(s"ElevationParser.scala:6: $x"))
+
+  def excelFormat(tps: Seq[TrailPoint]): String = {
+    tps
+      .map(tp => s"${tp.miles},${tp.altitude}")
+      .+:("Mile,Altitude")
+      .mkString("\n")
+  }
+}
+
+// 564.7 VA 625
+// 579.9 Jenkins Shelter
+// 593.4 Helveys Mill Shelter
+// 609.6 Trent's
+// 624.8 Wood's Hole Hostel
+// 633 Flavor Country Camp
+// 643.2 Rice Field Shelter - bad water, water campsite 1.6 further
+// 656.1 VA 635
+case class TrailPoint(miles: Double, altitude: Double)
+case class Trip(start: Double, end: Double) {
+  def includes(tp: TrailPoint): Boolean = tp.miles >= Math.min(start, end) && tp.miles <= Math.max(start, end)
+}
+object Grapher {
+  def graphTrip(trip: Trip) = {
+    Db.trailPoints.filter(trip.includes).into(normalize)
+  }
+
+  def normalize(tps: Seq[TrailPoint]): Seq[TrailPoint] = {
+    val start = tps.head.miles
+    val low = tps.map(_.altitude).min
+    tps.map(tp => TrailPoint(tp.miles - start, tp.altitude - low))
+  }
+}
+object Db extends App {
+  import java.io._
+  import scala.io.Source
+
+  lazy val db = new File("/Users/adam/projects/surus/allMiles.txt")
+
+  private def parse(tp: String) = {
+    val Array(miles, altitude) = tp.split(",").map(_.trim)
+    TrailPoint(miles.toDouble, altitude.toInt)
+  }
+  lazy val trailPoints: Seq[TrailPoint] = Source.fromFile(db).getLines.map(parse).toList
   def save() = {
     def f(d: Double, scale: Int) = BigDecimal(d).setScale(scale, BigDecimal.RoundingMode.HALF_UP).toDouble
     //(3016 to 3016)
     (3001 to 3044)
       .flatMap(ElevationParser.parse)
-      .map(tp => s"${f(tp.miles, 5)}, ${f(tp.altitude, 2)}")
+      .map(tp => s"${f(tp.miles, 2)}, ${tp.altitude.toInt}")
       .mkString("\n")
       .tap(write)
 
     def write(allMiles: String) = {
-      import java.io._
-      val pw = new PrintWriter(new File("/Users/adam/projects/surus/allMiles.txt"))
+
+      val pw = new PrintWriter(db)
       pw.write(allMiles)
       pw.close
     }
@@ -66,7 +113,7 @@ object PlotTrip extends App {
   //   .tap(tps => println()
 }
 
-case class RelativeTrailPoint(relativeMiles: Double, relativeAltitude: Double, private val tp: ElevationParser.TrailPoint) {
+case class RelativeTrailPoint(relativeMiles: Double, relativeAltitude: Double, private val tp: TrailPoint) {
   val altitude = tp.altitude
   val mileMaker = tp.miles
 }
@@ -83,6 +130,7 @@ object ImplicitConversions {
 }
 
 object ElevationParser {
+  import scala.xml.XML
   case class Section(id: Int, name: String, startAtMile: Double)
   val sections = Seq(
     Section(3001, "Springer", 0.0),
@@ -110,7 +158,7 @@ object ElevationParser {
     val low = tps.map(_.altitude).min
     tps.map(tp => RelativeTrailPoint(relativeMiles = Math.abs(tp.miles - start), relativeAltitude = Math.abs(tp.altitude - low), tp))
   }
-  case class TrailPoint(miles: Double, altitude: Double)
+
   def parse(sectionId: Int): Seq[TrailPoint] = {
     val section = XML.load("http://www.wikitrail.org/sections/profile/at/" + sectionId)
     val altituteLines = (section \\ "line" \\ "@y1")
