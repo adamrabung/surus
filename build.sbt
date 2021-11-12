@@ -5,7 +5,7 @@
 
 lazy val root = (project in file(".")).
   settings(
-    resolvers += "jcenter" at "http://jcenter.bintray.com",
+    resolvers += "jcenter" at "https://jcenter.bintray.com",
     name := "surus",
     version := "1.0",
     scalaVersion := "2.13.2",

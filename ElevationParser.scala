@@ -11,7 +11,7 @@ object Run extends App {
 
   def excelFormat(tps: Seq[TrailPoint]): String = {
     tps
-      .map(tp => s"${tp.miles},${tp.altitude}")
+      .map(tp => s"${tp.miles},${tp.altitude}")s
       .+:("Mile,Altitude")
       .mkString("\n")
   }
