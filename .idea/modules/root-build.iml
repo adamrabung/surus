@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="file:$MODULE_DIR$/../../#root-build" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="BSP" sbt.imports="import _root_.scala.xml.{TopScope=&amp;gt;SUB:DOLLARscope}, import _root_.sbt._, import _root_.sbt.Keys._, import _root_.sbt.nio.Keys._, import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin.autoImport._, _root_.org.scalajs.sbtplugin.ScalaJSPlugin.autoImport._, import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin, _root_.org.scalajs.sbtplugin.ScalaJSJUnitPlugin, _root_.org.scalajs.sbtplugin.ScalaJSPlugin, _root_.org.scalajs.sbtplugin.internal.ScalaJSGlobalPlugin, import SUB:DOLLAR8908dbb69e55cd9972e0.`root`" type="SBT_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../project/target" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../project">
+      <sourceFolder url="file://$MODULE_DIR$/../../project/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../project/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../project/src/main/scala-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../project/src/main/scala-2.12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../project/src/main/scala-sbt-1.0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../project/target/scala-2.12/sbt-1.0/src_managed/main" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="library" name="BSP: /Users/adam/.sbt/boot/scala-2.12.16/org.scala-sbt/sbt/1.7.1/test-interface-1.0" level="project" />
+    <orderEntry type="library" name="BSP: /Users/adam/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0" level="project" />
+    <orderEntry type="library" name="BSP: actions_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: args4j-2.0.26" level="project" />
+    <orderEntry type="library" name="BSP: caffeine-2.8.5" level="project" />
+    <orderEntry type="library" name="BSP: checker-qual-3.4.1" level="project" />
+    <orderEntry type="library" name="BSP: closure-compiler-externs-java-6-v20160517" level="project" />
+    <orderEntry type="library" name="BSP: closure-compiler-java-6-v20160517" level="project" />
+    <orderEntry type="library" name="BSP: collections_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: command_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: compiler-bridge_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: compiler-interface-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: completion_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: config-1.4.2" level="project" />
+    <orderEntry type="library" name="BSP: core-macros_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: disruptor-3.4.2" level="project" />
+    <orderEntry type="library" name="BSP: envjs-1.2" level="project" />
+    <orderEntry type="library" name="BSP: error_prone_annotations-2.4.0" level="project" />
+    <orderEntry type="library" name="BSP: file-tree-views-2.1.9" level="project" />
+    <orderEntry type="library" name="BSP: gigahorse-apache-http_2.12-0.7.0" level="project" />
+    <orderEntry type="library" name="BSP: gigahorse-core_2.12-0.7.0" level="project" />
+    <orderEntry type="library" name="BSP: gson-2.7" level="project" />
+    <orderEntry type="library" name="BSP: guava-19.0" level="project" />
+    <orderEntry type="library" name="BSP: io_2.12-1.7.0" level="project" />
+    <orderEntry type="library" name="BSP: ipcsocket-1.5.0" level="project" />
+    <orderEntry type="library" name="BSP: ivy-2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745" level="project" />
+    <orderEntry type="library" name="BSP: jansi-2.1.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493" level="project" />
+    <orderEntry type="library" name="BSP: jline-builtins-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-reader-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-style-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-terminal-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-terminal-jansi-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline-terminal-jna-3.19.0" level="project" />
+    <orderEntry type="library" name="BSP: jline" level="project" />
+    <orderEntry type="library" name="BSP: jna-4.5.0" level="project" />
+    <orderEntry type="library" name="BSP: jna-5.12.0" level="project" />
+    <orderEntry type="library" name="BSP: jna-platform-4.5.0" level="project" />
+    <orderEntry type="library" name="BSP: jna-platform-5.12.0" level="project" />
+    <orderEntry type="library" name="BSP: jsch-0.1.54" level="project" />
+    <orderEntry type="library" name="BSP: json-simple-1.1.1" level="project" />
+    <orderEntry type="library" name="BSP: jsr305-3.0.2" level="project" />
+    <orderEntry type="library" name="BSP: launcher-interface-1.3.3" level="project" />
+    <orderEntry type="library" name="BSP: librarymanagement-core_2.12-1.7.0" level="project" />
+    <orderEntry type="library" name="BSP: librarymanagement-ivy_2.12-1.7.0" level="project" />
+    <orderEntry type="library" name="BSP: lm-coursier-shaded_2.12-2.0.10" level="project" />
+    <orderEntry type="library" name="BSP: log4j-api-2.17.1" level="project" />
+    <orderEntry type="library" name="BSP: log4j-core-2.17.1" level="project" />
+    <orderEntry type="library" name="BSP: log4j-slf4j-impl-2.17.1" level="project" />
+    <orderEntry type="library" name="BSP: logic_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: main-settings_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: main_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: protobuf-java-2.5.0" level="project" />
+    <orderEntry type="library" name="BSP: protocol_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: reactive-streams-1.0.3" level="project" />
+    <orderEntry type="library" name="BSP: rhino-1.7R5pre4" level="project" />
+    <orderEntry type="module-library">
+      <library name="BSP: root-build dependencies">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.sbt/1.0/plugins/target/scala-2.12/sbt-1.0/classes" />
+          <root url="file://$MODULE_DIR$/../../project/target/scala-2.12/sbt-1.0/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="BSP: root-build test dependencies">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="BSP: run_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: sbinary_2.12-0.5.1" level="project" />
+    <orderEntry type="library" name="BSP: sbt-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: sbt-bloop-1.4.0-RC1-229-b7c15aa9" level="project" />
+    <orderEntry type="library" name="BSP: sbt-scalajs" level="project" />
+    <orderEntry type="library" name="BSP: scala-collection-compat_2.12-2.6.0" level="project" />
+    <orderEntry type="library" name="BSP: scala-compiler" level="project" />
+    <orderEntry type="library" name="BSP: scala-library" level="project" />
+    <orderEntry type="library" name="BSP: scala-parser-combinators_2.12-1.1.2" level="project" />
+    <orderEntry type="library" name="BSP: scala-reflect-2.12.16" level="project" />
+    <orderEntry type="library" name="BSP: scala-reflect" level="project" />
+    <orderEntry type="library" name="BSP: scala-xml_2.12-1.3.0" level="project" />
+    <orderEntry type="library" name="BSP: scala-xml_2.12" level="project" />
+    <orderEntry type="library" name="BSP: scalajs-ir_2.12-0.6.22" level="project" />
+    <orderEntry type="library" name="BSP: scalajs-js-envs_2.12-0.6.22" level="project" />
+    <orderEntry type="library" name="BSP: scalajs-sbt-test-adapter_2.12-0.6.22" level="project" />
+    <orderEntry type="library" name="BSP: scalajs-tools_2.12-0.6.22" level="project" />
+    <orderEntry type="library" name="BSP: scripted-plugin_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: shaded-apache-httpasyncclient-0.7.0" level="project" />
+    <orderEntry type="library" name="BSP: shaded-jawn-parser_2.12-0.9.1" level="project" />
+    <orderEntry type="library" name="BSP: shaded-scalajson_2.12-1.0.0-M4" level="project" />
+    <orderEntry type="library" name="BSP: sjson-new-core_2.12-0.9.1" level="project" />
+    <orderEntry type="library" name="BSP: sjson-new-murmurhash_2.12-0.9.1" level="project" />
+    <orderEntry type="library" name="BSP: sjson-new-scalajson_2.12-0.9.1" level="project" />
+    <orderEntry type="library" name="BSP: slf4j-api-1.7.28" level="project" />
+    <orderEntry type="library" name="BSP: ssl-config-core_2.12-0.6.1" level="project" />
+    <orderEntry type="library" name="BSP: task-system_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: tasks_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: template-resolver-0.1" level="project" />
+    <orderEntry type="library" name="BSP: test-agent-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: testing_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-cache_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-control_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-interface-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-logging_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-position_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-relation_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: util-tracking_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zero-allocation-hashing-0.10.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-apiinfo_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-classfile_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-classpath_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-compile-core_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-compile_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-core_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-lm-integration_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-persist-core-assembly-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc-persist_2.12-1.7.1" level="project" />
+    <orderEntry type="library" name="BSP: zinc_2.12-1.7.1" level="project" />
+  </component>
+  <component name="SbtModule">
+    <option name="buildForURI" value="file:$MODULE_DIR$/../../#root/Test" />
+    <option name="imports" value="import _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}, import _root_.sbt._, import _root_.sbt.Keys._, import _root_.sbt.nio.Keys._, import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin.autoImport._, _root_.org.scalajs.sbtplugin.ScalaJSPlugin.autoImport._, import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin, _root_.org.scalajs.jsdependencies.sbtplugin.JSDependenciesPlugin, _root_.org.scalajs.sbtplugin.ScalaJSJUnitPlugin, _root_.org.scalajs.sbtplugin.ScalaJSPlugin, _root_.org.scalajs.sbtplugin.internal.ScalaJSGlobalPlugin, import SUB:DOLLAR8908dbb69e55cd9972e0.`root`" />
+  </component>
+</module>

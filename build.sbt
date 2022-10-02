@@ -1,8 +1,3 @@
-
-// This is an application with a main method
-// scalaJSUseMainModuleInitializer := true
-// enablePlugins(ScalaJSPlugin)
-
 lazy val root = (project in file(".")).
   settings(
     resolvers += "jcenter" at "https://jcenter.bintray.com",

@@ -1,6 +1,6 @@
 package surus
 
-import ImplicitConversions._
+import surus.ImplicitConversions._
 
 object Run extends App {
   Grapher
@@ -11,7 +11,7 @@ object Run extends App {
 
   def excelFormat(tps: Seq[TrailPoint]): String = {
     tps
-      .map(tp => s"${tp.miles},${tp.altitude}")s
+      .map(tp => s"${tp.miles},${tp.altitude}")
       .+:("Mile,Altitude")
       .mkString("\n")
   }
