@@ -32,7 +32,7 @@ object DailyMiles extends App {
   private def paths(start: TrailPoint, end: TrailPoint, allPoints: Seq[TrailPoint], direction: Int): Seq[Seq[TrailPoint]] = {
     if (end.mile - start.mile < maxLastDay) {
       Seq(Seq(start, end))
-    } else {
+    } else { 
       allPoints
         .dropWhile(p => p.mile - start.mile <= minDay)
         .takeWhile(p => p.mile - start.mile <= maxDay && p != end)
