@@ -1,15 +1,15 @@
 package surus
 
-import scala.util.chaining.scalaUtilChainingOps
+import surus.ImplicitConversions.RichU
 
 object DailyMiles extends App {
-  allPaths(point("Fontana Dam Visitor Center"), point("Garenflo Gap/1173"), maxDays = 8)
+  allPaths(point("Groundhog Creek"), point("Sam's Gap"), maxDays = 5)
     .foreach(route => println(format(route) + "\n\n\n"))
 
   def allPaths(start: TrailPoint, stop: TrailPoint, maxDays: Int): Seq[Seq[TrailPoint]] = {
     paths(start, stop, allPoints, direction = math.signum(stop.mile.toInt - start.mile.toInt))
       .filter(path => path.contains(stop))
-      .filter(_.length == maxDays + 1) //x days + the 2 termini
+      //.filter(_.length == maxDays + 1) //x days + the 2 termini
   }
 
   def format(route: Seq[TrailPoint]): String = {
@@ -25,18 +25,18 @@ object DailyMiles extends App {
       }
   }
 
-  lazy val maxDay = 15.8
-  lazy val minDay = 10.6 //setting this to 11 means we find no routes, wtf?
-  lazy val maxLastDay = 8
+  lazy val maxDay = 16
+  lazy val minDay = 10 //setting this to 11 means we find no routes, wtf?
+  lazy val maxLastDay = maxDay
 
   private def paths(start: TrailPoint, end: TrailPoint, allPoints: Seq[TrailPoint], direction: Int): Seq[Seq[TrailPoint]] = {
     if (end.mile - start.mile < maxLastDay) {
       Seq(Seq(start, end))
-    } else { 
+    } else {
       allPoints
         .dropWhile(p => p.mile - start.mile <= minDay)
         .takeWhile(p => p.mile - start.mile <= maxDay && p != end)
-        //.tap(x => println(s"DailyMiles.scala:36 $start => $x"))
+        .tap(x => println(s"DailyMiles.scala:36 $start => $x"))
         .flatMap { next =>
           val pathsFromHere = paths(next, end, allPoints, direction)
           if (pathsFromHere.nonEmpty) {
