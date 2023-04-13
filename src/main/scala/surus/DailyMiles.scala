@@ -1,10 +1,7 @@
 package surus
 
-import surus.ImplicitConversions.RichU
-
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
-import java.time.temporal.TemporalAmount
 
 object DailyMiles extends App {
   //allPaths(point("Yellow Creek Road"), point("Max Patch Parking"), maxDays = 5).foreach(route => println(format(route) + "\n\n\n"))
@@ -28,10 +25,6 @@ object DailyMiles extends App {
         s"\nTotal: ${total.abs.formatted("%2.1f")}, days: $days, max: ${max}, average: ${(total.abs / days).formatted("%2.1f")}"
       }
   }
-
-  //lazy val maxDay = 16
-  //  lazy val minDay = 10 //setting this to 11 means we find no routes, wtf?
-  //  lazy val maxLastDay = 10
 
   private def paths(start: TrailPoint, end: TrailPoint, allPoints: Seq[TrailPoint], direction: Int, minDay: Int, maxDay: Int, maxLastDay: Int): Seq[Seq[TrailPoint]] = {
     if (end.mile - start.mile < maxLastDay) {
