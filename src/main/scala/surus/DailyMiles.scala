@@ -2,43 +2,47 @@ package surus
 
 import surus.ImplicitConversions.RichU
 
-object DailyMiles extends App {
-  allPaths(point("Groundhog Creek"), point("Sam's Gap"), maxDays = 5)
-    .foreach(route => println(format(route) + "\n\n\n"))
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
+import java.time.temporal.TemporalAmount
 
-  def allPaths(start: TrailPoint, stop: TrailPoint, maxDays: Int): Seq[Seq[TrailPoint]] = {
-    paths(start, stop, allPoints, direction = math.signum(stop.mile.toInt - start.mile.toInt))
+object DailyMiles extends App {
+  //allPaths(point("Yellow Creek Road"), point("Max Patch Parking"), maxDays = 5).foreach(route => println(format(route) + "\n\n\n"))
+  allPaths(point("Fontana Dam Visitor Center"), point("Max Patch Parking"), minDay = 10, maxDay = 16, maxLastDay = 10).foreach(route => println(format(route, LocalDate.of(2023, 4, 30)) + "\n\n\n"))
+
+  def allPaths(start: TrailPoint, stop: TrailPoint, minDay: Int, maxDay: Int, maxLastDay: Int): Seq[Seq[TrailPoint]] = {
+    paths(start, stop, allPoints, direction = math.signum(stop.mile.toInt - start.mile.toInt), minDay = minDay, maxDay = maxDay, maxLastDay = maxLastDay)
       .filter(path => path.contains(stop))
-      //.filter(_.length == maxDays + 1) //x days + the 2 termini
+    //.filter(_.length == maxDays + 1) //x days + the 2 termini
   }
 
-  def format(route: Seq[TrailPoint]): String = {
+  private def format(route: Seq[TrailPoint], startDate: LocalDate): String = {
     route.sliding(2).toList
-      .map { case Seq(p1, p2) => s"${p1.name}-${p2.name} (${(p2.mile - p1.mile).abs.formatted("%2.1f")})" }
+      .zip(Iterator.iterate(startDate)(_.plusDays(1)).map(d => d.format(DateTimeFormatter.ofPattern("EEE M-d"))))
+      .map { case (Seq(p1, p2), day) => s"$day: ${p1.name}-${p2.name} (${(p2.mile - p1.mile).abs.formatted("%2.1f")})" }
       .mkString("\n")
       .+ {
         val total = math.abs(route.head.mile - route.last.mile)
         val days = route.length - 1
         val max = route.sliding(2).map { case Seq(p1, p2) => p2.mile - p1.mile }.max.formatted("%2.1f")
-
         s"\nTotal: ${total.abs.formatted("%2.1f")}, days: $days, max: ${max}, average: ${(total.abs / days).formatted("%2.1f")}"
       }
   }
 
-  lazy val maxDay = 16
-  lazy val minDay = 10 //setting this to 11 means we find no routes, wtf?
-  lazy val maxLastDay = maxDay
+  //lazy val maxDay = 16
+  //  lazy val minDay = 10 //setting this to 11 means we find no routes, wtf?
+  //  lazy val maxLastDay = 10
 
-  private def paths(start: TrailPoint, end: TrailPoint, allPoints: Seq[TrailPoint], direction: Int): Seq[Seq[TrailPoint]] = {
+  private def paths(start: TrailPoint, end: TrailPoint, allPoints: Seq[TrailPoint], direction: Int, minDay: Int, maxDay: Int, maxLastDay: Int): Seq[Seq[TrailPoint]] = {
     if (end.mile - start.mile < maxLastDay) {
       Seq(Seq(start, end))
     } else {
       allPoints
         .dropWhile(p => p.mile - start.mile <= minDay)
         .takeWhile(p => p.mile - start.mile <= maxDay && p != end)
-        .tap(x => println(s"DailyMiles.scala:36 $start => $x"))
+        //.tap(x => println(s"DailyMiles.scala:36 $start => $x"))
         .flatMap { next =>
-          val pathsFromHere = paths(next, end, allPoints, direction)
+          val pathsFromHere = paths(start = next, end = end, allPoints = allPoints, direction = direction, minDay = minDay, maxDay = maxDay, maxLastDay = maxLastDay)
           if (pathsFromHere.nonEmpty) {
             pathsFromHere.map(pathFromHere => Seq(start) ++ pathFromHere)
           }
@@ -50,7 +54,9 @@ object DailyMiles extends App {
   }
 
   private lazy val pointForName = allPoints.map(p => p.name.trim -> p).toMap
+
   def point(name: String) = pointForName.get(name).getOrElse(sys.error(s"no point found for name $name: ${pointForName.keys.mkString("\n")}"))
+
   lazy val allPoints = {
     """
       |158.4	Yellow Creek Road
