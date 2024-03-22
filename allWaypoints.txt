@@ -1,0 +1,2808 @@
+0.0, Springer Mtn, None, View
+0.2, Springer Mountain Shelter, Some(0.2E), Shelter
+0.2, Springer Mountain Shelter Water Source, Some(0.2E), Good water source
+1.0, USFS 42, None, Road
+2.0, Benton MacKaye Trail, None, Side trail
+2.8, Stover Creek Shelter, Some(0.2E), Shelter
+2.8, Stover Creek Shelter Water Source, Some(0.2E), Good water source
+3.8, Stover Creek, None, Good water source
+4.2, Benton MacKaye Trail / Duncan Ridge Trail, None, Side trail
+4.3, Three Forks, None, Campsite
+4.3, Three Forks, None, Good water source
+4.3, USFS 58, None, Road
+5.2, water source, None, Good water source
+6.2, Logging Rd, None, Road
+8.1, Hawk Mountain Shelter, Some(0.2W), Shelter
+8.1, Hawk Mountain Shelter Water Source, Some(0.2W, 0.2W), Good water source
+8.6, USFS 42/69, None, Road
+10.5, Horse Gap, None, Road
+11.5, Sassafras Mountain, None, Other
+12.2, USFS 42/80, None, Road
+12.8, Justus Mountain, None, Other
+14.3, Justus Creek, None, Good water source
+15.5, Blackwell Creek, None, Good water source
+15.8, Gooch Mountain Shelter, Some(0.1W), Shelter
+15.8, Gooch Mountain Shelter Water Source, Some(0.1W), Good water source
+17.3, Gooch Gap, None, Good water source
+17.3, USFS 42, None, Road
+18.4, Liss Gap, None, Other
+19.0, Ramrock Mtn, None, Other
+20.8, A.T. Hiker Hostel, Some(7.0E), Hostel
+20.8, Two Wheels Only, Some(2.0W), Campsite
+20.8, Suches General Store, Some(2.0W), Short term resupply
+20.8, Suches GA, Some(2.0W), Town
+20.8, Don L. Pruitt, M.D., Some(2.0W), Medical
+20.8, Suches GA PO, Some(2.0W), Post office
+20.8, Wes Wisson, Some(2.0W), Shuttle
+20.8, Ga. 60, None, Road
+22.1, Big Cedar Mountain, None, Other
+23.9, Dockery Lake Trail, None, Side trail
+24.4, Lance Creek, Some(0.1E), Good water source
+26.8, Jarrard Gap, None, Other
+28.2, Woods Hole Shelter, Some(0.5W), Shelter
+28.2, Woods Hole Shelter Water Source, Some(0.5W), Good water source
+28.6, Slaughter Creek Campsite, None, Campsite
+28.6, water source, None, Good water source
+29.3, Blood Mountain Shelter, None, Shelter
+31.7, Mountain Crossings at Walasi-Yi Center, None, Hostel
+31.7, Blood Mountain Cabins, Some(0.3E), Hotel
+31.7, Mountain Crossings at Walasi-Yi Center, None, Short term resupply
+31.7, Neel Gap, US 19, None, Road
+31.7, Mountain Crossings at Walasi-Yi Center, None, Hostel
+31.7, Blood Mountain Cabins, Some(0.3E), Hotel
+31.7, Mountain Crossings at Walasi-Yi Center, None, Short term resupply
+31.7, Neel Gap, US 19, None, Road
+32.8, Bull Gap, None, Campsite
+32.8, water source, None, Good water source
+34.7, Rock Spring Top, None, Good water source
+35.9, Baggs Creek Gap, None, Good water source
+37.7, Ga. 348, None, Road
+38.4, Whitley Gap Shelter, Some(1.2E), Shelter
+38.6, water source, None, Good water source
+38.6, GA 348, None, Road
+43.2, Low Gap Shelter, None, Shelter
+43.2, Low Gap Shelter Water Source, None, Good water source
+44.6, Poplar Stomp Gap, None, Campsite
+44.6, water source, None, Good water source
+48.2, Chattahoochee Gap, Some(0.5E), Good water source
+49.6, Campsite, None, Campsite
+49.8, Spring, None, Good water source
+50.5, Blue Mountain Shelter, None, Shelter
+50.5, Blue Mountain Shelter Water Source, None, Good water source
+52.7, Helen, GA, Some(9.0E), Town
+52.9, Hofbrau Riverfront Hotel, None, Hotel
+52.9, Super 8 Motel, None, Hotel
+52.9, Helendorf River Inn, None, Hotel
+52.9, Best Western, None, Hotel
+52.9, Econolodge, None, Hotel
+52.9, Bettys Country Store and Deli, None, Long term resupply
+52.9, White County Library, Helen Branch, None, Internet
+52.9, Helen, GA PO, None, Post office
+53.5, Stream, None, Good water source
+54.3, Campsite, None, Campsite
+55.6, USFS 283, None, Road
+56.3, USFS 79, None, Road
+56.6, Cheese Factory Site, None, Campsite
+56.6, water source, None, Good water source
+57.4, USFS 79, None, Road
+58.2, Tray Mtn, None, Other
+58.6, Tray Mountain Shelter, Some(0.2W), Shelter
+58.6, Tray Mountain Shelter Water Source, Some(0.2W, 0.1), Good water source
+63.3, Sassafras Gap, None, Good water source
+64.1, Addis Gap, None, Other
+65.2, Kelly Knob, None, Other
+66.0, Deep Gap Shelter, Some(0.3E), Shelter
+66.0, Deep Gap Shelter Water Source, Some(0.3E), Good water source
+67.2, Campsite, None, Campsite
+69.0, Streams, None, Good water source
+69.6, Blueberry Patch, Some(3.5W), Hostel
+69.6, The Buckhead House, Some(11.0W), Hotel
+69.6, Hiawassee Budget Inn, Some(11.0W), Hotel
+69.6, Mulls Motel, Some(11.0W), Hotel
+69.6, Holiday Inn Express, Some(11.0W), Hotel
+69.6, Blueberry Patch, Some(3.5W), Restaurant
+69.6, Hiawassee Budget Inn, Some(11.0W), Short term resupply
+69.6, Ingles, Some(11.0W), Long term resupply
+69.6, Dills Food City, Some(11.0W), Long term resupply
+69.6, China Grill, Some(11.0W), Restaurant
+69.6, Daniels Steakhouse, Some(11.0W), Restaurant
+69.6, Georgia Mountain Restaurant, Some(11.0W), Restaurant
+69.6, Dicks Creek Gap, US 76, None, Road
+69.6, Hiawassee, GA, Some(11.0W), Town
+69.6, Towns County Public Library, Some(11.0W), Internet
+69.6, Hiawassee, GA PO, Some(11.0W), Post office
+69.6, Chatugue Regional Hospital, Some(11.0W), Medical
+69.6, Blueberry Patch, Some(3.5W), Hostel
+69.6, The Buckhead House, Some(11.0W), Hotel
+69.6, Hiawassee Budget Inn, Some(11.0W), Hotel
+69.6, Mulls Motel, Some(11.0W), Hotel
+69.6, Holiday Inn Express, Some(11.0W), Hotel
+69.6, Blueberry Patch, Some(3.5W), Restaurant
+69.6, Hiawassee Budget Inn, Some(11.0W), Short term resupply
+69.6, Ingles, Some(11.0W), Long term resupply
+69.6, Dills Food City, Some(11.0W), Long term resupply
+69.6, China Grill, Some(11.0W), Restaurant
+69.6, Daniels Steakhouse, Some(11.0W), Restaurant
+69.6, Georgia Mountain Restaurant, Some(11.0W), Restaurant
+69.6, Dicks Creek Gap, US 76, None, Road
+69.6, Hiawassee, GA, Some(11.0W), Town
+69.6, Towns County Public Library, Some(11.0W), Internet
+69.6, Hiawassee, GA PO, Some(11.0W), Post office
+69.6, Chatugue Regional Hospital, Some(11.0W), Medical
+70.7, Campsite, None, Campsite
+70.7, water source, None, Good water source
+74.1, Plumorchard Gap Shelter, Some(0.2E), Shelter
+74.1, Plumorchard Gap Shelter Water Source, Some(0.2E), Good water source
+76.4, Campsite, None, Campsite
+76.4, water source, None, Good water source
+78.5, GA-NC State Line, None, Other
+78.6, Bly Gap, None, Campsite
+78.6, water source, None, Good water source
+81.4, Muskrat Creek Shelter, None, Shelter
+81.4, Muskrat Creek Shelter Water Source, None, Good water source
+82.4, Chunky Gal Trail, None, Side trail
+85.4, USFS 71, None, Road
+85.4, water source, None, Good water source
+86.3, Standing Indian Shelter, None, Shelter
+86.3, Standing Indian Shelter Water Source, None, Good water source
+87.8, Standing Indian Mtn, None, Other
+90.7, Beech Gap, None, Campsite
+90.7, water source, None, Good water source
+93.9, Carter Gap Shelter, None, Shelter
+93.9, Carter Gap Shelter Water Source, None, Good water source
+97.6, Betty Creek Gap, None, Campsite
+97.6, water source, None, Good water source
+98.5, USFS 83, None, Road
+98.7, Spring, None, Good water source
+99.8, USFS 67, None, Road
+100.1, Albert Mtn, None, View
+102.5, Long Branch Shelter, None, Shelter
+102.5, Long Branch Shelter Water Source, None, Good water source
+104.8, Big Spring Shelter Water Source, None, Good water source
+106.0, Rock Gap Shelter, None, Shelter
+106.0, Rock Gap Shelter Water Source, None, Good water source
+106.7, Old U.S. 64, None, Road
+109.8, Microtel Inn  Suites, Some(10.0E), Hotel
+109.8, Havens Budget Inn, Some(10.0E), Hotel
+109.8, Franklin Motel, Some(10.0E), Hotel
+109.8, Ingles, Some(10.0E), Long term resupply
+109.8, Shoneys, Some(10.0E), Restaurant
+109.8, Outdoor 76, Some(10.0E), Short term resupply
+109.8, Winding Stair Gap, US 64, None, Road
+109.8, Franklin, NC, Some(10.0E), Town
+109.8, Franklin, NC PO, Some(10.0E), Post office
+109.8, Macon County Library, Rathskeller, Some(10.0E), Internet
+109.8, Roadrunner Driving Services, Some(10.0E), Shuttle
+109.8, Larrys Taxi and Shuttle, Some(10.0E), Shuttle
+109.8, Three Eagles Outfitters, Some(10.0E), Outfitter
+109.8, Angel Urgent Care Center, Some(10.0E), Medical
+109.8, Microtel Inn  Suites, Some(10.0E), Hotel
+109.8, Havens Budget Inn, Some(10.0E), Hotel
+109.8, Franklin Motel, Some(10.0E), Hotel
+109.8, Ingles, Some(10.0E), Long term resupply
+109.8, Shoneys, Some(10.0E), Restaurant
+109.8, Outdoor 76, Some(10.0E), Short term resupply
+109.8, Winding Stair Gap, US 64, None, Road
+109.8, Franklin, NC, Some(10.0E), Town
+109.8, Franklin, NC PO, Some(10.0E), Post office
+109.8, Macon County Library, Rathskeller, Some(10.0E), Internet
+109.8, Roadrunner Driving Services, Some(10.0E), Shuttle
+109.8, Larrys Taxi and Shuttle, Some(10.0E), Shuttle
+109.8, Three Eagles Outfitters, Some(10.0E), Outfitter
+109.8, Angel Urgent Care Center, Some(10.0E), Medical
+110.7, Campsite, None, Campsite
+110.7, water source, None, Good water source
+114.0, Siler Bald Shelter, Some(0.5E), Shelter
+114.0, Siler Bald Shelter Water Source, Some(0.5E), Good water source
+115.4, spring, None, Good water source
+115.7, camping, None, Campsite
+115.7, S.R. 1310, None, Road
+117.5, water source, None, Good water source
+117.5, USFS 69, None, Road
+118.0, campsite, None, Campsite
+118.0, Wine Spring, None, Good water source
+118.0, Bartram Trail, None, Side trail
+120.0, Wayah Tower, None, View
+120.3, Campsite, None, Campsite
+120.3, water source, None, Good water source
+120.5, Bartram Trail, None, Side trail
+120.8, Wayah Shelter, None, Shelter
+120.8, Wayah Shelter Water Source, None, Good water source
+121.4, campsite, None, Campsite
+122.5, Dicklog Gap, None, Good water source
+124.4, S.R. 1397, None, Road
+125.6, Cold Spring Shelter, None, Shelter
+125.6, Cold Spring Shelter Water Source, None, Good water source
+127.8, Spring, None, Good water source
+129.2, Tellico Gap, S.R. 1365, None, Road
+131.3, Spring, None, Good water source
+131.4, Wesser Bald Shelter, None, Shelter
+131.4, Wesser Bald Shelter Water Source, None, Good water source
+133.0, Jump-up Lookout, None, View
+136.3, A. Rufus Morgan Shelter, None, Shelter
+136.3, A. Rufus Morgan Shelter Water Source, None, Good water source
+137.1, Nantahala Outdoor Center, None, Hostel
+137.1, Nantahala Outdoor Center, None, Restaurant
+137.1, Ingles, Some(13.0E), Long term resupply
+137.1, Bryson City, NC, Some(13.0E), Town
+137.1, Bryson City, NC PO, Some(13.0E), Post office
+137.1, U.S. 19, U.S. 74, None, Road
+138.7, Wright Gap, None, Road
+144.0, Sassafras Gap Shelter, None, Shelter
+144.0, Sassafras Gap Shelter Water Source, None, Good water source
+145.2, Cheoah Bald, None, View
+147.6, Locust Cove Gap, None, Campsite
+147.6, water source, None, Good water source
+150.7, Stecoah Gap, N.C. 143, None, Road
+150.7, water source, None, Good water source
+153.1, Brown Fork Gap Shelter, None, Shelter
+153.1, Brown Fork Gap Shelter Water Source, None, Good water source
+155.9, Cody Gap, None, Campsite
+155.9, water source, None, Good water source
+158.3, S.R. 1242, None, Road
+159.2, Cable Gap Shelter, None, Shelter
+159.2, Cable Gap Shelter Water Source, None, Good water source
+162.2, Campsite, None, Campsite
+162.2, water source, None, Good water source
+164.7, Fontana Lodge, Some(2.0W), Hotel
+164.7, Fontana General Store, Some(2.0W), Short term resupply
+164.7, Fontana Dam, NC, Some(2.0W), Town
+164.7, NC 28, None, Road
+164.7, Hazel Creek Outfitter, Some(2.0W), Outfitter
+164.7, Fontana Dam, NC PO, Some(2.0W), Post office
+164.7, Fontana Lodge, Some(2.0W), Hotel
+164.7, Fontana General Store, Some(2.0W), Short term resupply
+164.7, Fontana Dam, NC, Some(2.0W), Town
+164.7, NC 28, None, Road
+164.7, Hazel Creek Outfitter, Some(2.0W), Outfitter
+164.7, Fontana Dam, NC PO, Some(2.0W), Post office
+165.9, Fontana Dam Shelter, None, Shelter
+165.9, Fontana Dam Shelter Water Source, None, Good water source
+166.3, Fontana Dam Visitor Ctr, None, Restroom
+171.9, Birch Spring Gap, None, Campsite
+171.9, water source, None, Good water source
+175.6, Ekaneetlee Gap, None, Good water source
+177.3, Mollies Ridge Shelter, None, Shelter
+177.3, Mollies Ridge Shelter Water Source, None, Good water source
+180.4, Russell Field Shelter, None, Shelter
+180.4, Russell Field Shelter Water Source, None, Good water source
+183.2, Spence Field Shelter, Some(0.2E), Shelter
+183.2, Spence Field Shelter Water Source, Some(0.2E), Good water source
+185.3, Beechnut Gap, None, Good water source
+189.3, Derrick Knob Shelter, None, Shelter
+189.3, Derrick Knob Shelter Water Source, None, Good water source
+189.5, Sams Gap, None, Good water source
+192.1, Buckeye Gap, None, Good water source
+195.0, Silers Bald Shelter, None, Shelter
+195.0, Silers Bald Shelter Water Source, None, Good water source
+195.2, Silers Bald, None, Other
+196.7, Double Spring Gap Shelter, None, Shelter
+196.7, Double Spring Gap Shelter Water Source, None, Dry water source
+199.5, Clingmans Dome, None, Other
+200.1, Mt. Love, None, Other
+202.8, Mt. Collins Shelter, Some(0.5W), Shelter
+202.8, Mt. Collins Shelter Water Source, Some(0.5W), Good water source
+205.6, Indian Gap, None, Road
+207.1, Dudley Creek Plaza Motel, Some(15.0W), Hotel
+207.1, Grand Prix Motel, Some(15.0W), Hotel
+207.1, Battles Food Center, Some(15.0W), Long term resupply
+207.1, Food City, Some(15.0W), Long term resupply
+207.1, Shoneys, Some(15.0W), Restaurant
+207.1, Newfound Gap, US 441, None, Road
+207.1, Gatlinburg, TN, Some(15.0W), Town
+207.1, Gatlinburg, TN PO, Some(15.0W), Post office
+207.1, A Walk in the Woods, Some(15.0W), Business
+207.1, Great Smoky Mountain Outfitters, Some(15.0W), Outfitter
+207.1, NOCs Great Outpost, Some(15.0W), Outfitter
+207.1, Dudley Creek Plaza Motel, Some(15.0W), Hotel
+207.1, Grand Prix Motel, Some(15.0W), Hotel
+207.1, Battles Food Center, Some(15.0W), Long term resupply
+207.1, Food City, Some(15.0W), Long term resupply
+207.1, Shoneys, Some(15.0W), Restaurant
+207.1, Newfound Gap, US 441, None, Road
+207.1, Gatlinburg, TN, Some(15.0W), Town
+207.1, Gatlinburg, TN PO, Some(15.0W), Post office
+207.1, A Walk in the Woods, Some(15.0W), Business
+207.1, Great Smoky Mountain Outfitters, Some(15.0W), Outfitter
+207.1, NOCs Great Outpost, Some(15.0W), Outfitter
+210.1, Icewater Spring Shelter, None, Shelter
+210.1, Icewater Spring Shelter Water Source, None, Good water source
+211.0, Charlies Bunion, None, View
+217.3, Pecks Corner Shelter, Some(0.2E), Shelter
+217.3, Pecks Corner Shelter Water Source, Some(0.2E), Good water source
+222.2, Tricorner Knob Shelter, None, Shelter
+222.2, Tricorner Knob Shelter Water Source, None, Good water source
+223.6, Guyot Spring, None, Good water source
+229.9, Cosby Knob Shelter, None, Shelter
+229.9, Cosby Knob Shelter Water Source, None, Good water source
+233.1, Spring, None, Good water source
+234.7, Spring, None, Good water source
+237.0, Davenport Gap Shelter, None, Shelter
+237.0, Davenport Gap Shelter Water Source, None, Good water source
+237.9, Davenport Gap, TN 32, None, Road
+237.9, Davenport Gap, TN 32, None, Road
+239.2, campsite, None, Campsite
+239.2, State Line Branch, None, Good water source
+239.8, I-40, None, Road
+240.6, Standing Bear Farm, Some(0.1W), Hostel
+240.6, Standing Bear Farm, Some(0.1W), Short term resupply
+240.6, Waterville School Rd, None, Road
+242.7, campsite, None, Campsite
+242.7, Painter Branch, None, Good water source
+245.6, Campsite, None, Campsite
+245.6, water source, None, Good water source
+247.5, Groundhog Creek Shelter, Some(0.2E), Shelter
+247.5, Groundhog Creek Shelter Water Source, Some(0.2E), Good water source
+250.4, Brown Gap, None, Campsite
+250.4, Brown Gap, None, Road
+250.4, water source, None, Good water source
+253.1, Max Patch Rd; N.C. 1182, None, Road
+253.9, Max Patch Summit, None, View
+255.7, Roaring Fork Shelter, None, Shelter
+255.7, Roaring Fork Shelter Water Source, None, Good water source
+259.3, N.C. 1182, Tenn 107, None, Road
+260.6, Walnut Mountain Shelter, None, Shelter
+260.6, Walnut Mountain Shelter Water Source, None, Good water source
+264.6, Big Rock Spring, None, Good water source
+267.1, Garenflo Gap, None, Road
+270.5, Deer Park Mountain Shelter, None, Shelter
+270.5, Deer Park Mountain Shelter Water Source, None, Good water source
+273.7, Duckett House B and B, None, Hotel
+273.7, Alpine Court Motel, None, Hotel
+273.7, The Sunnybank Inn, None, Hostel
+273.7, River Spirit B and B, None, Hotel
+273.7, Hot Springs Resort and Spa, None, Hotel
+273.7, Dollar General, None, Short term resupply
+273.7, L and Ks Deli, None, Restaurant
+273.7, Hot Springs Camp Store, None, Short term resupply
+273.7, Rock Bottom Sports Grill, None, Restaurant
+273.7, Hillbilly Market, None, Long term resupply
+273.7, The Sunnybank Inn, None, Restaurant
+273.7, Smoky Mountain Diner, None, Restaurant
+273.7, Hot Springs Resort and Spa, None, Short term resupply
+273.7, Hot Springs, NC, None, Town
+273.7, NC 209, None, Road
+273.7, Hot Springs, NC PO, None, Post office
+273.7, Bluff Mountain Outfitters, None, Outfitter
+273.7, Hot Springs, NC Library, None, Internet
+273.7, Duckett House B and B, None, Hotel
+273.7, Alpine Court Motel, None, Hotel
+273.7, The Sunnybank Inn, None, Hostel
+273.7, River Spirit B and B, None, Hotel
+273.7, Hot Springs Resort and Spa, None, Hotel
+273.7, Dollar General, None, Short term resupply
+273.7, L and Ks Deli, None, Restaurant
+273.7, Hot Springs Camp Store, None, Short term resupply
+273.7, Rock Bottom Sports Grill, None, Restaurant
+273.7, Hillbilly Market, None, Long term resupply
+273.7, The Sunnybank Inn, None, Restaurant
+273.7, Smoky Mountain Diner, None, Restaurant
+273.7, Hot Springs Resort and Spa, None, Short term resupply
+273.7, Hot Springs, NC, None, Town
+273.7, NC 209, None, Road
+273.7, Hot Springs, NC PO, None, Post office
+273.7, Bluff Mountain Outfitters, None, Outfitter
+273.7, Hot Springs, NC Library, None, Internet
+275.1, Lovers Leap Rock, None, View
+278.6, Campsite, None, Campsite
+279.6, U.S. 25 / 70, None, Road
+281.9, campsite, None, Campsite
+281.9, water source, None, Good water source
+281.9, Rich Mtn Fire Tower Side Trail, None, Side trail
+283.0, Hurricane Gap, None, Road
+284.7, Spring Mountain Shelter, None, Shelter
+284.7, Spring Mountain Shelter Water Source, None, Good water source
+286.2, Spring, None, Good water source
+288.4, N.C. 208, Tenn. 70, None, Road
+290.0, Hemlock Hollow Farm Shoppe and Cabins, Some(0.7W), Hostel
+290.0, Hemlock Hollow Farm Shoppe and Cabins, Some(0.7W), Short term resupply
+290.0, Log Cabin Drive, None, Road
+293.3, Little Laurel Shelter, None, Shelter
+293.3, Little Laurel Shelter Water Source, None, Good water source
+296.3, creek, None, Good water source
+297.6, Big Firescald Knob, None, Good water source
+300.1, Jerry Cabin, None, Shelter
+300.1, Jerry Cabin Water Source, None, Good water source
+302.0, Campsite, None, Campsite
+303.3, Spring, None, Good water source
+306.4, Flint Mountain Shelter, None, Shelter
+306.4, Flint Mountain Shelter Water Source, None, Good water source
+307.3, Campsite, None, Campsite
+307.3, water source, None, Good water source
+309.1, N.C. 212, None, Road
+309.6, Rector Laurel Rd, None, Road
+313.0, Campsite, None, Campsite
+315.2, Hogback Ridge Shelter, Some(0.1E), Shelter
+315.2, Hogback Ridge Shelter Water Source, Some(0.1E, 0.2), Good water source
+317.6, U.S. 23, I-26, None, Road
+318.3, Springs, None, Good water source
+321.3, Low Gap, None, Campsite
+321.3, water source, None, Good water source
+323.3, Spring, None, Good water source
+325.3, Bald Mtn Shelter, None, Shelter
+325.3, Bald Mtn Shelter Water Source, None, Good water source
+325.7, Campsite, None, Campsite
+325.7, water source, None, Good water source
+328.7, Campsite, None, Campsite
+330.5, Campsite, None, Campsite
+330.5, water source, None, Good water source
+331.0, U.S. 19W, None, Road
+331.6, Ogelsby Branch, None, Good water source
+335.7, Spring, None, Good water source
+335.9, No Business Knob Shelter, None, Shelter
+341.7, Mahoney's Outfitters, Some(15.9W), Outfitter
+341.7, Johnson City, Some(15.9W), Town
+341.7, Johnson City, TN, Some(15.9W), Town
+342.2, Nolichucky Hostel and Outfitters, None, Hostel
+342.2, Super 8 Motel, None, Hotel
+342.2, Best Southern Motel, None, Hotel
+342.2, Claytons Dogwood Inn, None, Hotel
+342.2, Holiday Inn Express, None, Hotel
+342.2, Nolichucky Hostel and Outfitters, None, Short term resupply
+342.2, Food Lion, None, Long term resupply
+342.2, Whites, None, Long term resupply
+342.2, Super 8 Motel, None, Restaurant
+342.2, Claytons Dogwood Inn, None, Restaurant
+342.2, Holiday Inn Express, None, Restaurant
+342.2, River Rd, Unaka Springs Rd, None, Road
+342.2, Erwin, TN, None, Town
+342.2, Erwin, TN PO, None, Post office
+342.2, Erwin, TN Library, None, Internet
+342.2, Nolichucky Hostel and Outfitters, None, Hostel
+342.2, Super 8 Motel, None, Hotel
+342.2, Best Southern Motel, None, Hotel
+342.2, Claytons Dogwood Inn, None, Hotel
+342.2, Holiday Inn Express, None, Hotel
+342.2, Nolichucky Hostel and Outfitters, None, Short term resupply
+342.2, Food Lion, None, Long term resupply
+342.2, Whites, None, Long term resupply
+342.2, Super 8 Motel, None, Restaurant
+342.2, Claytons Dogwood Inn, None, Restaurant
+342.2, Holiday Inn Express, None, Restaurant
+342.2, River Rd, Unaka Springs Rd, None, Road
+342.2, Erwin, TN, None, Town
+342.2, Erwin, TN PO, None, Post office
+342.2, Erwin, TN Library, None, Internet
+346.4, Curley Maple Gap Shelter, None, Shelter
+346.4, Curley Maple Gap Shelter Water Source, None, Good water source
+350.5, Tenn. 395, N.C. 197, None, Road
+351.6, USFS 230, None, Road
+352.8, Beauty Spot, None, View
+353.3, Beauty Spot Gap, None, Campsite
+353.3, water source, None, Good water source
+353.3, Beauty Spot Gap, None, Road
+354.3, Deep Gap, None, Campsite
+354.3, water source, None, Good water source
+354.9, USFS 230, None, Road
+355.9, Unaka Mtn, None, Other
+358.1, Low Gap, None, Good water source
+359.2, Cherry Gap Shelter, None, Shelter
+359.2, Cherry Gap Shelter Water Source, None, Good water source
+362.3, Buladean Shell Gas and Grocery, Some(3.0E), Restaurant
+362.3, Maple Grove Restaurant, Some(10.3W), Restaurant
+362.3, Clarences Restaurant, Some(10.3W), Restaurant
+362.3, Unicoi, TN, Some(10.3W), Town
+362.3, Unicoi, TN PO, Some(10.3W), Post office
+362.3, Tenn. 107, N.C. 226, None, Road
+363.6, Campsite, None, Campsite
+363.6, water source, None, Good water source
+366.4, Greasy Creek Friendly, Some(0.6E), Hostel
+366.4, Greasy Creek Friendly, Some(0.6E), Restaurant
+367.2, Campsite, None, Campsite
+367.2, water source, None, Good water source
+368.3, Clyde Smith Shelter, Some(0.1W), Shelter
+368.3, Clyde Smith Shelter Water Source, Some(0.1W), Good water source
+371.7, Hughes Gap, None, Road
+374.7, Ash Gap, None, Campsite
+374.7, water source, None, Good water source
+376.8, Roan High Knob Shelter, None, Shelter
+376.8, Roan High Knob Shelter Water Source, None, Good water source
+378.3, Tenn. 143, N.C. 261, None, Road
+378.3, water source, None, Good water source
+382.0, Stan Murray Shelter, None, Shelter
+382.0, Stan Murray Shelter Water Source, None, Good water source
+383.9, Overmountain Shelter, Some(0.2E), Shelter
+383.9, Overmountain Shelter Water Source, Some(0.2E), Good water source
+385.5, Little Hump Mtn, None, Other
+386.8, Bradley Gap, None, Campsite
+386.8, water source, None, Good water source
+387.7, Hump Mtn, None, Other
+390.1, campsite, None, Campsite
+390.1, water source, None, Good water source
+392.5, Spring, None, Good water source
+393.0, The Station@19E, Some(0.3E), Hostel
+393.0, The Station@19E, Some(0.3E), Bar
+393.1, Mountain Harbour BB and Hiker Hostel, Some(0.3W), Hostel
+393.1, Mountain Harbour BB and Hiker Hostel, Some(0.3W), Restaurant
+393.1, Hard Times Cafe and Coffee House, Some(2.5E), Restaurant
+393.1, Times Square Diner, Some(2.5E), Restaurant
+393.1, US 19E, None, Road
+393.1, Elk Park, NC, Some(2.5E), Town
+393.1, Elk Park, NC PO, Some(2.5E), Post office
+393.1, Mountain Harbour BB and Hiker Hostel, Some(0.3W), Hostel
+393.1, Mountain Harbour BB and Hiker Hostel, Some(0.3W), Restaurant
+393.1, Hard Times Cafe and Coffee House, Some(2.5E), Restaurant
+393.1, Times Square Diner, Some(2.5E), Restaurant
+393.1, US 19E, None, Road
+393.1, Elk Park, NC, Some(2.5E), Town
+393.1, Elk Park, NC PO, Some(2.5E), Post office
+393.3, Bear Branch Rd, None, Road
+395.7, Apple House Shelter Water Source, None, Good water source
+396.4, Buck Mtn Rd, None, Road
+396.7, Campbell Hollow Rd, None, Road
+399.5, campsite, None, Campsite
+399.5, water source, None, Good water source
+401.7, campsite, None, Campsite
+401.7, water source, None, Good water source
+401.9, Mountaineer Falls Shelter, None, Shelter
+401.9, Mountaineer Falls Shelter Water Source, None, Good water source
+402.7, campsite, None, Campsite
+402.7, water source, None, Good water source
+403.5, Walnut Mtn Rd, None, Road
+405.5, Vango  Abbys Memorial Hostel, Some(0.3W), Hostel
+409.6, campsite, None, Campsite
+409.6, water source, None, Good water source
+411.5, Moreland Gap Shelter, None, Shelter
+411.5, Moreland Gap Shelter Water Source, None, Good water source
+413.6, campsite, None, Campsite
+413.6, water source, None, Good water source
+417.5, Kincora Hiking Hostel, Some(0.2W), Hostel
+417.5, Dennis Cove, None, Road
+419.5, Laurel Fork Falls, None, Good water source
+420.1, Laurel Fork Shelter, None, Shelter
+420.1, Laurel Fork Shelter Water Source, None, Good water source
+420.4, Waycaster Spring, None, Good water source
+423.7, Pond Flats, None, Campsite
+423.7, water source, None, Good water source
+426.8, Lake House, Some(2.0W), Hotel
+426.8, Iron Mountain Inn B and B, Some(2.0W), Hotel
+426.8, Browns Grocery, Some(2.0W), Long term resupply
+426.8, Iron Mountain Inn B and B, Some(2.0W), Restaurant
+426.8, US 321, None, Road
+426.8, Hampton, TN, Some(2.0W), Town
+426.8, Hampton Trails Bicycle Shop, Some(2.0W), Shuttle
+426.8, Hampton, TN PO, Some(2.0W), Post office
+426.8, Lake House, Some(2.0W), Hotel
+426.8, Iron Mountain Inn B and B, Some(2.0W), Hotel
+426.8, Browns Grocery, Some(2.0W), Long term resupply
+426.8, Iron Mountain Inn B and B, Some(2.0W), Restaurant
+426.8, US 321, None, Road
+426.8, Hampton, TN, Some(2.0W), Town
+426.8, Hampton Trails Bicycle Shop, Some(2.0W), Shuttle
+426.8, Hampton, TN PO, Some(2.0W), Post office
+428.3, Griffith Branch, None, Campsite
+428.3, Griffith Branch, None, Good water source
+428.7, Watauga Lake Shelter, None, Shelter
+428.7, Watauga Lake Shelter Water Source, None, Good water source
+429.9, Watauga Dam, None, Other
+431.2, Wilbur Dam Rd, None, Road
+434.2, Spring, None, Good water source
+435.9, Vandeventer Shelter, None, Shelter
+435.9, Vandeventer Shelter Water Source, Some(0.3), Good water source
+439.7, Spring, None, Good water source
+442.5, Spring, None, Good water source
+442.7, Iron Mountain Shelter, None, Shelter
+444.0, Nick Grindstaff Monument, None, Context
+444.1, Spring, None, Good water source
+446.5, Stream, None, Good water source
+447.3, Tenn. 91, None, Road
+449.4, campsite, None, Campsite
+449.4, water source, None, Good water source
+450.3, Double Springs Shelter, None, Shelter
+450.3, Double Springs Shelter Water Source, None, Good water source
+453.8, Shady Valley, TN, Some(2.7E), Town
+453.8, Shady Valley, TN PO, Some(2.7E), Post office
+453.8, U.S. 421, None, Road
+455.7, Double Spring Gap, None, Good water source
+457.5, USFS 69, None, Road
+458.6, Abingdon Gap Shelter, None, Shelter
+458.6, Abingdon Gap Shelter Water Source, Some(0.2E), Good water source
+465.1, Tenn-VA State Line, None, Other
+468.8, The Place, None, Hostel
+468.8, The Hikers Inn, None, Hotel
+468.8, Daves Place, None, Hostel
+468.8, A Dancing Bears Getaway, None, Hotel
+468.8, Lazy Fox Inn, None, Hotel
+468.8, Mountain Laurel Inn, None, Hotel
+468.8, Sundog Outfitter, None, Short term resupply
+468.8, Food City, None, Long term resupply
+468.8, Mojoes Trailside Coffee House, None, Restaurant
+468.8, Damascus, VA, None, Town
+468.8, US 58, None, Road
+468.8, Damascus Public Library, None, Internet
+468.8, Damascus, VA PO, None, Post office
+468.8, Mt. Rogers Outfitters, None, Outfitter
+468.8, The Place, None, Hostel
+468.8, The Hikers Inn, None, Hotel
+468.8, Daves Place, None, Hostel
+468.8, A Dancing Bears Getaway, None, Hotel
+468.8, Lazy Fox Inn, None, Hotel
+468.8, Mountain Laurel Inn, None, Hotel
+468.8, Sundog Outfitter, None, Short term resupply
+468.8, Food City, None, Long term resupply
+468.8, Mojoes Trailside Coffee House, None, Restaurant
+468.8, Damascus, VA, None, Town
+468.8, US 58, None, Road
+468.8, Damascus Public Library, None, Internet
+468.8, Damascus, VA PO, None, Post office
+468.8, Mt. Rogers Outfitters, None, Outfitter
+469.9, U.S. 58, None, Road
+474.4, U.S. 58, None, Road
+474.4, Straight Branch, Feathercamp Branch, None, Good water source
+475.7, Stream, None, Good water source
+478.3, Saunders Shelter, Some(0.2W), Shelter
+478.3, Saunders Shelter Water Source, Some(0.2W), Good water source
+480.7, campsite, None, Campsite
+480.7, water source, None, Good water source
+483.0, Va. 728, None, Road
+483.6, Va. 859, None, Road
+483.8, Spring, None, Good water source
+484.8, Lost Mountain Shelter, None, Shelter
+484.8, Lost Mountain Shelter Water Source, None, Good water source
+485.9, U.S. 58, None, Road
+486.2, Campsites, None, Campsite
+486.2, water source, None, Good water source
+487.2, Va. 601 (Beech Mtn Rd), None, Road
+487.2, water source, None, Good water source
+490.5, Spring, None, Good water source
+490.6, campsite, None, Campsite
+490.6, water source, None, Good water source
+490.6, Whitetop Mtn Rd (USFS 89), None, Road
+493.0, Va. 600, None, Road
+497.1, Thomas Knob Shelter, None, Shelter
+497.1, Thomas Knob Shelter Water Source, None, Good water source
+502.3, Wise Shelter, None, Shelter
+502.3, Wise Shelter Water Source, None, Good water source
+502.6, campsite, None, Campsite
+502.6, Big Wilson Creek, None, Good water source
+503.6, Spring, None, Good water source
+509.0, Old Orchard Shelter, None, Shelter
+509.0, Old Orchard Shelter Water Source, None, Good water source
+510.7, campsite, None, Campsite
+510.7, Va. 603, None, Road
+510.7, Fox Creek, None, Good water source
+512.7, Hurricane Mtn, None, Other
+513.2, Hurricane Mountain Shelter, None, Shelter
+513.2, Hurricane Mountain Shelter Water Source, None, Good water source
+514.6, Stream, None, Good water source
+517.2, Comers Creek, None, Good water source
+517.2, Comers Creek Falls Trail, None, Side trail
+518.3, Troutdale Baptist Church, Some(2.6E), Hostel
+518.3, Fox Hill Inn, Some(2.6E), Hotel
+518.3, Fox Hill Inn, Some(2.6E), Restaurant
+518.3, Jerrys Kitchen and Goods, Some(2.6E, 2.0E), Restaurant
+518.3, Troutdale, VA, Some(2.6E), Town
+518.3, Troutdale, VA PO, Some(2.6E), Post office
+518.3, Va. 650, Va. 16, None, Road
+518.5, Troutdale, VA, Some(3.0E), Town
+522.4, Trimpi Shelter, None, Shelter
+522.4, Trimpi Shelter Water Source, None, Good water source
+523.6, Va. 672, None, Road
+524.5, Va. 670, None, Road
+528.4, Va. 601, None, Road
+532.2, Partnership Shelter, None, Shelter
+532.2, Partnership Shelter Water Source, None, Good water source
+532.4, Virginia House Inn, Some(6.0W), Hotel
+532.4, Virginia House Inn, Some(6.0W), Restaurant
+532.4, Food Lion, Some(6.0W), Long term resupply
+532.4, RUSH Exxon Station, Some(3.2E), Restaurant
+532.4, Marion, VA, Some(6.0W), Town
+532.4, Sugar Grove, VA, Some(3.2E), Town
+532.4, VA 16, None, Road
+532.4, Marion, VA PO, Some(6.0W), Post office
+532.4, Sugar Grove, VA PO, Some(3.2E), Post office
+532.4, Virginia House Inn, Some(6.0W), Hotel
+532.4, Virginia House Inn, Some(6.0W), Restaurant
+532.4, Food Lion, Some(6.0W), Long term resupply
+532.4, RUSH Exxon Station, Some(3.2E), Restaurant
+532.4, Marion, VA, Some(6.0W), Town
+532.4, Sugar Grove, VA, Some(3.2E), Town
+532.4, VA 16, None, Road
+532.4, Marion, VA PO, Some(6.0W), Post office
+532.4, Sugar Grove, VA PO, Some(3.2E), Post office
+533.1, Va. 622, None, Road
+536.5, campsite, None, Campsite
+536.5, water source, None, Good water source
+536.5, USFS 86, None, Road
+539.2, Chatfield Shelter, None, Shelter
+539.2, Chatfield Shelter Water Source, None, Good water source
+539.5, USFS 644, None, Road
+541.0, Va. 615, None, Road
+541.5, Va. 729, None, Road
+543.8, The Relax Inn, Some(3.2W), Hotel
+543.8, Long Neck Lair Alpaca Farm, Some(0.3E), Hostel
+543.8, Exit 54 Exxon, Some(3.2W), Short term resupply
+543.8, Shell station, Some(3.2W), Restaurant
+543.8, The Barn Restaurant, Some(3.2W), Restaurant
+543.8, Atkins, VA, Some(3.2W), Town
+543.8, Atkins, VA PO, Some(3.2W), Post office
+543.8, I-81, None, Road
+545.1, Va. 617, None, Road
+545.8, Spring, None, Good water source
+553.9, Va. 610, None, Road
+556.3, Va. 42, None, Road
+558.5, Knot Maul Branch Shelter, None, Shelter
+558.7, Spring, None, Good water source
+559.9, Lynn Camp Creek, None, Good water source
+563.4, USFS 222, None, Road
+566.1, Spring-fed pond, None, Good water source
+567.9, Chestnut Knob Shelter, None, Shelter
+569.2, water source, None, Good water source
+569.2, Walker Gap, None, Road
+574.1, Va. 623, None, Road
+578.6, Jenkins Shelter, None, Shelter
+578.6, Jenkins Shelter Water Source, None, Good water source
+583.0, Laurel Creek, None, Good water source
+583.0, Va. 615, None, Road
+589.9, Bland Grocery, Some(2.7E), Long term resupply
+589.9, Bland Square Grill, Some(2.7E), Restaurant
+589.9, Bland, VA, Some(2.7E), Town
+589.9, Bastian, VA, Some(2.5W), Town
+589.9, Bastian, VA PO, Some(2.5W), Post office
+589.9, Medical Clinic, Some(2.5W), Medical
+589.9, Bland, VA PO, Some(2.7E), Post office
+589.9, Library, Some(2.7E), Internet
+589.9, Jeff Proffitt, Some(2.7E), Shuttle
+589.9, U.S. 52, None, Road
+590.3, I-77, None, Road
+590.7, Kimberling Creek, None, Good water source
+590.7, VA 612, None, Road
+590.7, Kimberling Creek, None, Good water source
+590.7, VA 612, None, Road
+592.1, Helveys Mill Shelter, Some(0.3E), Shelter
+592.1, Helveys Mill Shelter Water Source, Some(0.3E), Good water source
+598.7, Va. 611, None, Road
+601.8, Jenny Knob Shelter, None, Shelter
+601.8, Jenny Knob Shelter Water Source, None, Good water source
+603.0, Va. 608, None, Road
+608.3, Trents Grocery Store, Some(0.5W), Campsite
+608.3, Trents Grocery Store, Some(0.5W), Restaurant
+608.3, Va. 606, None, Road
+614.5, Stream, None, Good water source
+616.3, Wapiti Shelter, None, Shelter
+616.3, Wapiti Shelter Water Source, None, Good water source
+621.8, water source, None, Good water source
+621.9, USFS 103, None, Road
+623.5, Woods Hole Hostel, Some(0.5E), Hostel
+623.5, Woods Hole Hostel, Some(0.5E), Restaurant
+623.5, Sugar Run Gap Rd, None, Road
+625.8, Docs Knob Shelter, None, Shelter
+625.8, Docs Knob Shelter Water Source, None, Good water source
+631.0, campsite, None, Campsite
+631.0, spring, None, Good water source
+631.5, Pearis Mtn, None, View
+633.5, Va. 634, None, Road
+633.5, Va. 634, None, Road
+634.6, Plaza Motel, Some(0.1E), Hotel
+634.6, Holy Family Church Hostel, Some(0.1E, 2.9E), Hostel
+634.6, Holiday Motor Lodge, Some(0.1E), Hotel
+634.6, Courthouse Cafe, Some(0.1E), Restaurant
+634.6, Pizza Hut, Some(0.1E), Restaurant
+634.6, Pizza Plus, Some(0.1E), Restaurant
+634.6, Lucky Star Chinese, Some(0.1E), Restaurant
+634.6, Rite Aid, Some(0.1E), Short term resupply
+634.6, Food Lion, Some(0.1E), Long term resupply
+634.6, Sav-a-Lot, Some(0.1E), Long term resupply
+634.6, Pearisburg, VA, Some(0.1E), Town
+634.6, Don Raines, Some(0.1E), Shuttle
+634.6, Pearisburg, VA PO, Some(0.1E), Post office
+634.6, Pearisburg Public Library, Some(0.1E), Internet
+634.6, Tom Hoffman, Some(0.1E), Shuttle
+634.6, Lane Street, None, Road
+635.5, U.S. 460, None, Road
+637.0, Clendennin Rd, None, Road
+639.2, campsite, None, Campsite
+639.2, Springs, None, Good water source
+641.5, Rice Field Shelter, None, Shelter
+641.5, Rice Field Shelter Water Source, Some(0.3E), Good water source
+643.1, campsite, None, Campsite
+643.1, water source, None, Good water source
+646.6, campsite, None, Campsite
+646.6, water source, None, Good water source
+654.1, Pine Swamp Branch Shelter, None, Shelter
+654.1, Pine Swamp Branch Shelter Water Source, None, Good water source
+654.4, Va. 635, None, Road
+655.5, Dismal Branch, None, Good water source
+656.5, Va. 635, None, Road
+656.5, Stony Creek, None, Good water source
+657.8, Spring, None, Good water source
+658.0, Bailey Gap Shelter, None, Shelter
+658.0, Bailey Gap Shelter Water Source, None, Good water source
+661.7, Va. 613, None, Road
+663.1, Campsites, None, Campsite
+663.1, spring, None, Good water source
+666.8, War Spur Shelter, None, Shelter
+666.8, War Spur Shelter Water Source, None, Good water source
+667.6, water source, None, Good water source
+667.6, USFS 156, None, Road
+668.6, Stream, None, Good water source
+669.6, Va. 601, None, Road
+672.6, Laurel Creek Shelter, None, Shelter
+672.6, Laurel Creek Shelter Water Source, None, Good water source
+673.6, Spring, None, Good water source
+675.0, Va. 42, None, Road
+675.9, Sinking Creek, None, Good water source
+675.9, Va. 630, None, Road
+676.3, Keffer Oak, None, Other
+679.0, Sarver Hollow Shelter, Some(0.3E), Shelter
+679.0, Sarver Hollow Shelter Water Source, Some(0.3E), Good water source
+684.3, campsite, None, Campsite
+684.3, Cabin Branch, None, Good water source
+685.0, Niday Shelter, None, Shelter
+685.0, Niday Shelter Water Source, None, Good water source
+686.3, Va. 621, None, Road
+690.1, Audie Murphy Monument, None, Other
+693.9, Va. 620, None, Road
+693.9, Trout Creek, None, Good water source
+695.1, Pickle Branch Shelter, Some(0.3E), Shelter
+695.1, Pickle Branch Shelter Water Source, Some(0.3E), Good water source
+699.3, Dragons Tooth, None, Other
+701.8, Four Pines Hostel, Some(0.3E), Hostel
+701.8, Va. 624, None, Road
+703.4, Va. 785, None, Road
+707.7, Catawba Valley General Store, Some(1.0W, 0.5), Restaurant
+707.7, Homeplace Restaurant, Some(1.0W), Restaurant
+707.7, VA 311, None, Road
+707.7, Catawba, VA, Some(1.0W), Town
+707.7, Catawba, VA PO, Some(1.0W), Post office
+707.7, Catawba Valley General Store, Some(1.0W, 0.5), Restaurant
+707.7, Homeplace Restaurant, Some(1.0W), Restaurant
+707.7, VA 311, None, Road
+707.7, Catawba, VA, Some(1.0W), Town
+707.7, Catawba, VA PO, Some(1.0W), Post office
+708.7, Johns Spring Shelter, None, Shelter
+708.7, Johns Spring Shelter Water Source, None, Good water source
+709.7, Catawba Mountain Shelter, None, Shelter
+709.7, Catawba Mountain Shelter Water Source, None, Good water source
+711.4, McAfee Knob, None, Other
+712.0, Pig Farm Campsite, None, Campsite
+712.0, water source, None, Good water source
+712.1, Campbell Shelter, None, Shelter
+712.1, Campbell Shelter Water Source, None, Good water source
+717.0, Tinker Cliffs, None, Other
+718.1, Lamberts Meadow Shelter, None, Shelter
+718.1, Lamberts Meadow Shelter Water Source, None, Good water source
+718.4, Lamberts Meadow Campsite, None, Campsite
+718.4, Sawmill Run, None, Good water source
+727.5, Howard Johnson Express Inn, None, Hotel
+727.5, Super 8, None, Hotel
+727.5, Kroger Super Store, Some(0.5), Long term resupply
+727.5, Rancho Viejo Mexican, None, Restaurant
+727.5, 3 Little Pigs BBQ, None, Restaurant
+727.5, BP Market, Some(0.1), Short term resupply
+727.5, CL Asian, None, Restaurant
+727.5, Pizza Hut, None, Restaurant
+727.5, US 220, None, Road
+727.5, Daleville, VA, None, Town
+727.5, Cloverdale, VA, Some(2.3E), Town
+727.5, Cloverdale, VA PO, Some(2.3E), Post office
+727.5, Outdoor Trails, None, Outfitter
+727.5, Daleville, VA PO, None, Post office
+727.5, Howard Johnson Express Inn, None, Hotel
+727.5, Super 8, None, Hotel
+727.5, Kroger Super Store, Some(0.5), Long term resupply
+727.5, Rancho Viejo Mexican, None, Restaurant
+727.5, 3 Little Pigs BBQ, None, Restaurant
+727.5, BP Market, Some(0.1), Short term resupply
+727.5, CL Asian, None, Restaurant
+727.5, Pizza Hut, None, Restaurant
+727.5, US 220, None, Road
+727.5, Daleville, VA, None, Town
+727.5, Cloverdale, VA, Some(2.3E), Town
+727.5, Cloverdale, VA PO, Some(2.3E), Post office
+727.5, Outdoor Trails, None, Outfitter
+727.5, Daleville, VA PO, None, Post office
+728.7, I-81, None, Road
+729.0, Troutville, VA, Some(2.6E), Town
+729.0, Troutville, VA PO, Some(2.6E), Post office
+729.0, U.S. 11, None, Road
+729.5, Va. 652, None, Road
+732.5, Fullhardt Knob Shelter, None, Shelter
+732.5, Fullhardt Knob Shelter Water Source, None, Good water source
+735.3, USFS 191, None, Road
+736.1, Curry Creek, None, Good water source
+738.0, Wilson Creek, None, Good water source
+738.7, Wilson Creek Shelter, None, Shelter
+738.7, Wilson Creek Shelter Water Source, None, Good water source
+739.1, Spring, None, Good water source
+741.1, BRP m 97.7, None, Road
+741.9, BRP m 97.0, None, Road
+743.0, BRP m 95.9, None, Road
+743.6, BRP m 95.3, None, Road
+746.0, Bobblets Gap Shelter, Some(0.2W), Shelter
+746.0, Bobblets Gap Shelter Water Source, Some(0.2W), Good water source
+746.7, BRP m 92.5, None, Road
+747.4, BRP m 91.8, None, Road
+749.1, Wattstull Motel  Restaurant, Some(5.0W), Hotel
+749.1, Wattstull Motel  Restaurant, Some(5.0W), Restaurant
+749.1, Buchanan, VA, Some(5.0W), Town
+749.1, Va. 43, None, Road
+749.1, Buchanan, VA PO, Some(5.0W), Post office
+749.1, Buchanan Library, Some(5.0W), Internet
+750.7, Cove Mtn, None, Other
+752.5, Cove Mountain Shelter, None, Shelter
+752.5, Cove Mountain Shelter Water Source, None, Good water source
+755.7, campsite, None, Campsite
+755.7, Jennings Creek, None, Good water source
+755.7, Va. 614, None, Road
+759.5, Bryant Ridge Shelter, None, Shelter
+759.5, Bryant Ridge Shelter Water Source, None, Good water source
+764.4, Cornelius Creek Shelter, None, Shelter
+764.4, Cornelius Creek Shelter Water Source, None, Good water source
+767.1, USFS 812, None, Road
+768.8, The Guillotine, None, Other
+769.4, BRP m 76.3, None, Road
+769.7, Thunder Hill Shelter, None, Shelter
+769.7, Thunder Hill Shelter Water Source, None, Good water source
+770.7, BRP m 74.9, None, Road
+771.1, BRP m 74.7, None, Road
+773.0, Harrison Ground Spring, None, Good water source
+774.4, BRP m 71.0, None, Road
+776.6, campsite, None, Campsite
+776.6, Marble Spring, None, Good water source
+780.2, Big Cove Branch, None, Good water source
+782.1, Matts Creek Shelter, None, Shelter
+782.1, Matts Creek Shelter Water Source, None, Good water source
+782.9, campsite, None, Campsite
+782.9, water source, None, Good water source
+784.1, James River, None, Other
+784.3, Glasgow Hikers Shelter, Some(6.0W), Hostel
+784.3, H and H Market, Some(5.3E), Long term resupply
+784.3, CCs Stop and Go, Some(6.0W), Restaurant
+784.3, Dollar General, Some(6.0W), Short term resupply
+784.3, Glasgow Grocery Express, Some(6.0W), Long term resupply
+784.3, Familys Inn Restaurant, Some(6.0W), Restaurant
+784.3, US 501, None, Road
+784.3, Big Island, VA, Some(5.3E), Town
+784.3, Glasgow, VA, Some(6.0W), Town
+784.3, Big Island, VA PO, Some(5.3E), Post office
+784.3, Glasgow, VA PO, Some(6.0W), Post office
+784.3, Library, Some(6.0W), Internet
+784.3, Ken Wallace, Some(6.0W), Shuttle
+784.3, Glasgow Hikers Shelter, Some(6.0W), Hostel
+784.3, H and H Market, Some(5.3E), Long term resupply
+784.3, CCs Stop and Go, Some(6.0W), Restaurant
+784.3, Dollar General, Some(6.0W), Short term resupply
+784.3, Glasgow Grocery Express, Some(6.0W), Long term resupply
+784.3, Familys Inn Restaurant, Some(6.0W), Restaurant
+784.3, US 501, None, Road
+784.3, Big Island, VA, Some(5.3E), Town
+784.3, Glasgow, VA, Some(6.0W), Town
+784.3, Big Island, VA PO, Some(5.3E), Post office
+784.3, Glasgow, VA PO, Some(6.0W), Post office
+784.3, Library, Some(6.0W), Internet
+784.3, Ken Wallace, Some(6.0W), Shuttle
+784.4, Lower Rocky Row Run, None, Good water source
+785.3, campsite, None, Campsite
+785.3, Rocky Row Run, None, Good water source
+785.4, Va. 812, None, Road
+786.0, Johns Hollow Shelter, None, Shelter
+786.0, Johns Hollow Shelter Water Source, None, Good water source
+793.2, Bluff Mtn, None, Other
+794.8, Punchbowl Shelter, Some(0.2W), Shelter
+794.8, Punchbowl Shelter Water Source, Some(0.2W), Good water source
+795.2, Punchbowl Mtn Crossing, Blue Ridge Parkway m. 51.7, None, Road
+795.2, water source, None, Good water source
+795.5, Va. 607, None, Road
+799.3, USFS 39, None, Road
+800.0, Bulls Bridge Country Store, None, Restaurant
+802.3, Pedlar Lake Rd, None, Road
+804.3, Brown Mountain Creek Shelter, None, Shelter
+804.3, Brown Mountain Creek Shelter Water Source, None, Good water source
+806.1, Buena Vista Motel, Some(9.3W), Hotel
+806.1, Glen Maury Campground, Some(9.3W), Campsite
+806.1, Budget Inn, Some(9.3W), Hotel
+806.1, Todds Barbeque, Some(9.3W), Restaurant
+806.1, Franks for the Memories, Some(9.3W), Restaurant
+806.1, Alexanders Ice Cream, Some(9.3W), Restaurant
+806.1, Food Lion, Some(9.3W), Long term resupply
+806.1, Budget Inn, Some(9.3W), Restaurant
+806.1, Lexington, VA, Some(15.0W), Town
+806.1, Buena Vista, VA, Some(9.3W), Town
+806.1, Rockbridge Taxi Service, Some(9.3W), Shuttle
+806.1, Buena Vista, VA PO, Some(9.3W), Post office
+806.1, Walkabout Outfitter, Some(15.0W), Outfitter
+806.1, Lexington, VA PO, Some(15.0W), Post office
+806.1, U.S. 60, None, Road
+809.9, Cow Camp GapShelter, Some(0.6E), Shelter
+809.9, Cow Camp GapShelter Water Source, Some(0.6E), Good water source
+812.4, campsite, None, Campsite
+812.4, USFS 48, None, Road
+812.4, water source, None, Good water source
+814.6, USFS 63, None, Road
+815.8, USFS 246, None, Road
+816.3, Greasy Spring Rd, None, Road
+818.2, campsite, None, Campsite
+818.2, N Fork of Piney River, None, Good water source
+819.4, campsite, None, Campsite
+819.4, Elk Pond Branch, None, Good water source
+820.1, Seeley-Woodworth Shelter, None, Shelter
+820.1, Seeley-Woodworth Shelter Water Source, None, Good water source
+821.2, campsite, None, Campsite
+821.2, water source, None, Good water source
+822.4, Dutch Haus B and B, Some(2.3W), Hotel
+822.4, Montebello Camping and Fishing, Some(2.3W), Campsite
+822.4, Dutch Haus B and B, Some(2.3W), Restaurant
+822.4, Montebello Camping and Fishing, Some(2.3W), Short term resupply
+822.4, Montebello, VA, Some(2.3W), Town
+822.4, Montebello, VA PO, Some(2.3W), Post office
+822.4, Spy Rock Rd, None, Road
+822.9, Spy Rock, None, View
+825.0, Cash Hollow Rd, None, Road
+826.7, The Priest Shelter, None, Shelter
+826.7, The Priest Shelter Water Source, None, Good water source
+827.2, The Priest, None, Other
+830.2, Cripple Creek, None, Good water source
+831.5, campsite, None, Campsite
+831.5, Va. 56, None, Road
+831.5, water source, None, Good water source
+834.3, Harpers Creek Shelter, None, Shelter
+834.3, Harpers Creek Shelter Water Source, None, Good water source
+840.5, Maupin Field Shelter, None, Shelter
+840.5, Maupin Field Shelter Water Source, None, Good water source
+842.2, BRP m 13.6, None, Road
+842.7, BRP m 13.1, None, Road
+847.0, Blue Ridge Parkway m. 9.6, Dripping Rock Parking Area, None, Road
+847.0, water source, None, Good water source
+852.3, Bear Spring, None, Good water source
+856.3, Paul C. Wolfe Shelter, None, Shelter
+856.3, Paul C. Wolfe Shelter Water Source, None, Good water source
+861.3, Belle Hearth B and B, Some(4.5W), Hotel
+861.3, Quality Inn, Some(4.5W), Hotel
+861.3, Grace Evangelical Lutheran Church, Some(4.5W), Hostel
+861.3, Tree Streets Inn B and B, Some(4.5W), Hotel
+861.3, Waynesboro Family YMCA, Some(4.5W), Campsite
+861.3, Ming Garden, Some(4.5W), Restaurant
+861.3, Belle Hearth B and B, Some(4.5W), Restaurant
+861.3, Pizza Hut, Some(4.5W), Restaurant
+861.3, Tree Streets Inn B and B, Some(4.5W), Restaurant
+861.3, Kroger, Some(4.5W), Long term resupply
+861.3, US 250, Rockfish Gap, None, Road
+861.3, Waynesboro, VA, Some(4.5W), Town
+861.3, Waynesboro Public Library, Some(4.5W), Internet
+861.3, Waynesboro, VA PO, Some(4.5W), Post office
+861.3, Rockfish Gap Outfitters, Some(4.5W), Outfitter
+861.3, Belle Hearth B and B, Some(4.5W), Hotel
+861.3, Quality Inn, Some(4.5W), Hotel
+861.3, Grace Evangelical Lutheran Church, Some(4.5W), Hostel
+861.3, Tree Streets Inn B and B, Some(4.5W), Hotel
+861.3, Waynesboro Family YMCA, Some(4.5W), Campsite
+861.3, Ming Garden, Some(4.5W), Restaurant
+861.3, Belle Hearth B and B, Some(4.5W), Restaurant
+861.3, Pizza Hut, Some(4.5W), Restaurant
+861.3, Tree Streets Inn B and B, Some(4.5W), Restaurant
+861.3, Kroger, Some(4.5W), Long term resupply
+861.3, US 250, Rockfish Gap, None, Road
+861.3, Waynesboro, VA, Some(4.5W), Town
+861.3, Waynesboro Public Library, Some(4.5W), Internet
+861.3, Waynesboro, VA PO, Some(4.5W), Post office
+861.3, Rockfish Gap Outfitters, Some(4.5W), Outfitter
+861.6, Skyline Drive m 105.2, None, Road
+865.0, Skyline Drive m 102.1, None, Road
+866.3, Bear Den Mtn, None, Other
+866.8, Skyline Drive m 99.5, None, Road
+869.0, Calf Mountain Shelter, Some(0.3W), Shelter
+869.0, Calf Mountain Shelter Water Source, Some(0.3W), Good water source
+869.6, Spring, None, Good water source
+870.0, Skyline Drive m 96.9, None, Road
+870.2, Spring, None, Good water source
+871.8, Skyline Drive m 95.3, None, Road
+873.4, Skyline Drive m 94.1, None, Road
+875.4, Skyline Drive m 92.4, None, Road
+879.5, Skyline Drive m 88.9, None, Road
+881.3, Skyline Drive m 87.4, None, Road
+881.5, Skyline Drive m 87.2, None, Road
+882.0, Blackrock Hut, Some(0.2E), Shelter
+882.0, Blackrock Hut Water Source, Some(0.2E), Good water source
+882.6, Blackrock, None, Other
+883.6, Skyline Drive m 84.3, None, Road
+885.1, Skyline Drive m 82.9, None, Road
+886.0, Skyline Drive m 82.2, None, Road
+886.4, Skyline Drive m 81.9, None, Road
+887.3, Skyline Drive m 81.1, None, Road
+891.2, Loft Mtn, None, Other
+891.5, Spring, Some(0.1W), Good water source
+893.6, Skyline Drive m 77.5, None, Road
+895.2, Pinefield Hut, Some(0.1E), Shelter
+895.2, Pinefield Hut Water Source, Some(0.1E), Good water source
+895.4, Skyline Drive m 75.2, None, Road
+897.3, Skyline Drive m 73.2, None, Road
+900.6, Skyline Drive m 69.9, None, Road
+902.2, Skyline Drive m 68.6, None, Road
+903.4, Hightop Hut, Some(0.1W), Shelter
+903.4, Hightop Hut Water Source, Some(0.1W), Good water source
+903.9, Spring, None, Good water source
+905.5, Skyline Drive m 66.7, None, Road
+906.8, Elkton, VA, Some(7.5W), Town
+906.8, Elkton, VA PO, Some(7.5W), Post office
+906.8, Skyline Drive m 65.5, None, Road
+908.5, Swift Run Gap, Some(0.01E), Town
+909.8, South River Picnic Grounds, Some(0.1W), Good water source
+913.1, water source, Some(0.1W), Good water source
+913.4, Spring, None, Good water source
+915.8, Bearfence Mountain Hut, Some(0.1E), Shelter
+915.8, Bearfence Mountain Hut Water Source, Some(0.1E), Good water source
+918.4, Skyline Drive m 55.1, None, Road
+922.1, Spring, None, Good water source
+922.9, Big Meadows Wayside, Some(0.4E), Short term resupply
+924.4, David Spring, None, Good water source
+925.4, Skyline Drive m 49.3, None, Road
+927.3, Rock Spring Hut, Some(0.2W), Shelter
+927.3, Rock Spring Hut Water Source, Some(0.2W), Good water source
+928.6, Skyline Drive m 45.6, None, Road
+931.1, Skyland stables service rd, None, Road
+931.1, Skyland stables service rd, None, Road
+931.9, Skyland, Some(0.2W), Hotel
+931.9, Skyland, Some(0.2W), Restaurant
+931.9, Skyland Service Rd, None, Road
+933.9, Skyline Drive m. 38.6, None, Road
+933.9, water source, None, Good water source
+936.1, Skyline Drive m. 36.7, None, Road
+936.1, water source, None, Good water source
+936.2, Skyline Drive m 36.4, None, Road
+937.2, The Pinnacle, None, Other
+938.2, Byrds Nest #3 Shelter, None, Shelter
+938.2, Byrds Nest #3 Shelter Water Source, Some(0.3), Good water source
+941.4, Best Western Motel, Some(8.0W), Hotel
+941.4, Best Value Cardinal Inn, Some(8.0W), Hotel
+941.4, Mountain  Valley Shuttle Service, Some(8.0W), Campsite
+941.4, Budget Inn, Some(8.0W), Hotel
+941.4, Farmers Foods, Some(8.0W), Long term resupply
+941.4, East Wok, Some(8.0W), Restaurant
+941.4, Southern Station Diner, Some(8.0W), Restaurant
+941.4, Walmart, Some(8.0W), Long term resupply
+941.4, Mindis Mexican, Some(8.0W), Restaurant
+941.4, Food Lion, Some(8.0W), Long term resupply
+941.4, Anthonys Pizza XII, Some(8.0W), Restaurant
+941.4, Luray, VA, Some(8.0W), Town
+941.4, Page County Library, Some(8.0W), Internet
+941.4, Appalachian Outdoors Adventures, Some(8.0W), Outfitter
+941.4, Luray, VA PO, Some(8.0W), Post office
+941.4, Skyline Drive m 31.5, None, Road
+942.6, Pass Mountain Hut, Some(0.2E), Shelter
+942.6, Pass Mountain Hut Water Source, Some(0.2E), Good water source
+943.1, Thorton Gap, Some(0.1W), Town
+944.5, Skyline Drive m 28.6, None, Road
+944.8, Skyline Drive m 28.5, None, Road
+949.5, Spring, None, Good water source
+950.0, Elkwallow Wayside, Some(0.1E), Restaurant
+950.0, Skyline Drive m 23.9, None, Road
+951.5, Skyline Drive m 21.9, None, Road
+952.5, Skyline Drive m 21.1, None, Road
+952.8, Skyline Drive m 20.8, None, Road
+953.2, Spring, Some(0.2E), Good water source
+954.0, Skyline Drive m 19.7, None, Road
+954.6, Skyline Drive m 18.9, None, Road
+955.7, Gravel Springs Hut, Some(0.2E), Shelter
+955.7, Gravel Springs Hut Water Source, Some(0.2E), Good water source
+955.9, Skyline Drive m 17.7, None, Road
+957.5, Skyline Drive m 15.9, None, Road
+959.1, Hogwallow Spring, None, Good water source
+959.7, Skyline Drive m 14.2, None, Road
+961.4, Skyline Drive m 12.3, None, Road
+962.3, Compton Springs, None, Good water source
+963.5, Skyline Drive m 10.4, None, Road
+963.8, Indian Run Spring, Some(0.3E), Good water source
+965.3, Front Royal Terrapin Hostel, Some(0.5E), Hostel
+965.3, Front Royal Terrapin Hostel, Some(0.5E), Short term resupply
+966.2, Tom Floyd Wayside Shelter, None, Shelter
+967.7, Va. 602, None, Road
+969.1, Scottish Inns, Some(3.2W), Hotel
+969.1, Pioneer Motel, Some(3.2W), Hotel
+969.1, Skyline Resort Motel, Some(3.2W), Hotel
+969.1, Better Thymes, Some(3.2W), Long term resupply
+969.1, Martins, Some(3.2W), Long term resupply
+969.1, Pizza Hut, Some(3.2W), Restaurant
+969.1, China Jade, Some(3.2W), Restaurant
+969.1, Front Royal Brewery, Some(3.2W), Restaurant
+969.1, US 522, None, Road
+969.1, Front Royal, VA, Some(3.2W), Town
+969.1, Royal Taxi, Some(3.2W), Shuttle
+969.1, Front Royal, VA PO, Some(3.2W), Post office
+969.1, Ramseys Hardware, Some(3.2W), Hardware
+969.1, Samuels Public Library, Some(3.2W), Internet
+969.1, Ace Taxi, Some(3.2W), Shuttle
+969.1, River & Peak Outfitters, Some(3.2W), Outfitter
+969.1, Base Camp, Some(3.2W), Laundry
+969.1, Nina's Shuttle Service, Some(3.2W), Shuttle
+969.1, Mountain Trails, Some(3.2W), Outfitter
+969.1, Scottish Inns, Some(3.2W), Hotel
+969.1, Pioneer Motel, Some(3.2W), Hotel
+969.1, Skyline Resort Motel, Some(3.2W), Hotel
+969.1, Better Thymes, Some(3.2W), Long term resupply
+969.1, Martins, Some(3.2W), Long term resupply
+969.1, Pizza Hut, Some(3.2W), Restaurant
+969.1, China Jade, Some(3.2W), Restaurant
+969.1, Front Royal Brewery, Some(3.2W), Restaurant
+969.1, US 522, None, Road
+969.1, Front Royal, VA, Some(3.2W), Town
+969.1, Royal Taxi, Some(3.2W), Shuttle
+969.1, Front Royal, VA PO, Some(3.2W), Post office
+969.1, Ramseys Hardware, Some(3.2W), Hardware
+969.1, Samuels Public Library, Some(3.2W), Internet
+969.1, Ace Taxi, Some(3.2W), Shuttle
+969.1, River & Peak Outfitters, Some(3.2W), Outfitter
+969.1, Base Camp, Some(3.2W), Laundry
+969.1, Nina's Shuttle Service, Some(3.2W), Shuttle
+969.1, Mountain Trails, Some(3.2W), Outfitter
+969.8, Mountain Home, Some(0.3E), Hostel
+972.4, Mosby Campsite, Some(0.1E), Campsite
+972.4, Tom Sealock Spring, None, Good water source
+974.3, Jim n Molly Denton Shelter, None, Shelter
+974.3, Jim n Molly Denton Shelter Water Source, None, Good water source
+975.4, Monterey Service Station, Some(1.1W), Short term resupply
+975.4, Linden, VA, Some(1.1W), Town
+975.4, Linden, VA PO, Some(1.1W), Post office
+975.4, Va. 638, None, Road
+977.3, Va. 55, None, Road
+979.8, Manassas Gap Shelter, None, Shelter
+979.8, Manassas Gap Shelter Water Source, None, Good water source
+984.3, Dicks Dome Shelter, Some(0.2E), Shelter
+984.3, Dicks Dome Shelter Water Source, Some(0.2E), Good water source
+985.3, Drop off, Some(0.5E), Campsite
+985.3, Spring, None, Good water source
+989.1, U.S. 50, None, Road
+989.2, Ashby Gap, None, Road
+989.2, Paris, Some(1.15E), Town
+992.7, Rod Hollow Shelter, Some(0.2W), Shelter
+992.7, Rod Hollow Shelter Water Source, Some(0.2W), Good water source
+996.4, Morgans Mill Road, None, Road
+997.6, Spring, None, Good water source
+999.6, Sam Moore Shelter, Some(0.1E), Shelter
+999.6, Sam Moore Shelter Water Source, Some(0.1E), Good water source
+1002.6, Bears Den Hostel, Some(0.1E), Hostel
+1002.6, Bears Den Hostel, Some(0.1E), Short term resupply
+1003.2, Bluemont, VA, Some(1.7E), Town
+1003.2, Bluemont, VA PO, Some(1.7E), Post office
+1003.2, Snickers Gap, None, Road
+1005.4, Spring, None, Good water source
+1006.4, Sand Spring, None, Good water source
+1010.5, Blackburn Trail Center, Some(0.3E), Shelter
+1010.5, Blackburn Trail Center Water Source, Some(0.3E), Good water source
+1013.8, David Lesser Shelter, Some(0.1E), Shelter
+1013.8, David Lesser Shelter Water Source, Some(0.1E, 0.2), Good water source
+1016.8, Torlones Pizza, Some(0.3W), Restaurant
+1016.8, Torlone Mini-Mart, Some(0.3W), Short term resupply
+1016.8, W.Va. 9, None, Road
+1020.7, VA-WV State Line, None, Other
+1021.3, W. Va. 32, None, Road
+1022.2, U.S. 340, None, Road
+1022.5, The Towns Inn, None, Hostel
+1022.5, Spend the Night Inn, None, Hostel
+1022.5, Hannahs Train Depot Seafood and BBQ, None, Restaurant
+1022.5, The Towns Inn, None, Restaurant
+1022.5, Harpers Ferry, WV, None, Town
+1022.5, Harpers Ferry Library, None, Internet
+1022.5, Harpers Ferry, WV PO, None, Post office
+1022.5, The Outfitter at Harpers Ferry, None, Outfitter
+1022.5, ATC Headquarters, None, Internet
+1022.5, ATC side trail, None, Side trail
+1023.1, shenandoah st, None, Road
+1023.1, shenandoah st, None, Road
+1023.4, C and O Canal Towpath (west end), None, Other
+1024.5, U.S. 340, Sandy Hook Bridge, None, Road
+1026.0, C and O Canal Towpath (east end), None, Other
+1026.1, Harpers Ferry Hostel, Some(1.1W), Hostel
+1026.1, Sandy Hook Grocery, Some(0.9W), Short term resupply
+1026.1, Keep Tryst Rd, None, Road
+1026.6, Weverton Rd, None, Road
+1029.4, Ed Garvey Shelter, Some(0.1E), Shelter
+1029.4, Ed Garvey Shelter Water Source, Some(0.1E, 0.4), Good water source
+1033.1, Gapland Rd, None, Road
+1033.1, Gathland State Park, Some(0.1W), Good water source
+1033.5, Crampton Gap Shelter, Some(0.3E), Shelter
+1033.5, Crampton Gap Shelter Water Source, Some(0.3E), Good water source
+1038.5, Rocky Run Shelter, Some(0.2W), Shelter
+1038.5, Rocky Run Shelter Water Source, Some(0.2W), Good water source
+1039.5, Reno Monument Rd, None, Road
+1040.3, Dahlgren Backpack Campground, None, Campsite
+1040.3, Dahlgren Backpack Campground, None, Shower
+1040.3, Dahlgren Backpack Campground Water, None, Good water source
+1040.3, Dahlgren Backpack Campground, None, Restroom
+1040.5, Old South Mountain Inn, None, Restaurant
+1040.5, Icing Bakery and Cafe, Some(2.4W), Restaurant
+1040.5, Subway, Some(2.4W), Restaurant
+1040.5, Cronise Market Place, Some(2.4W), Short term resupply
+1040.5, Boonsboro Produce Market, Some(2.4W), Short term resupply
+1040.5, Boonsboro, MD, Some(2.4W), Town
+1040.5, Library, Some(2.4W), Internet
+1040.5, Marcys Laundry, Some(2.4W), Laundry
+1040.5, Boonsboro, MD PO, Some(2.4W), Post office
+1040.5, U.S. Alt. 40, None, Road
+1041.9, Monument Rd, None, Road
+1042.1, Washington Monument Rd, None, Road
+1042.1, water source, None, Good water source
+1042.5, Washington Monument, None, Other
+1044.6, Boonsboro Mtn Rd, None, Road
+1045.4, I-70, None, Road
+1046.0, Pine Knob Shelter, Some(0.1W), Shelter
+1046.0, Pine Knob Shelter Water Source, Some(0.1W), Good water source
+1047.6, Annapolis Rocks Campsite, Some(0.25W), Campsite
+1049.2, Pogo Memorial Campsite, None, Campsite
+1049.2, water source, None, Good water source
+1054.0, South of the Border, Some(2.4W), Restaurant
+1054.0, Lewis Farm Market, Some(2.4W), Long term resupply
+1054.0, Smithsburg Market, Some(2.4W), Long term resupply
+1054.0, Food Lion, Some(2.4W), Long term resupply
+1054.0, Smithsburg, MD, Some(2.4W), Town
+1054.0, Ace Hardware, Some(2.4W), Hardware
+1054.0, Smithsburg, MD PO, Some(2.4W), Post office
+1054.0, Library, Some(2.4W), Internet
+1054.0, Md. 17, None, Road
+1054.2, Ensign Cowall Shelter, None, Shelter
+1054.2, Ensign Cowall Shelter Water Source, Some(0.3), Dry water source
+1055.5, Md. 77, None, Road
+1057.3, water source, None, Good water source
+1057.3, Warner Gap Rd, None, Road
+1058.1, Md. 491, None, Road
+1059.1, Raven Rock Shelter, Some(0.2W), Shelter
+1059.1, Raven Rocks Shelter Water Source, Some(0.2W, 0.3), Good water source
+1063.8, GTs Handimart, Some(1.4E), Restaurant
+1063.8, Vinces Pizza, Some(1.4E), Restaurant
+1063.8, Sanders Market, Some(1.4E), Long term resupply
+1063.8, Cascade, MD, Some(1.4E), Town
+1063.8, Cascade, MD PO, Some(1.4E), Post office
+1064.0, PA-MD State Line, None, Other
+1064.0, MasonDixon Line, None, Other
+1064.1, Pen-Mar Rd, None, Road
+1065.1, Buena Vista Rd, None, Road
+1065.1, water source, None, Good water source
+1066.3, Old Pa. 16, None, Road
+1066.6, Summit Plaza, Some(1.2E), Restaurant
+1066.6, Mountain Shadows, Some(1.2E), Restaurant
+1066.6, Food Lion, Some(5.0W), Long term resupply
+1066.6, Walmart, Some(5.0W), Long term resupply
+1066.6, Waynesboro, PA, Some(5.0W), Town
+1066.6, Blue Ridge Summit, PA, Some(1.2E), Town
+1066.6, True Value, Some(1.2E), Hardware
+1066.6, Blue Ridge Summit, PA PO, Some(1.2E), Post office
+1066.6, Library, Some(1.2E), Internet
+1066.6, JJs Laundromat, Some(1.2E), Laundry
+1066.6, Blue Ridge Summit Medical Center, Some(1.2E), Medical
+1066.6, Waynesboro, PA PO, Some(5.0W), Post office
+1066.6, Pa. 16, None, Road
+1066.8, Mentzer Gap Rd, None, Road
+1067.4, Bailey Spring, None, Good water source
+1068.7, Deer Lick Shelters, None, Shelter
+1068.7, Deer Lick Shelters Water Source, Some(0.2E), Good water source
+1071.1, Antietam Shelter, Some(0.2W), Shelter
+1071.5, Rattlesnake Run Rd, None, Road
+1072.1, Old Forge Rd, None, Road
+1072.3, Tumbling Run Shelters, None, Shelter
+1072.3, Tumbling Run Shelters Water Source, None, Good water source
+1076.9, Swamp Rd, None, Road
+1077.2, South Mountain, PA, Some(1.2E), Town
+1077.2, South Mountain, PA PO, Some(1.2E), Post office
+1077.2, Pa. 233, None, Road
+1078.1, Rocky Mountain Shelters, Some(0.2E), Shelter
+1078.1, Rocky Mountain Shelters Water Source, Some(0.2E, 0.3), Good water source
+1081.9, Rite Spot Motel, Some(3.5W), Hotel
+1081.9, Taorminas Pizza, Some(0.3W), Restaurant
+1081.9, Henicles Grocery, Some(0.7W), Long term resupply
+1081.9, Flamingo Family Restaurant, Some(3.5W), Restaurant
+1081.9, Fayetteville, PA, Some(3.5W), Town
+1081.9, Fayetteville, PA PO, Some(3.5W), Post office
+1081.9, U.S. 30, None, Road
+1083.8, Quarry Gap Rd, None, Road
+1084.5, Quarry Gap Shelters, None, Shelter
+1084.5, Quarry Gap Shelters Water Source, None, Good water source
+1086.0, Sandy Sod Jct, None, Road
+1086.7, Caledonia State Park, Some(0.1E), Campsite
+1088.6, Middle Ridge Rd, None, Road
+1089.1, Ridge Rd, None, Road
+1089.5, water source, None, Good water source
+1089.5, Milesburn Rd, None, Road
+1091.9, Birch Run Shelters, None, Shelter
+1091.9, Birch Run Shelters Water Source, None, Good water source
+1093.2, Shippensburg Rd, None, Road
+1097.0, Woodrow Rd, None, Road
+1098.1, Toms Run Shelters, None, Shelter
+1098.1, Toms Run Shelters Water Source, None, Good water source
+1099.9, Halfway Spring, None, Good water source
+1101.5, PA 233, None, Road
+1101.5, PA 233, None, Road
+1101.8, Ironmasters Hostel, None, Hostel
+1101.8, Pine Grove General Store, None, Restaurant
+1101.9, Appalachian Trail Museum, None, Other
+1108.6, Spring, Some(0.1W), Good water source
+1109.0, James Fry Shelter, Some(0.2E), Shelter
+1109.0, James Fry Shelter Water Source, Some(0.2E), Good water source
+1109.5, Cherokee Family Restaurant and Campground, Some(0.4W), Campsite
+1109.5, Cherokee Family Restaurant and Campground, Some(0.4W), Restaurant
+1109.5, Pine Grove Rd, None, Road
+1110.4, Green Mountain Store and Deli, Some(0.2E), Short term resupply
+1110.4, Hunters Run Rd, None, Road
+1112.2, Holly Inn and Restaurant, Some(2.5W), Hotel
+1112.2, Deer Run Camping Resort, Some(0.5W), Campsite
+1112.2, Uni-Mart, Some(2.5W), Short term resupply
+1112.2, Holly Inn and Restaurant, Some(2.5W), Restaurant
+1112.2, Cassells Grill, Some(2.5W), Restaurant
+1112.2, Mt. Holly Springs, PA, Some(2.5W), Town
+1112.2, Library, Some(2.5W), Internet
+1112.2, Mt. Holly Springs, PA PO, Some(2.5W), Post office
+1112.2, Pa. 94, None, Road
+1115.0, Whiskey Spring, None, Good water source
+1115.0, Whiskey Spring Rd, None, Road
+1117.1, Alec Kennedy Shelter, Some(0.2E), Shelter
+1117.1, Alec Kennedy Shelter Water Source, Some(0.2E), Good water source
+1120.5, water source, None, Good water source
+1120.7, campsite, Some(0.2W), Campsite
+1120.7, Yellow Breeches Creek, None, Road
+1120.7, Fishermen's Parking Lot, Bucher Hill Road, None, Road
+1121.0, Red Cardinal B and B, None, Hotel
+1121.0, Allenberry Inn  Playhouse, Some(0.5), Hotel
+1121.0, Gelinas Manor B and B, None, Hotel
+1121.0, Friendly Food Mart, None, Short term resupply
+1121.0, Getty Mart, None, Short term resupply
+1121.0, Allenberry Inn  Playhouse, Some(0.5), Restaurant
+1121.0, Karns Store, None, Long term resupply
+1121.0, Boiling Springs Tavern, None, Restaurant
+1121.0, Anile's Ristorante & Pizzeria, None, Restaurant
+1121.0, Boiling Springs, PA, None, Town
+1121.0, Yellow Breeches Outfitter, None, Outfitter
+1121.0, Boiling Springs, PA PO, None, Post office
+1121.0, Pa. 174, ATC Mid-Atlantic Region Office, None, Road
+1123.0, York Road (Pa. 74), None, Road
+1124.0, Lisburn Road, None, Road
+1125.1, Pa. 641 (Trindle Road), None, Road
+1127.8, Pennsylvania Turnpike, None, Road
+1129.0, Middlesex Diner, Some(0.3W), Restaurant
+1129.0, U.S. 11, None, Road
+1129.9, I-81, None, Road
+1131.3, Scott Farm A.T. Work Center, None, Road
+1132.4, Sherwood Drive, None, Road
+1133.3, Pa. 944 (Wertzville Road), None, Road
+1134.3, Spring, None, Good water source
+1134.9, Cumberland Valley Overlook, None, View
+1135.3, Darlington Shelter, None, Shelter
+1135.3, Darlington Shelter Water Source, None, Good water source
+1137.6, Pa. 850, None, Road
+1142.6, Cove Mountain Shelter, None, Shelter
+1144.5, Hawk Rock, None, View
+1146.2, PA 274, None, Road
+1146.2, PA 274, None, Road
+1146.7, Doyle Hotel, None, Hotel
+1146.7, Riverfront Campground, None, Campsite
+1146.7, Uni-Mart Convenience Store, Some(0.5W), Short term resupply
+1146.7, Doyle Hotel, None, Restaurant
+1146.7, Mutzabaugh Market, Some(0.5W), Long term resupply
+1146.7, All-American Truck Plaza, None, Restaurant
+1146.7, Zeiderellis Pizza, None, Restaurant
+1146.7, Duncannon, PA, None, Town
+1146.7, Duncannon, PA PO, None, Post office
+1146.7, Market St, None, Road
+1147.7, Pa. 849, None, Road
+1148.4, U.S. 22, 322, None, Road
+1150.9, Clarks Ferry Shelter, None, Shelter
+1150.9, Clarks Ferry Shelter Water Source, None, Good water source
+1154.7, Pa. 225, None, Road
+1157.6, Peters Mountain Shelter, None, Shelter
+1157.6, Peters Mountain Shelter Water Source, None, Good water source
+1164.0, Spring, None, Good water source
+1164.3, water source, None, Good water source
+1164.3, Pa. 325, None, Road
+1175.6, Rausch Gap Shelter, Some(0.3E), Shelter
+1175.6, Rausch Gap Shelter Water Source, Some(0.3E), Good water source
+1180.3, Pa. 443, None, Road
+1181.7, Pa. 72, None, Road
+1182.1, I-81, None, Road
+1189.0, William Penn Shelter, None, Shelter
+1189.0, William Penn Shelter Water Source, None, Good water source
+1191.1, Pa. 645, None, Road
+1193.1, 501 Shelter, Some(0.1W), Shelter
+1193.1, Econo Lodge, Some(3.7W), Hotel
+1193.1, Hampton Inn, Some(3.7W), Hotel
+1193.1, Comfort Inn, None, Hotel
+1193.1, BGs Market, Some(3.7W), Long term resupply
+1193.1, Sholl Family Restaurant, Some(3.7W), Restaurant
+1193.1, Turkey Hill Market, Some(3.7W), Short term resupply
+1193.1, PA 501, None, Road
+1193.1, Pine Grove, PA, Some(3.7W), Town
+1193.1, 501 Shelter Water Source, Some(0.1W), Good water source
+1193.1, Pine Grove, PA PO, Some(3.7W), Post office
+1193.1, Dollar General, None, Business
+1193.1, 501 Shelter, Some(0.1W), Shelter
+1193.1, Econo Lodge, Some(3.7W), Hotel
+1193.1, Hampton Inn, Some(3.7W), Hotel
+1193.1, Comfort Inn, None, Hotel
+1193.1, BGs Market, Some(3.7W), Long term resupply
+1193.1, Sholl Family Restaurant, Some(3.7W), Restaurant
+1193.1, Turkey Hill Market, Some(3.7W), Short term resupply
+1193.1, PA 501, None, Road
+1193.1, Pine Grove, PA, Some(3.7W), Town
+1193.1, 501 Shelter Water Source, Some(0.1W), Good water source
+1193.1, Pine Grove, PA PO, Some(3.7W), Post office
+1193.1, Dollar General, None, Business
+1196.2, water source, None, Dry water source
+1198.7, Hertlein Campsite, Some(0.2E), Campsite
+1198.7, water source, None, Good water source
+1202.1, water source, Some(0.2W), Good water source
+1202.4, Pa. 183, None, Road
+1203.7, Black Swatara Spring, Some(0.3W), Good water source
+1207.5, water source, Some(0.2E), Good water source
+1208.2, Eagles Nest Shelter, Some(0.3W), Shelter
+1208.2, Eagles Nest Shelter Water Source, Some(0.3W), Good water source
+1212.8, Phillips Canyon Spring, None, Good water source
+1217.2, Union House Bed and Bath, None, Hotel
+1217.2, Port Clinton Hotel, None, Hotel
+1217.2, Hiker Pavilion, Some(0.3W), Campsite
+1217.2, The Port Clinton Peanut Shop, None, Short term resupply
+1217.2, Port Clinton Hotel, None, Restaurant
+1217.2, 3-Cs Restaurant, None, Restaurant
+1217.2, Port Clinton, PA, None, Town
+1217.2, broad st, None, Road
+1217.2, Port Clinton, PA PO, None, Post office
+1217.2, Union House Bed and Bath, None, Hotel
+1217.2, Port Clinton Hotel, None, Hotel
+1217.2, Hiker Pavilion, Some(0.3W), Campsite
+1217.2, The Port Clinton Peanut Shop, None, Short term resupply
+1217.2, Port Clinton Hotel, None, Restaurant
+1217.2, 3-Cs Restaurant, None, Restaurant
+1217.2, Port Clinton, PA, None, Town
+1217.2, broad st, None, Road
+1217.2, Port Clinton, PA PO, None, Post office
+1217.5, Microtel Inn, Some(3.0E), Hotel
+1217.5, Wendys, Some(3.0E), Restaurant
+1217.5, Walmart, Some(3.0E), Long term resupply
+1217.5, Taco Bell, Some(3.0E), Restaurant
+1217.5, Cabelas, Some(3.0E), Restaurant
+1217.5, Cracker Barrel, Some(3.0E), Restaurant
+1217.5, Shell station, Some(3.0E), Short term resupply
+1217.5, Hamburg, PA, Some(3.0E), Town
+1217.5, Hamburg, PA PO, Some(3.0E), Post office
+1217.5, Pa. 61, None, Road
+1220.0, campsite, None, Campsite
+1220.0, Pocahontas Spring, None, Good water source
+1222.9, Windsor Furnace Shelter, None, Shelter
+1222.9, Windsor Furnace Shelter Water Source, None, Good water source
+1224.5, Pulpit Rock, None, View
+1226.7, The Pinnacle, None, Other
+1232.0, Eckville Shelter, Some(0.2E), Shelter
+1232.0, Eckville Shelter Water Source, Some(0.2E), Good water source
+1232.0, Parking - Eckville PA, Some(0.2E), Other
+1239.4, Allentown Shelter, None, Shelter
+1239.4, Allentown Shelter Water Source, None, Good water source
+1241.3, Fort Franklin Rd, None, Road
+1243.5, Pa. 309, None, Road
+1245.3, New Tripoli Campsite, Some(0.2W), Campsite
+1245.3, water source, Some(0.2W), Good water source
+1246.3, Knife Edge, None, Other
+1247.0, Bear Rocks, None, Other
+1248.4, Bake Oven Knob Rd, None, Road
+1248.8, Bake Oven Knob, None, Other
+1249.4, Bake Oven Knob Shelter, None, Shelter
+1249.4, Bake Oven Knob Shelter Water Source, None, Good water source
+1251.8, Ashfield Rd, None, Road
+1256.2, George W. Outerbridge Shelter, None, Shelter
+1256.2, George W. Outerbridge Shelter Water Source, None, Good water source
+1256.8, Fine Lodging, Some(2.0E), Hotel
+1256.8, Slatington Diner, Some(2.0E), Restaurant
+1256.8, The Shack, Some(2.0E), Restaurant
+1256.8, Slatington, PA, Some(2.0E), Town
+1256.8, A.F. Boyer Hardware, Some(2.0E), Hardware
+1256.8, Slatington, PA PO, Some(2.0E), Post office
+1256.8, Slatington Library, Some(2.0E), Internet
+1256.8, Pa. 873, None, Road
+1257.3, Borough Hall, Some(2.0W), Hostel
+1257.3, The Palmerton Hotel, Some(2.0W), Hotel
+1257.3, Country Harvest, Some(2.0W), Long term resupply
+1257.3, Palmerton Pizza and Restaurant, Some(2.0W), Restaurant
+1257.3, IGA, Some(2.0W), Long term resupply
+1257.3, Hunan House Chinese, Some(2.0W), Restaurant
+1257.3, King Palace Chinese, Some(2.0E), Restaurant
+1257.3, Super Fresh Supermarket, Some(2.0E), Long term resupply
+1257.3, Valley Restaurant and Pizza, Some(2.0E), Restaurant
+1257.3, Palmerton, PA, Some(2.0W), Town
+1257.3, Walnutport, PA, Some(2.0E), Town
+1257.3, PA 248, None, Road
+1257.3, Sheas Hardware and Sporting Goods, Some(2.0W), Hardware
+1257.3, Palmerton, PA PO, Some(2.0W), Post office
+1257.3, Walnutport, PA PO, Some(2.0E), Post office
+1257.3, Borough Hall, Some(2.0W), Hostel
+1257.3, The Palmerton Hotel, Some(2.0W), Hotel
+1257.3, Country Harvest, Some(2.0W), Long term resupply
+1257.3, Palmerton Pizza and Restaurant, Some(2.0W), Restaurant
+1257.3, IGA, Some(2.0W), Long term resupply
+1257.3, Hunan House Chinese, Some(2.0W), Restaurant
+1257.3, King Palace Chinese, Some(2.0E), Restaurant
+1257.3, Super Fresh Supermarket, Some(2.0E), Long term resupply
+1257.3, Valley Restaurant and Pizza, Some(2.0E), Restaurant
+1257.3, Palmerton, PA, Some(2.0W), Town
+1257.3, Walnutport, PA, Some(2.0E), Town
+1257.3, PA 248, None, Road
+1257.3, Sheas Hardware and Sporting Goods, Some(2.0W), Hardware
+1257.3, Palmerton, PA PO, Some(2.0W), Post office
+1257.3, Walnutport, PA PO, Some(2.0E), Post office
+1262.1, Filbert B, Some(1.5E), Hotel
+1262.1, Millers Market, Some(1.5E), Short term resupply
+1262.1, Blue Mountain Family Restaurant, Some(1.5E), Restaurant
+1262.1, Danielsville, PA, Some(1.5E), Town
+1262.1, Danielsville, PA PO, Some(1.5E), Post office
+1262.1, Blue Mtn Rd, None, Road
+1266.9, water source, Some(0.3E), Good water source
+1268.5, Spring, Some(0.7E), Good water source
+1269.4, Smith Gap Rd, None, Road
+1272.9, Leroy A. Smith Shelter, Some(0.1E), Shelter
+1272.9, Leroy A. Smith Shelter Water Source, Some(0.1E, 0.2), Good water source
+1277.5, Travel Inn, Some(1.0E), Hotel
+1277.5, Sunoco Mini Mart, Some(1.0E), Short term resupply
+1277.5, Tonys Pizza, Some(1.0E), Restaurant
+1277.5, Burger King, Some(1.0E), Restaurant
+1277.5, Subway, Some(1.0E), Restaurant
+1277.5, Giant Food Store, Some(1.0E), Long term resupply
+1277.5, Hong Kong Restaurant, Some(1.0E), Restaurant
+1277.5, K-Mart, Some(1.0E), Short term resupply
+1277.5, Turkey Hill Mini Market, Some(1.0E), Short term resupply
+1277.5, Wind Gap, PA, Some(1.0E), Town
+1277.5, Wind Gap, PA PO, Some(1.0E), Post office
+1277.5, Pa. 33, None, Road
+1284.5, Wolf Rocks, None, Other
+1286.0, Pa. 191, None, Road
+1286.6, Kirkridge Shelter, None, Shelter
+1286.6, Kirkridge Shelter Water Source, None, Good water source
+1293.0, Deer Head Inn, Some(0.1W), Hotel
+1293.0, Presbyterian Church of the Mountain Hostel, Some(0.1W), Hostel
+1293.0, Doughboy Pizza, Some(0.1W), Restaurant
+1293.0, BP Mini Mart, Some(0.1W), Short term resupply
+1293.0, DWG Diner, Some(0.1W), Restaurant
+1293.0, Gulf Mini Mart, Some(0.1W), Short term resupply
+1293.0, Delaware Water Gap, PA, Some(0.1W), Town
+1293.0, PA 611, None, Road
+1293.0, The Pack Shack, Some(0.1W), Outfitter
+1293.0, Delaware Water Gap, PA PO, Some(0.1W), Post office
+1293.0, Deer Head Inn, Some(0.1W), Hotel
+1293.0, Presbyterian Church of the Mountain Hostel, Some(0.1W), Hostel
+1293.0, Doughboy Pizza, Some(0.1W), Restaurant
+1293.0, BP Mini Mart, Some(0.1W), Short term resupply
+1293.0, DWG Diner, Some(0.1W), Restaurant
+1293.0, Gulf Mini Mart, Some(0.1W), Short term resupply
+1293.0, Delaware Water Gap, PA, Some(0.1W), Town
+1293.0, PA 611, None, Road
+1293.0, The Pack Shack, Some(0.1W), Outfitter
+1293.0, Delaware Water Gap, PA PO, Some(0.1W), Post office
+1294.3, DWG Natl Rec. Area Visitors Center, None, Good water source
+1296.2, Holly Springs Trail, None, Side trail
+1296.2, water source, Some(0.2E), Good water source
+1298.3, campsite, None, Campsite
+1299.1, Sunfish Pond, None, Other
+1299.2, Spring, None, Good water source
+1303.5, water source, None, Good water source
+1303.5, Camp Rd, None, Road
+1305.9, Catfish Fire Tower, None, Other
+1306.5, Rattlesnake Spring, None, Good water source
+1307.0, Millbrook-Blairstown Rd, None, Road
+1310.9, water source, None, Good water source
+1310.9, Blue Mtn Lakes Rd, None, Road
+1312.9, Crater Lake, Some(0.5E), Good water source
+1317.8, Brink Road Shelter, Some(0.2W), Shelter
+1317.8, Brink Road Shelter Water Source, Some(0.2W), Good water source
+1321.4, China One, Some(3.4E), Restaurant
+1321.4, Belchers Village Market, Some(3.4E), Short term resupply
+1321.4, A and G Pizza  Restaurant, Some(3.4E), Restaurant
+1321.4, Branchville, NJ, Some(3.4E), Town
+1321.4, Branchville, NJ PO, Some(3.4E), Post office
+1321.4, U.S. 206, None, Road
+1323.3, Culver Fire Tower, None, Other
+1324.4, Gren Anderson Shelter, Some(0.1W), Shelter
+1324.4, Gren Anderson Shelter Water Source, Some(0.1W), Good water source
+1326.8, Sunrise Mtn, None, Road
+1330.2, Mashipacong Shelter, None, Shelter
+1332.8, Rutherford Shelter, Some(0.4E), Shelter
+1332.8, Rutherford Shelter Water Source, Some(0.4E), Good water source
+1335.7, Elias Cole Family Restaurant, Some(1.0E), Restaurant
+1335.7, High Point State Park HQ, None, Good water source
+1335.7, N.J. 23, None, Road
+1337.4, High Point Shelter, Some(0.1E), Shelter
+1337.4, High Point Shelter Water Source, Some(0.1E), Good water source
+1338.7, County 519, None, Road
+1341.3, Gemmer Rd, None, Road
+1342.3, Goodrich Rd, None, Road
+1342.7, Jim Murray Secret Shelter, Some(0.2W), Hostel
+1342.8, Goldsmith Rd, None, Road
+1343.6, Unionville Rd, None, Road
+1344.5, Horlers Store, Some(0.4W), Restaurant
+1344.5, Annabels Pizza  Italian Restaurant, Some(0.4W), Restaurant
+1344.5, Unionville, NY, Some(0.4W), Town
+1344.5, Unionville, NY PO, Some(0.4W), Post office
+1344.5, Lott Rd, None, Road
+1345.6, End of the Line Grocery, Some(0.4W), Restaurant
+1345.6, NJ 284, None, Road
+1345.6, End of the Line Grocery, Some(0.4W), Restaurant
+1345.6, NJ 284, None, Road
+1346.1, Oil City Rd, None, Road
+1347.0, Wallkill River, None, Road
+1349.3, Lake Wallkill Rd, None, Road
+1349.3, water source, None, Good water source
+1349.8, Pochuck Mountain Shelter, None, Shelter
+1351.4, Pochuck Mtn, None, Other
+1352.5, County 565, None, Road
+1354.0, Apple Valley Inn and B and B, Some(1.1W), Hotel
+1354.0, Pochuck Valley Farm Market and Deli, Some(1.1W), Short term resupply
+1354.0, Glenwood, NJ, Some(1.1W), Town
+1354.0, Glenwood, NJ PO, Some(1.1W), Post office
+1354.0, County 517, None, Road
+1355.4, Canal Rd, None, Road
+1356.3, St. Thomas Episcopal Church, Some(2.4E), Hostel
+1356.3, A and P Supermarket, Some(2.4E), Long term resupply
+1356.3, Little Anthonys Pizzeria, Some(2.4E), Restaurant
+1356.3, Dunkin Donuts, Some(2.4E), Restaurant
+1356.3, NJ 94, None, Road
+1356.3, Vernon, NJ, Some(2.4E), Town
+1356.3, Vernon Urgent Care, Some(2.4E, 3.5E), Medical
+1356.3, Vernon, NJ PO, Some(2.4E), Post office
+1356.3, St. Thomas Episcopal Church, Some(2.4E), Hostel
+1356.3, A and P Supermarket, Some(2.4E), Long term resupply
+1356.3, Little Anthonys Pizzeria, Some(2.4E), Restaurant
+1356.3, Dunkin Donuts, Some(2.4E), Restaurant
+1356.3, NJ 94, None, Road
+1356.3, Vernon, NJ, Some(2.4E), Town
+1356.3, Vernon Urgent Care, Some(2.4E, 3.5E), Medical
+1356.3, Vernon, NJ PO, Some(2.4E), Post office
+1357.7, Wawayanda Mtn, None, Other
+1359.4, Barrett Rd, None, Road
+1361.1, Wawayanda Rd, None, Road
+1361.3, Wawayanda Shelter, Some(0.1W), Shelter
+1361.3, Wawayanda Shelter Water Source, Some(0.1W, 0.3W), Good water source
+1361.8, Warwick Turnpike, None, Road
+1363.2, Brady Rd, None, Road
+1365.4, NJ-NY State Line, None, Other
+1365.8, Prospect Rock, None, Other
+1371.3, Warwick Motel, Some(4.6W), Hotel
+1371.3, ShopRite, Some(4.6W, 1.4), Long term resupply
+1371.3, Warwick, NY, Some(4.6W), Town
+1371.3, Warwick, NY PO, Some(4.6W), Post office
+1371.3, N.Y. 17A, None, Road
+1372.6, Eastern Pinnacles, None, Other
+1373.4, Wildcat Shelter, None, Shelter
+1374.9, Lakes Rd, None, Road
+1375.2, Fitzgerald Falls, None, Good water source
+1377.2, Mombasha High Pt, None, Other
+1378.4, West Mombasha Rd, None, Road
+1380.1, East Mombasha Rd, None, Road
+1381.5, Orange Tpk, None, Road
+1383.3, Tuxedo Motel, Some(2.1E), Hotel
+1383.3, Baleros, Some(2.1E), Restaurant
+1383.3, Southfields, NY, Some(2.1E), Town
+1383.3, Southfields, NY PO, Some(2.1E), Post office
+1383.3, N.Y. 17, None, Road
+1383.7, Arden Valley Rd, None, Road
+1385.0, Island Pond Outlet, None, Good water source
+1385.6, Lemon Squeezer, None, Other
+1387.7, Fingerboard Shelter, None, Shelter
+1388.8, Arden Valley Rd, None, Road
+1391.0, Seven Lakes Dr, None, Road
+1393.0, William Brien Memorial Shelter, None, Shelter
+1395.1, Palisades Interstate Pkwy, None, Road
+1395.4, Beechy Bottom Brook, None, Good water source
+1396.2, West Mountain Shelter, Some(0.4E), Shelter
+1398.0, Seven Lakes Dr, None, Road
+1400.4, Bear Mtn, None, View
+1400.4, water source, None, Good water source
+1403.1, Bear Mtn Museum, Zoo, Some(0.1W), Other
+1403.2, Bear Mountain Bridge Motel, Some(0.7W), Hotel
+1403.2, Holiday Inn Express, Some(0.7W), Hotel
+1403.2, Mobil Mini Mart, Some(0.7W), Short term resupply
+1403.2, NY 6, None, Road
+1403.2, Ft. Montgomery, NY, Some(0.7W), Town
+1403.2, Ft. Montgomery, NY PO, Some(0.7W), Post office
+1403.2, Bear Mountain Bridge Motel, Some(0.7W), Hotel
+1403.2, Holiday Inn Express, Some(0.7W), Hotel
+1403.2, Mobil Mini Mart, Some(0.7W), Short term resupply
+1403.2, NY 6, None, Road
+1403.2, Ft. Montgomery, NY, Some(0.7W), Town
+1403.2, Ft. Montgomery, NY PO, Some(0.7W), Post office
+1403.9, N.Y. 9D, None, Road
+1405.4, Hemlock Springs Campsite, None, Campsite
+1405.4, water source, None, Good water source
+1405.6, Manitou Rd, None, Road
+1409.0, Shell Station, None, Restaurant
+1409.0, Peekskill, NY, Some(4.5E), Town
+1409.0, Peekskill, NY PO, Some(4.5E), Post office
+1409.0, U.S. 9, N.Y. 403, None, Road
+1409.6, Graymoor Spiritual Life Center, None, Campsite
+1412.3, Chapman Rd, None, Road
+1414.0, Canopus Hill Rd, None, Road
+1415.0, South Highland Rd, None, Road
+1417.7, campsite, None, Campsite
+1417.7, Dennytown Rd, None, Road
+1417.7, water source, None, Good water source
+1419.3, Sunk Mine Rd, None, Road
+1421.4, N.Y. 301, None, Road
+1426.0, Long Hill Rd, None, Road
+1427.1, Shenandoah Tenting Area, None, Campsite
+1427.1, water source, None, Good water source
+1428.4, RPH Shelter, None, Shelter
+1428.4, RPH Shelter Water Source, None, Good water source
+1428.4, Hortontown Rd, None, Road
+1428.7, Taconic State Pkwy, None, Road
+1431.9, Hosner Mtn Rd, None, Road
+1433.5, Dannys Pizzeria, Some(0.3E), Restaurant
+1433.5, Mountain Top Market Deli, Some(0.3E), Restaurant
+1433.5, Stormville, NY, Some(1.9W), Town
+1433.5, Stormville, NY PO, Some(1.9W), Post office
+1433.5, N.Y. 52, None, Road
+1434.9, Stormville Mtn Rd, None, Road
+1437.4, Morgan Stewart Memorial Shelter, None, Shelter
+1437.4, Morgan Stewart Memorial Shelter Water Source, None, Good water source
+1438.5, Depot Hill Rd, None, Road
+1440.4, Old Route 55, None, Road
+1440.7, Poughquag, NY, Some(3.1W), Town
+1440.7, Poughquag, NY PO, Some(3.1W), Post office
+1440.7, N.Y. 55, None, Road
+1441.9, Nuclear Lake, None, Other
+1445.2, Telephone Pioneers Shelter, None, Shelter
+1445.2, Telephone Pioneers Shelter Water Source, None, Good water source
+1445.9, Pawling, NY, Some(3.1E), Town
+1445.9, Pawling, NY PO, Some(3.1E), Post office
+1445.9, West Dover Rd, None, Road
+1448.3, Tonys Deli, Some(0.6E), Restaurant
+1448.3, Appalachian Trail Railroad Station, None, Train
+1448.3, N.Y. 22, None, Road
+1448.5, Hurds Corner Rd, None, Road
+1453.5, Leather Hill Rd, None, Road
+1454.0, Wiley Shelter, None, Shelter
+1454.0, Wiley Shelter Water Source, None, Good water source
+1454.2, Duell Hollow Rd, None, Road
+1455.2, Wingdale, NY, Some(3.3W), Town
+1455.2, Wingdale, NY PO, Some(3.3W), Post office
+1455.2, Hoyt Rd, None, Road
+1455.2, NY-Conn. State Line, None, Other
+1455.9, Gaylordsville Country Store, Some(2.5E), Restaurant
+1455.9, Gaylordsville, CT, Some(2.5E), Town
+1455.9, Gaylordsville, CT PO, Some(2.5E), Post office
+1455.9, Conn. 55, None, Road
+1458.0, Ten Mile River Lean-to, None, Shelter
+1458.0, Ten Mile River Lean-to Water Source, None, Good water source
+1458.2, campsite, None, Campsite
+1458.2, Ten Mile River, None, Good water source
+1458.9, Country Market, Some(0.5E), Short term resupply
+1458.9, Bulls Bridge road, None, Road
+1459.6, Schaghticoke Rd, None, Road
+1461.3, Schaghticoke Mtn, None, Other
+1463.5, Schaghticoke Mtn Campsite, None, Campsite
+1463.5, water source, None, Good water source
+1466.4, Mt. Algo Shelter, None, Shelter
+1466.4, Mt. Algo Shelter Water Source, None, Good water source
+1466.7, Fife n Drum Inn and Restaurant, Some(0.8E), Hotel
+1466.7, Starbuck Inn, Some(0.8E), Hotel
+1466.7, Fife n Drum Inn and Restaurant, Some(0.8E), Restaurant
+1466.7, Shanghai Chinese, Some(0.8E), Restaurant
+1466.7, Davis IGA, Some(0.8E), Long term resupply
+1466.7, Kent Market, Some(0.8E), Restaurant
+1466.7, CT 341, None, Road
+1466.7, Kent, CT, Some(0.8E), Town
+1466.7, Kent Memorial Library, Some(0.8E), Internet
+1466.7, Backcountry Outfitters, Some(0.8E), Outfitter
+1466.7, Kent, CT PO, Some(0.8E), Post office
+1466.7, Fife n Drum Inn and Restaurant, Some(0.8E), Hotel
+1466.7, Starbuck Inn, Some(0.8E), Hotel
+1466.7, Fife n Drum Inn and Restaurant, Some(0.8E), Restaurant
+1466.7, Shanghai Chinese, Some(0.8E), Restaurant
+1466.7, Davis IGA, Some(0.8E), Long term resupply
+1466.7, Kent Market, Some(0.8E), Restaurant
+1466.7, CT 341, None, Road
+1466.7, Kent, CT, Some(0.8E), Town
+1466.7, Kent Memorial Library, Some(0.8E), Internet
+1466.7, Backcountry Outfitters, Some(0.8E), Outfitter
+1466.7, Kent, CT PO, Some(0.8E), Post office
+1469.5, Skiff Mtn Rd, None, Road
+1470.9, St. Johns Ledges, None, Other
+1471.4, River Rd, None, Road
+1473.7, Stewart Hollow Brook Lean-to, None, Shelter
+1473.7, Stewart Hollow Brook Lean-to Water Source, None, Good water source
+1474.1, Stony Brook Campsite, None, Campsite
+1474.1, water source, None, Good water source
+1476.1, River Rd, None, Road
+1477.8, Hitching Post Motel, Some(0.9E), Hotel
+1477.8, Housatonic Meadows Lodge B and B, Some(0.9E), Hotel
+1477.8, Bairds General Store, Some(0.9E), Restaurant
+1477.8, Cornwall Bridge, CT, Some(0.9E), Town
+1477.8, Cornwall Bridge, CT PO, Some(0.9E), Post office
+1477.8, Housatonic River Outfitters, Some(0.9E), Outfitter
+1477.8, Housatonic Veterinary Care, Some(0.9E), Veterinarian
+1477.8, Conn. 4, None, Road
+1478.0, Old Sharon Rd, None, Road
+1480.3, Caesar Brook Campsite, None, Campsite
+1480.3, water source, None, Good water source
+1482.5, Carse Brook, None, Good water source
+1482.6, West Cornwall Market, Some(2.2E), Short term resupply
+1482.6, Wandering Moose Cafe, Some(2.2E), Restaurant
+1482.6, Sharon, CT, Some(4.7W), Town
+1482.6, West Cornwall, CT, Some(2.2E), Town
+1482.6, Sharon, CT PO, Some(4.7W), Post office
+1482.6, West Cornwall, CT PO, Some(2.2E), Post office
+1482.6, Clarke Outdoors, Some(2.2E), Outfitter
+1482.6, West Cornwall Rd, None, Road
+1483.7, Pine Swamp Brook Lean-to, None, Shelter
+1483.7, Pine Swamp Brook Lean-to Water Source, None, Good water source
+1484.6, Sharon Mtn Rd, None, Road
+1486.1, Sharon Mtn Campsite, None, Campsite
+1486.1, water source, None, Good water source
+1488.9, Belters Campsite, None, Campsite
+1488.9, water source, None, Good water source
+1489.3, U.S. 7, Conn. 112, None, Road
+1489.9, U.S. 7, None, Road
+1491.8, Hydroelectric Plant, None, Shower
+1491.8, Water Street, None, Road
+1491.9, Horsetail Farm B and B, Some(0.5E), Hotel
+1491.9, Toymakers Cafe, Some(0.5E), Restaurant
+1491.9, Falls Village, CT, Some(0.5E), Town
+1491.9, Falls Village, CT PO, Some(0.5E), Post office
+1491.9, Iron Bridge, None, Road
+1492.5, Housatonic River Rd, None, Road
+1493.0, Spring, None, Good water source
+1494.4, Prospect Mtn, None, Other
+1495.1, Limestone Spring Lean-to, Some(0.5W), Shelter
+1495.1, Limestone Spring Lean-to Water Source, Some(0.5W), Good water source
+1495.2, Rands View, None, View
+1496.0, Billys View, None, View
+1498.5, U.S. 44, None, Road
+1499.2, Vanessa Breton, Some(0.4W), Hostel
+1499.2, Maria McCabe, Some(0.4W), Hostel
+1499.2, LaBonnes Epicure Market, Some(0.4W), Long term resupply
+1499.2, The Roast Coffee House, Some(0.4W), Restaurant
+1499.2, Salisbury, CT, Some(0.4W), Town
+1499.2, US 41, None, Road
+1499.2, Salisbury, CT PO, Some(0.4W), Post office
+1499.2, Scoville Memorial Library, Some(0.4W), Internet
+1499.2, Vanessa Breton, Some(0.4W), Hostel
+1499.2, Maria McCabe, Some(0.4W), Hostel
+1499.2, LaBonnes Epicure Market, Some(0.4W), Long term resupply
+1499.2, The Roast Coffee House, Some(0.4W), Restaurant
+1499.2, Salisbury, CT, Some(0.4W), Town
+1499.2, US 41, None, Road
+1499.2, Salisbury, CT PO, Some(0.4W), Post office
+1499.2, Scoville Memorial Library, Some(0.4W), Internet
+1500.0, Bass Pro Shop, Some(15.0E), Outfitter
+1501.9, Lions Head, None, View
+1502.6, Riga Lean-to, None, Shelter
+1502.6, Riga Lean-to Water Source, None, Good water source
+1503.2, Ball Brook Campsite, None, Campsite
+1503.2, water source, None, Good water source
+1503.8, Brassie Brook Lean-to, None, Shelter
+1503.8, Brassie Brook Lean-to Water Source, None, Good water source
+1505.2, Bear Mtn, None, Other
+1505.9, Conn.-Mass. State Line, None, Other
+1506.0, Sages Ravine Brook Campsite, None, Campsite
+1506.0, water source, None, Good water source
+1506.6, Sages Ravine, None, Good water source
+1507.9, Laurel Ridge Campsite, None, Campsite
+1507.9, water source, None, Good water source
+1511.5, road, None, Road
+1512.2, road, None, Road
+1512.6, The Hemlocks Lean-to, None, Shelter
+1512.6, The Hemlocks Lean-to Water Source, None, Good water source
+1512.7, Glen Brook Lean-to, Some(0.1E), Shelter
+1512.7, Glen Brook Lean-to Water Source, Some(0.1E), Good water source
+1516.1, Jug End Rd, None, Road
+1517.0, Weathervane Inn, Some(1.2W), Hotel
+1517.0, Country Market, Some(1.2W), Restaurant
+1517.0, Moms Country Cafe, Some(1.2W), Restaurant
+1517.0, South Egremont, MA, Some(1.2W), Town
+1517.0, South Egremont, MA PO, Some(1.2W), Post office
+1517.0, Mass. 41, None, Road
+1518.8, South Egremont Rd, None, Road
+1520.6, Days Inn, Some(1.8W), Hotel
+1520.6, Race Brook Lodge, Some(7.5E), Hotel
+1520.6, Price Chopper, Some(1.8W), Long term resupply
+1520.6, Big Y Foods, Some(1.8W), Long term resupply
+1520.6, Sheffield Market Place, Some(3.2E), Long term resupply
+1520.6, Great Barrington, MA, Some(1.8W), Town
+1520.6, Sheffield, MA, Some(3.2E), Town
+1520.6, Great Barrington, MA PO, Some(1.8W), Post office
+1520.6, Sheffield, MA PO, Some(3.2E), Post office
+1520.6, U.S. 7, None, Road
+1521.5, road, None, Road
+1523.5, Homes Rd, None, Road
+1527.0, Tom Leonard Lean-to, None, Shelter
+1527.0, Tom Leonard Lean-to Water Source, Some(0.2E), Good water source
+1528.1, Lake Buel Rd, None, Road
+1529.0, Monterey General Store, Some(4.3E), Long term resupply
+1529.0, Monterey, MA, Some(4.3E), Town
+1529.0, Monterey, MA PO, Some(4.3E), Post office
+1529.0, Mass. 23, None, Road
+1530.2, Blue Hill Rd, None, Road
+1531.0, Benedict Pond, Some(0.5W), Campsite
+1531.0, water source, Some(0.5W), Good water source
+1532.3, Mt. Wilcox South Shelter, None, Shelter
+1532.3, Mt. Wilcox South Shelter Water Source, None, Good water source
+1534.1, Mt. Wilcox North Shelter, Some(0.3E), Shelter
+1534.1, Mt. Wilcox North Shelter Water Source, Some(0.3E), Good water source
+1534.7, water source, None, Good water source
+1534.7, Beartown Mtn Rd, None, Road
+1537.9, Fernside Rd, None, Road
+1537.9, water source, None, Good water source
+1538.2, Shaker Campsite, None, Campsite
+1540.0, Cobble View B and B, Some(0.6W), Hotel
+1540.0, Tyringham, MA, Some(0.6W), Town
+1540.0, water source, None, Good water source
+1540.0, Jerusalem Rd, None, Road
+1540.0, Library, Some(0.6W), Internet
+1540.0, Tyringham, MA PO, Some(0.6W), Post office
+1543.0, water source, None, Good water source
+1543.0, Webster Rd, None, Road
+1545.4, Goose Pond Rd, None, Road
+1547.3, Upper Goose Pond, None, Other
+1548.1, Upper Goose Pond Cabin, Some(0.5W), Shelter
+1548.1, Upper Goose Pond Cabin Water Source, Some(0.5W), Good water source
+1549.4, Greenwater Brook, None, Good water source
+1549.7, Rodeway Inn, Some(5.0W), Hotel
+1549.7, Joes Diner, Some(5.0W), Restaurant
+1549.7, Price Chopper, Some(5.0W), Long term resupply
+1549.7, Athenas Pizza House, Some(5.0W), Restaurant
+1549.7, Lee, MA, Some(5.0W), Town
+1549.7, Lee, MA PO, Some(5.0W), Post office
+1550.5, Tyne Rd, None, Road
+1552.8, Finerty Pond, None, Good water source
+1555.1, County Rd, None, Road
+1556.9, October Mountain Lean-to, None, Shelter
+1556.9, October Mountain Lean-to Water Source, None, Good water source
+1557.6, West Branch Rd, None, Road
+1559.1, Cookie Lady, Some(0.1E), Short term resupply
+1559.1, Washington Mtn Rd, None, Road
+1561.1, Stream, None, Good water source
+1562.3, Blotz Rd, None, Road
+1565.7, Kay Wood Lean-to, Some(0.2E), Shelter
+1565.7, Kay Wood Lean-to Water Source, Some(0.2E), Good water source
+1566.0, Grange Hall Rd, None, Road
+1568.7, Shamrock Village Inn, None, Hotel
+1568.7, Tom Levardi, None, Campsite
+1568.7, Cumberland Farms, None, Short term resupply
+1568.7, Dalton General Store, None, Restaurant
+1568.7, Angelinas Subs, None, Restaurant
+1568.7, Dalton, MA, None, Town
+1568.7, MA 8 / 9, None, Road
+1568.7, Dalton, MA PO, None, Post office
+1568.7, Dalton Laundry, None, Laundry
+1568.7, Library, None, Internet
+1568.7, Shamrock Village Inn, None, Hotel
+1568.7, Tom Levardi, None, Campsite
+1568.7, Cumberland Farms, None, Short term resupply
+1568.7, Dalton General Store, None, Restaurant
+1568.7, Angelinas Subs, None, Restaurant
+1568.7, Dalton, MA, None, Town
+1568.7, MA 8 / 9, None, Road
+1568.7, Dalton, MA PO, None, Post office
+1568.7, Dalton Laundry, None, Laundry
+1568.7, Library, None, Internet
+1569.7, Gulf Rd, None, Road
+1573.4, Crystal Mtn Campsite, Some(0.2E), Campsite
+1573.4, water source, Some(0.2E), Good water source
+1577.7, H.D. Reynolds, Some(0.1W), Short term resupply
+1577.7, Cheshire, MA, Some(0.1W), Town
+1577.7, Cheshire, MA PO, Some(0.1W), Post office
+1577.7, Church St, None, Road
+1578.2, Mount Greylock Inn, Some(4.0E), Hotel
+1578.2, Pizza Jims, Some(4.0E), Restaurant
+1578.2, Big Y Foods, Some(4.0E), Long term resupply
+1578.2, Adams, MA, Some(4.0E), Town
+1578.2, Adams, MA PO, Some(4.0E), Post office
+1578.2, Mass. 8, None, Road
+1579.0, Outlook Ave, None, Road
+1581.7, Old Adams Rd, None, Road
+1582.6, Mark Noepel Lean-to, Some(0.2E), Shelter
+1582.6, Mark Noepel Lean-to Water Source, Some(0.2E), Good water source
+1585.4, Notch Rd, None, Road
+1585.9, Summit Rd, None, Road
+1585.9, Mt. Greylock, None, Other
+1589.1, Notch Rd, None, Road
+1589.1, water source, None, Good water source
+1589.2, Wilbur Clearing Lean-to, Some(0.3W), Shelter
+1589.2, Wilbur Clearing Lean-to Water Source, Some(0.3W), Good water source
+1591.3, Pattison Rd, None, Road
+1591.3, water source, None, Good water source
+1592.2, Williamstown Motel, Some(1.4W), Hotel
+1592.2, Howard Johnson, Some(1.4W), Hotel
+1592.2, Friendlys, Some(2.5E), Restaurant
+1592.2, Price Chopper, Some(2.5E), Long term resupply
+1592.2, Chinese Buffet, Some(2.5E), Restaurant
+1592.2, Desperados Mexican Grille, Some(1.4W), Restaurant
+1592.2, Wild Oats Whole Foods Market, Some(1.4W), Long term resupply
+1592.2, Spice Root, Some(1.4W), Restaurant
+1592.2, Thai Garden, Some(1.4W), Restaurant
+1592.2, Chopsticks Asian, Some(1.4W), Restaurant
+1592.2, Angelinas Subs, Some(1.4W), Restaurant
+1592.2, North Adams, MA, Some(2.5E), Town
+1592.2, Williamstown, MA, Some(1.4W), Town
+1592.2, North Adams, MA PO, Some(2.5E), Post office
+1592.2, YMCA, Some(2.5E), Shower
+1592.2, Williamstown, MA PO, Some(1.4W), Post office
+1592.2, American Cab and Livery, Some(1.4W), Shuttle
+1592.2, Mass. 2, None, Road
+1594.0, Sherman Brook Primitive Campsite, Some(0.1W), Campsite
+1594.0, water source, None, Good water source
+1596.3, Mass.-VT State Line, None, Other
+1596.7, Brook, None, Good water source
+1599.1, Seth Warner Shelter, Some(0.1W), Shelter
+1599.1, Seth Warner Shelter Water Source, Some(0.1W), Good water source
+1599.4, County Rd, None, Road
+1602.1, Roaring Branch, None, Good water source
+1606.3, Congdon Shelter, None, Shelter
+1606.3, Congdon Shelter Water Source, None, Good water source
+1610.6, Autumn Inn, Some(5.1W), Hotel
+1610.6, Henrys Market, Some(5.1W), Short term resupply
+1610.6, Rattlesnake Cafe, Some(5.1W), Restaurant
+1610.6, Spice and Nice Natural Foods, Some(5.1W), Short term resupply
+1610.6, Bennington, VT, Some(5.1W), Town
+1610.6, VT 9, None, Road
+1610.6, water source, None, Good water source
+1610.6, Bennington, VT PO, Some(5.1W), Post office
+1610.6, Bennington Taxi, Some(5.1W), Shuttle
+1610.6, Bennington Free Library, Some(5.1W), Internet
+1610.6, Autumn Inn, Some(5.1W), Hotel
+1610.6, Henrys Market, Some(5.1W), Short term resupply
+1610.6, Rattlesnake Cafe, Some(5.1W), Restaurant
+1610.6, Spice and Nice Natural Foods, Some(5.1W), Short term resupply
+1610.6, Bennington, VT, Some(5.1W), Town
+1610.6, VT 9, None, Road
+1610.6, water source, None, Good water source
+1610.6, Bennington, VT PO, Some(5.1W), Post office
+1610.6, Bennington Taxi, Some(5.1W), Shuttle
+1610.6, Bennington Free Library, Some(5.1W), Internet
+1612.2, Melville Nauheim Shelter, Some(0.1E), Shelter
+1612.2, Melville Nauheim Shelter Water Source, Some(0.1E), Good water source
+1613.8, Hell Hollow Brook, None, Good water source
+1620.7, Goddard Shelter, None, Shelter
+1620.7, Goddard Shelter Water Source, None, Good water source
+1625.0, Kid Gore Shelter, None, Shelter
+1625.0, Kid Gore Shelter Water Source, None, Good water source
+1628.7, South Alder Brook, None, Good water source
+1629.6, Story Spring Shelter, None, Shelter
+1629.6, Story Spring Shelter Water Source, None, Good water source
+1633.2, Stratton-Arlington Rd, None, Road
+1633.2, water source, None, Good water source
+1637.0, Stratton Mtn, None, Other
+1640.0, Stratton Pond Shelter, Some(0.2W), Shelter
+1640.0, Stratton Pond Shelter Water Source, Some(0.2W), Good water source
+1640.2, North Shore Tenting Area, Some(0.5W), Campsite
+1640.2, Stratton Pond, None, Good water source
+1640.2, water source, Some(0.5W), Good water source
+1642.1, Winhall River, None, Good water source
+1644.9, William B. Douglas Shelter, Some(0.5W), Shelter
+1644.9, William B. Douglas Shelter Water Source, Some(0.5W), Good water source
+1645.8, water source, None, Good water source
+1645.8, Old Rootville Rd, None, Road
+1647.9, Spruce Peak Shelter, Some(0.1W), Shelter
+1647.9, Spruce Peak Shelter Water Source, Some(0.1W), Good water source
+1650.7, Suttons Place, Some(5.5W), Hotel
+1650.7, Green Mountain House, Some(5.5W), Hostel
+1650.7, Manchester Pizza House, Some(5.5W), Restaurant
+1650.7, Friendlys, Some(5.5W), Restaurant
+1650.7, Shaws, Some(5.5W), Long term resupply
+1650.7, Price Chopper, Some(5.5W), Long term resupply
+1650.7, Manchester Center, VT, Some(5.5W), Town
+1650.7, VT 11 / 30, None, Road
+1650.7, Manchester Taxi, Some(5.5W), Shuttle
+1650.7, Eastern Mountain Sports, Some(5.5W), Outfitter
+1650.7, Library, Some(5.5W), Internet
+1650.7, The Mountain Goat, Some(5.5W), Outfitter
+1650.7, Manchester Center, VT PO, Some(5.5W), Post office
+1650.7, Suttons Place, Some(5.5W), Hotel
+1650.7, Green Mountain House, Some(5.5W), Hostel
+1650.7, Manchester Pizza House, Some(5.5W), Restaurant
+1650.7, Friendlys, Some(5.5W), Restaurant
+1650.7, Shaws, Some(5.5W), Long term resupply
+1650.7, Price Chopper, Some(5.5W), Long term resupply
+1650.7, Manchester Center, VT, Some(5.5W), Town
+1650.7, VT 11 / 30, None, Road
+1650.7, Manchester Taxi, Some(5.5W), Shuttle
+1650.7, Eastern Mountain Sports, Some(5.5W), Outfitter
+1650.7, Library, Some(5.5W), Internet
+1650.7, The Mountain Goat, Some(5.5W), Outfitter
+1650.7, Manchester Center, VT PO, Some(5.5W), Post office
+1652.7, Bromley Shelter, Some(0.1E), Shelter
+1652.7, Bromley Shelter Water Source, Some(0.1E), Good water source
+1653.7, Bromley Mtn, None, Other
+1656.2, water source, None, Good water source
+1656.2, USFS 21, None, Road
+1660.8, Peru Peak Shelter, None, Shelter
+1660.8, Peru Peak Shelter Water Source, None, Good water source
+1661.3, Griffith Lake Tenting Area, None, Campsite
+1661.3, Griffith Lake, None, Good water source
+1661.5, Griffith Lake, None, Good water source
+1665.5, Lost Pond Shelter, None, Shelter
+1665.5, Lost Pond Shelter Water Source, None, Good water source
+1667.0, Old Job Shelter, Some(1.0E), Shelter
+1667.0, Old Job Shelter Water Source, Some(1.0E), Good water source
+1667.2, Big Branch Shelter, None, Shelter
+1667.2, Big Branch Shelter Water Source, None, Good water source
+1668.3, Silas Griffith Inn, Some(3.5W), Hotel
+1668.3, Nichols Store, Some(3.5W), Short term resupply
+1668.3, Alices Someday Cafe, Some(3.5W), Restaurant
+1668.3, Mt. Tabor Country Store, Some(3.5W), Short term resupply
+1668.3, Danby, VT, Some(3.5W), Town
+1668.3, Landgrove Rd, None, Road
+1668.3, Black Branch, None, Good water source
+1668.3, Danby, VT PO, Some(3.5W), Post office
+1670.3, Little Rock Pond Shelter, None, Shelter
+1670.3, Spring, None, Good water source
+1670.3, Little Rock Pond Shelter Water Source, Some(0.1), Good water source
+1670.5, Little Rock Pond Shelter & Tenting Area, None, Shelter
+1675.3, Greenwall Shelter, Some(0.2E), Shelter
+1675.3, Greenwall Shelter Water Source, Some(0.2E), Good water source
+1675.8, Sugar Hill Rd, None, Road
+1676.7, Cumberland Farms, Some(2.8W), Short term resupply
+1676.7, Wallingford Country Store and Deli, Some(2.8W), Short term resupply
+1676.7, Moms Restaurant, Some(2.8W), Restaurant
+1676.7, Midway Mobil Mart, Some(2.8W), Short term resupply
+1676.7, Wallingford, VT, Some(2.8W), Town
+1676.7, Vt. 140, None, Road
+1676.7, water source, None, Good water source
+1676.7, Gilbert Hart Library, Some(2.8W), Internet
+1676.7, Wallingford, VT PO, Some(2.8W), Post office
+1680.4, Minerva Hinchey Shelter, None, Shelter
+1680.4, Minerva Hinchey Shelter Water Source, None, Good water source
+1683.0, Mill River, None, Good water source
+1683.1, Whistle Stop Corner Restaurant, Some(0.5W), Restaurant
+1683.1, Vt. 103, None, Road
+1684.1, Clarendon Shelter, Some(0.1E), Shelter
+1684.1, Clarendon Shelter Water Source, Some(0.1E), Good water source
+1685.0, Lottery Rd, None, Road
+1687.0, Lower Cold River Rd, None, Road
+1687.8, Gould Brook, None, Good water source
+1688.5, Upper Cold River Rd, None, Road
+1688.5, water source, None, Good water source
+1690.2, Governor Clement Shelter, None, Shelter
+1690.2, Governor Clement Shelter Water Source, None, Good water source
+1694.5, Cooper Lodge, None, Shelter
+1694.5, Cooper Lodge Water Source, None, Good water source
+1697.0, Pico Camp, Some(0.5E), Shelter
+1698.9, Churchill Scott Shelter, Some(0.1W), Shelter
+1698.9, Churchill Scott Shelter Water Source, Some(0.1W), Good water source
+1700.8, Back Home Again Cafe, Some(7.5W), Hostel
+1700.8, Kong Chow, Some(7.5W), Restaurant
+1700.8, Rutland Food Coop, Some(7.5W), Long term resupply
+1700.8, Pizza Hut, Some(7.5W), Restaurant
+1700.8, Price Chopper, Some(7.5W), Long term resupply
+1700.8, Back Home Again Cafe, Some(7.5W), Restaurant
+1700.8, Rutland, VT, Some(7.5W), Town
+1700.8, US 4, None, Road
+1700.8, water source, None, Good water source
+1700.8, Eastern Mountain Sports, Some(7.5W), Outfitter
+1700.8, Mountain Travelers Outdoor Shop, Some(7.5W), Outfitter
+1700.8, Rutland Free Library, Some(7.5W), Internet
+1700.8, Rutland, VT PO, Some(7.5W), Post office
+1700.8, Dicks Sporting Goods, Some(7.5W), Outfitter
+1700.8, Back Home Again Cafe, Some(7.5W), Hostel
+1700.8, Kong Chow, Some(7.5W), Restaurant
+1700.8, Rutland Food Coop, Some(7.5W), Long term resupply
+1700.8, Pizza Hut, Some(7.5W), Restaurant
+1700.8, Price Chopper, Some(7.5W), Long term resupply
+1700.8, Back Home Again Cafe, Some(7.5W), Restaurant
+1700.8, Rutland, VT, Some(7.5W), Town
+1700.8, US 4, None, Road
+1700.8, water source, None, Good water source
+1700.8, Eastern Mountain Sports, Some(7.5W), Outfitter
+1700.8, Mountain Travelers Outdoor Shop, Some(7.5W), Outfitter
+1700.8, Rutland Free Library, Some(7.5W), Internet
+1700.8, Rutland, VT PO, Some(7.5W), Post office
+1700.8, Dicks Sporting Goods, Some(7.5W), Outfitter
+1701.8, Tucker JohnsonShelter, Some(0.4W), Shelter
+1701.8, Tucker JohnsonShelter Water Source, Some(0.4W), Good water source
+1702.7, The Inn at Long Trail, Some(0.5E), Hotel
+1702.7, The Inn at Long Trail, Some(0.5E), Restaurant
+1704.1, Killington Motel, Some(0.6E), Hotel
+1704.1, Deli at Killington Corners, Some(0.6E), Restaurant
+1704.1, Original General Store, Some(6.0W), Restaurant
+1704.1, Pittstop Gas Station and Market, Some(6.0W), Short term resupply
+1704.1, Killington, VT, Some(0.6E), Town
+1704.1, Pittsfield, VT, Some(6.0W), Town
+1704.1, Killington, VT PO, Some(0.6E), Post office
+1704.1, Pittsfield, VT PO, Some(6.0W), Post office
+1704.1, Vt. 100, None, Road
+1706.0, Thundering Brook Rd, None, Road
+1706.5, River Rd, None, Road
+1710.8, Stony Brook Shelter, Some(0.1E), Shelter
+1711.1, Stony Brook, None, Good water source
+1720.7, Wintturi Shelter, Some(0.2W), Shelter
+1720.7, Wintturi Shelter Water Source, Some(0.2W), Good water source
+1724.5, water source, None, Good water source
+1724.5, Woodstock, VT, Some(4.4E), Town
+1724.5, Vt. 12, None, Road
+1724.5, Library, Some(4.4E), Internet
+1724.5, Woodstock, VT PO, Some(4.4E), Post office
+1726.0, Woodstock Stage Rd, None, Road
+1726.0, water source, None, Good water source
+1726.0, South Pomfret, VT, Some(1.0E), Town
+1726.0, South Pomfret, VT PO, Some(1.0E), Post office
+1728.2, water source, None, Good water source
+1728.2, South Pomfret Rd, None, Road
+1730.0, Cloudland Rd, None, Road
+1732.3, Thistle Hill Shelter, Some(0.1E), Shelter
+1732.3, Thistle Hill Shelter Water Source, Some(0.1E), Good water source
+1733.8, Joe Ranger Rd, None, Road
+1737.1, West Hartford Village Store, None, Short term resupply
+1737.1, West Hartford, VT, None, Town
+1737.1, Vt. 14, None, Road
+1737.7, Tigertown Rd, None, Road
+1738.5, Podunk Brook, None, Good water source
+1738.5, Podunk Rd, None, Road
+1741.1, Happy Hill Shelter, Some(0.1E), Shelter
+1741.1, Happy Hill Shelter Water Source, Some(0.1E), Good water source
+1745.4, Norwich Inn, None, Hotel
+1745.4, Dan and Whits, None, Long term resupply
+1745.4, Norwich Inn, None, Restaurant
+1745.4, Norwich, VT, None, Town
+1745.4, Norwich, VT PO, None, Post office
+1745.4, U.S. 5, None, Road
+1746.4, VT-NH State Line, None, Other
+1746.9, Bagel Basement, None, Restaurant
+1746.9, CVS Pharmacy, None, Short term resupply
+1746.9, Hanover Food Co-op, None, Long term resupply
+1746.9, Jewel of India, None, Restaurant
+1746.9, Everything But Anchovies, None, Restaurant
+1746.9, Hanover, NH, None, Town
+1746.9, Mountain Goat, None, Outfitter
+1746.9, Howe Public Library, None, Internet
+1746.9, Dartmouth Outing Club, None, Info
+1746.9, Hanover PO, None, Post office
+1746.9, N.H. 10, None, Road
+1746.9, Bagel Basement, None, Restaurant
+1746.9, CVS Pharmacy, None, Short term resupply
+1746.9, Hanover Food Co-op, None, Long term resupply
+1746.9, Jewel of India, None, Restaurant
+1746.9, Everything But Anchovies, None, Restaurant
+1746.9, Hanover, NH, None, Town
+1746.9, Mountain Goat, None, Outfitter
+1746.9, Howe Public Library, None, Internet
+1746.9, Dartmouth Outing Club, None, Info
+1746.9, Hanover PO, None, Post office
+1746.9, N.H. 10, None, Road
+1747.6, N.H. 120, None, Road
+1748.4, Velvet Rocks Shelter, Some(0.1W), Shelter
+1748.4, Velvet Rocks Shelter Water Source, Some(0.1W, 0.2), Good water source
+1748.9, Ledyard Spring, Some(0.4W), Good water source
+1751.4, Trescott Rd, None, Road
+1752.8, Tiggers Treehouse Hostel, Some(0.7E), Hostel
+1752.8, Etna General Store, Some(0.7E), Short term resupply
+1752.8, Etna-Hanover Center Rd, None, Road
+1755.3, Three Mile Rd, None, Road
+1755.5, Mink Brook, None, Good water source
+1757.1, Moose Mtn, None, Other
+1757.9, Moose Mountain Shelter, None, Shelter
+1757.9, Moose Mountain Shelter Water Source, None, Good water source
+1759.8, South Fork, Hewes Brook, None, Good water source
+1761.1, Goose Pond Rd, None, Road
+1763.6, Trapper John Shelter, Some(0.2W), Shelter
+1763.6, Trapper John Shelter Water Source, Some(0.2W), Good water source
+1764.5, Dowds Country Inn B and B, Some(3.2W), Hotel
+1764.5, Country Store and Deli, Some(3.2W), Restaurant
+1764.5, Stellas Italian Kitchen and Market, Some(3.2W), Restaurant
+1764.5, Lyme, NH, Some(3.2W), Town
+1764.5, Lyme, NH PO, Some(3.2W), Post office
+1764.5, Lyme-Dorchester Rd, None, Road
+1766.5, water source, None, Good water source
+1766.5, LymeDorchester Rd, None, Road
+1770.2, Smarts Mtn Tentsite, None, Campsite
+1770.2, water source, None, Good water source
+1770.3, Firewardens Cabin, None, Shelter
+1770.3, Firewardens Cabin Water Source, None, Good water source
+1774.2, South Jacobs Brook, None, Good water source
+1775.6, Hexacuba Shelter, Some(0.2E), Shelter
+1775.6, Hexacuba Shelter Water Source, Some(0.2E, 0.3), Good water source
+1777.2, Mt Cube, None, View
+1780.5, Shawnees General Store, Some(4.8E), Long term resupply
+1780.5, Wentworth, NH, Some(4.8E), Town
+1780.5, Wentworth, NH PO, Some(4.8E), Post office
+1780.5, N.H. 25A, None, Road
+1782.1, Cape Moonshine Rd, None, Road
+1785.3, Warren, NH, Some(4.0E), Town
+1785.3, Warren, NH PO, Some(4.0E), Post office
+1785.3, N.H. 25C, None, Road
+1790.2, N.H. 25, None, Road
+1791.3, Jeffers Brook Shelter, None, Shelter
+1791.3, Jeffers Brook Shelter Water Source, None, Good water source
+1795.9, Mt Moosilauke, None, View
+1798.2, Beaver Brook Shelter, None, Shelter
+1798.2, Beaver Brook Shelter Water Source, None, Good water source
+1799.7, Woodstock Inn, Some(5.0E), Hotel
+1799.7, Woodstock Inn, Some(5.0E), Restaurant
+1799.7, North Woodstock, NH, Some(5.0E), Town
+1799.7, NH 112, None, Road
+1799.7, The Hiker Shuttle Connection, Some(5.0E), Shuttle
+1799.7, North Woodstock, NH PO, Some(5.0E), Post office
+1799.7, Woodstock Inn, Some(5.0E), Hotel
+1799.7, Woodstock Inn, Some(5.0E), Restaurant
+1799.7, North Woodstock, NH, Some(5.0E), Town
+1799.7, NH 112, None, Road
+1799.7, The Hiker Shuttle Connection, Some(5.0E), Shuttle
+1799.7, North Woodstock, NH PO, Some(5.0E), Post office
+1807.2, Eliza Brook Campsite Shelter, None, Shelter
+1807.2, Eliza Brook Campsite Shelter Water Source, None, Good water source
+1809.7, South Kinsman Mtn, None, View
+1810.6, North Kinsman Mtn, None, View
+1811.2, Kinsman Pond Campsite Shelter, Some(0.1E), Shelter
+1811.2, Kinsman Pond Campsite Shelter Water Source, Some(0.1E), Good water source
+1813.1, Lonesome Lake Hut, None, Hotel
+1816.0, Comfort Inn and Suites, Some(7.3E), Hotel
+1816.0, Price Chopper, Some(7.3E), Long term resupply
+1816.0, Subway, Some(7.3E), Restaurant
+1816.0, El Grecos Pizza, Some(7.3E), Restaurant
+1816.0, Mr Ws Pancake House, Some(7.3E), Restaurant
+1816.0, Lincoln, NH, Some(7.3E), Town
+1816.0, Lincoln, NH PO, Some(7.3E), Post office
+1816.0, Lincoln Public Library, Some(7.3E), Internet
+1816.0, Lincoln Cinemas 4, Some(7.3E), Business
+1816.0, I-93, None, Road
+1818.6, Liberty Springs Tentsite, None, Campsite
+1818.6, water source, None, Good water source
+1821.4, Mt Lincoln, None, View
+1822.4, Greenleaf Hut, Some(0.2W), Hotel
+1822.4, Mt Lafayette, None, View
+1825.9, Mt Garfield, None, View
+1826.3, Garfield Ridge Campsite Shelter, Some(0.1W), Shelter
+1826.3, Garfield Ridge Campsite Shelter Water Source, Some(0.1W), Good water source
+1829.0, Galehead Hut, None, Hotel
+1831.8, Guyot Campsite Shelter, Some(0.8E), Shelter
+1831.8, Guyot Campsite Shelter Water Source, Some(0.8E), Good water source
+1836.0, Zealand Falls Hut, None, Hotel
+1840.8, Ethan Pond Campsite Shelter, None, Shelter
+1840.8, Ethan Pond Campsite Shelter Water Source, None, Good water source
+1843.7, Bartlett, NH, Some(10.0E), Town
+1843.7, Bartlett, NH PO, Some(10.0E), Post office
+1843.7, U.S. 302, None, Road
+1847.0, Mt Webster, None, View
+1848.4, Mt Jackson, None, View
+1850.1, Mizpah Spring Hut, None, Hotel
+1850.9, Mt Pierce, None, View
+1851.8, Spring, None, Good water source
+1853.1, Spring, None, Good water source
+1853.7, Mt Franklin, None, View
+1854.8, Lake of the Clouds Hut, None, Hotel
+1856.2, Mt Washington, None, View
+1859.7, Edmands Col, None, Good water source
+1861.9, Madison Springs Hut, None, Hotel
+1862.4, Mt Madison, None, View
+1864.9, Osgood Tentsite, None, Campsite
+1864.9, water source, None, Good water source
+1865.7, West Branch, Peabody River, None, Good water source
+1869.7, Pinkham Notch Visitors Center, None, Restaurant
+1869.7, NH 16, None, Road
+1869.7, Pinkham Notch Visitors Center, None, Restaurant
+1869.7, NH 16, None, Road
+1872.7, Wildcat Mtn, Peak D, None, Other
+1874.7, Wildcat Mtn, Peak A, None, Other
+1875.6, Carter Notch Hut, Some(0.1E), Hotel
+1876.3, Spring, None, Good water source
+1876.8, Carter Dome, None, Other
+1878.2, Zeta Pass, None, Good water source
+1882.8, Imp Campsite Shelter, Some(0.2W), Shelter
+1882.8, Imp Campsite Shelter Water Source, Some(0.2W), Good water source
+1888.9, Rattle River Shelter, None, Shelter
+1888.9, Rattle River Shelter Water Source, None, Good water source
+1890.8, Rattle River Lodge and Hostel, None, Hostel
+1890.8, The Barn / Libby House B and B, Some(3.6W), Hostel
+1890.8, Hikers Paradise Hostel at Colonial Fort Inn, Some(3.6W), Hostel
+1890.8, Subway, Some(3.6W), Restaurant
+1890.8, Super Walmart, Some(3.6W, 1.5), Long term resupply
+1890.8, Hikers Paradise Hostel at Colonial Fort Inn, Some(3.6W), Restaurant
+1890.8, Mr. Pizza, Some(3.6W), Restaurant
+1890.8, Gorham, NH, Some(3.6W), Town
+1890.8, Library, Some(3.6W), Internet
+1890.8, Gorham, NH PO, Some(3.6W), Post office
+1890.8, Altitude Sport Hike Bike Ski, Some(3.6W), Outfitter
+1890.8, Trail Angel Hiker Services, Some(3.6W), Shuttle
+1890.8, Gorham Hardware / Sports Center, Some(3.6W), Outfitter
+1890.8, U.S. 2, None, Road
+1891.3, Hogan Rd, None, Road
+1894.4, Mt Hayes, None, Other
+1897.7, Trident Col Tentsite, Some(0.1W), Campsite
+1897.7, water source, Some(0.1W), Good water source
+1900.4, Dream Lake, None, Good water source
+1901.9, Moss Pond, None, Good water source
+1902.6, Gentian Pond Campsite Shelter, None, Shelter
+1902.6, Gentian Pond Campsite Shelter Water Source, None, Good water source
+1905.4, Mt. Success, None, Other
+1907.3, NH-Maine State Line, None, Road
+1907.8, Carlo Col Shelter, Some(0.3W), Shelter
+1907.8, Carlo Col Shelter Water Source, Some(0.3W), Good water source
+1912.2, Full Goose Shelter, Some(0.1E), Shelter
+1912.2, Full Goose Shelter Water Source, Some(0.1E), Good water source
+1913.7, Mahoosuc Notch - west end, None, Other
+1913.7, water source, None, Good water source
+1914.8, Mahoosuc Notch - east end, None, Other
+1914.8, water source, None, Good water source
+1916.4, Mahoosuc Arm, None, Other
+1917.3, Speck Pond Shelter, None, Shelter
+1917.3, Speck Pond Shelter Water Source, None, Good water source
+1920.8, Brook, None, Good water source
+1921.9, Maine 26, None, Road
+1924.2, Baldpate Lean-to, Some(0.1E), Shelter
+1924.2, Baldpate Lean-to Water Source, Some(0.1E), Good water source
+1925.0, Baldpate Mtn West Peak, None, Other
+1927.7, Frye Notch Lean-to, None, Shelter
+1927.7, Frye Notch Lean-to Water Source, None, Good water source
+1931.4, Dunn Notch and Falls, None, Good water source
+1932.2, Pine Ellis Hiking Lodge, Some(8.0E), Hostel
+1932.2, High5 Hostel, Some(8.0E), Hostel
+1932.2, The Cabin, Some(8.0E, 3.0E), Hostel
+1932.2, High5 Hostel, Some(8.0E), Short term resupply
+1932.2, Andover General Store, Some(8.0E), Restaurant
+1932.2, East B Hill Rd, None, Road
+1932.2, Andover, ME, Some(8.0E), Town
+1932.2, Andover Public Library, Some(8.0E), Internet
+1932.2, Andover, ME PO, Some(8.0E), Post office
+1932.2, Pine Ellis Hiking Lodge, Some(8.0E), Hostel
+1932.2, High5 Hostel, Some(8.0E), Hostel
+1932.2, The Cabin, Some(8.0E, 3.0E), Hostel
+1932.2, High5 Hostel, Some(8.0E), Short term resupply
+1932.2, Andover General Store, Some(8.0E), Restaurant
+1932.2, East B Hill Rd, None, Road
+1932.2, Andover, ME, Some(8.0E), Town
+1932.2, Andover Public Library, Some(8.0E), Internet
+1932.2, Andover, ME PO, Some(8.0E), Post office
+1934.0, Surplus Pond, None, Good water source
+1938.2, Hall Mountain Lean-to, None, Shelter
+1938.2, Hall Mountain Lean-to Water Source, None, Good water source
+1939.6, Sawyer Brook, None, River ford
+1939.6, Sawyer Brook, None, Good water source
+1942.3, South Arm Rd, None, Road
+1951.0, Bemis Mountain Lean-to, None, Shelter
+1951.0, Bemis Mountain Lean-to Water Source, None, Good water source
+1954.8, Bemis Stream, None, River ford
+1954.8, Bemis Stream, None, Good water source
+1955.6, Oquossocs Own B and B, Some(11.0W), Hotel
+1955.6, Four Seasons Cafe, Some(11.0W), Restaurant
+1955.6, Gingerbread House, Some(11.0W), Restaurant
+1955.6, Carry Road Country Store, Some(11.0W), Short term resupply
+1955.6, Maine 17, None, Road
+1955.6, Oquossoc, ME, Some(11.0W), Town
+1955.6, Oquossoc, ME PO, Some(11.0W), Post office
+1957.2, Moxie Pond, None, Good water source
+1959.0, Long Pond, None, Good water source
+1959.3, Sabbath Day Pond Lean-to, None, Shelter
+1959.3, Sabbath Day Pond Lean-to Water Source, None, Good water source
+1963.9, Little Swift River Pond Campsite, None, Campsite
+1963.9, water source, None, Good water source
+1966.6, South Pond, None, Good water source
+1968.7, Rangeley Inn, Some(9.0W), Hotel
+1968.7, Saddleback Motor Inn, Some(9.0W), Hotel
+1968.7, IGA Supermarket, Some(9.0W), Long term resupply
+1968.7, Sarges Pub and Grub, Some(9.0W), Restaurant
+1968.7, Red Onion, Some(9.0W), Restaurant
+1968.7, Rangeley, ME, Some(9.0W), Town
+1968.7, Rangeley Public Library, Some(9.0W), Internet
+1968.7, Rangeley, ME PO, Some(9.0W), Post office
+1968.7, Maine 4, None, Road
+1970.5, Piazza Rock Lean-to, None, Shelter
+1970.5, Piazza Rock Lean-to Water Source, None, Good water source
+1972.4, Eddy Pond, None, Good water source
+1974.4, Saddleback Mtn, None, Other
+1976.0, The Horn, None, Other
+1976.7, Redington Stream Campsite, None, Campsite
+1976.7, water source, None, Good water source
+1978.0, Saddleback Junior, None, Other
+1978.4, Stream, None, Good water source
+1979.4, Poplar Ridge Lean-to, None, Shelter
+1979.4, Poplar Ridge Lean-to Water Source, None, Good water source
+1982.1, Orbeton Stream, None, River ford
+1982.1, Orbeton Stream, None, Good water source
+1987.4, Spaulding Mountain Lean-to, None, Shelter
+1987.4, Spaulding Mountain Lean-to Water Source, None, Good water source
+1988.2, Spaulding Mtn, None, Other
+1992.5, South Branch Carrabassett River, None, River ford
+1992.5, South Branch Carrabassett River, None, Good water source
+1992.6, Caribou Valley Rd, None, Road
+1993.6, Crocker Cirque, Some(0.2E), Campsite
+1993.6, water source, Some(0.2E), Good water source
+2000.9, The Maine Roadhouse, Some(5.0W), Hostel
+2000.9, Stratton Motel  Hostel, Some(5.0W), Hostel
+2000.9, White Wolf Cafe, Some(5.0W), Restaurant
+2000.9, Fotters Market, Some(5.0W), Long term resupply
+2000.9, Northland Cash Supply, Some(5.0W), Restaurant
+2000.9, Stratton, ME, Some(5.0W), Town
+2000.9, ME 27, None, Road
+2000.9, Old Mill Laundromat, Some(5.0W), Laundry
+2000.9, Stratton, ME PO, Some(5.0W), Post office
+2000.9, The Maine Roadhouse, Some(5.0W), Hostel
+2000.9, Stratton Motel  Hostel, Some(5.0W), Hostel
+2000.9, White Wolf Cafe, Some(5.0W), Restaurant
+2000.9, Fotters Market, Some(5.0W), Long term resupply
+2000.9, Northland Cash Supply, Some(5.0W), Restaurant
+2000.9, Stratton, ME, Some(5.0W), Town
+2000.9, ME 27, None, Road
+2000.9, Old Mill Laundromat, Some(5.0W), Laundry
+2000.9, Stratton, ME PO, Some(5.0W), Post office
+2001.7, Stratton Brook Pond Rd, None, Road
+2001.9, Stratton Brook, None, Good water source
+2002.8, campsite, None, Campsite
+2002.8, Cranberry Stream, None, Good water source
+2004.1, Cranberry Pond, Some(0.2W), Good water source
+2006.0, Horns Pond Lean-tos, None, Shelter
+2006.0, Horns Pond Lean-tos Water Source, None, Good water source
+2008.6, Bigelow Mtn - West Peak, None, Other
+2008.9, Avery Memorial Campsite, None, Campsite
+2008.9, water source, None, Good water source
+2009.1, Spring, None, Good water source
+2009.3, Bigelow Mtn - Avery Peak, None, Other
+2011.3, campsite, Some(0.3E), Campsite
+2011.3, water source, Some(0.3E), Good water source
+2014.5, Little Bigelow Mtn, None, Other
+2016.2, Little Bigelow Lean-to, Some(0.1W), Shelter
+2016.2, Little Bigelow Lean-to Water Source, Some(0.1W), Good water source
+2017.6, East Flagstaff Rd, None, Road
+2017.7, Flagstaff Lake (inlet), None, Good water source
+2017.7, Bog Brook Rd, None, Road
+2020.4, Long Falls Dam Rd, None, Road
+2023.2, West Carry Pond, None, Good water source
+2023.9, West Carry Pond Lean-to, None, Shelter
+2023.9, West Carry Pond Lean-to Water Source, None, Good water source
+2024.6, West Carry Pond, None, Good water source
+2026.5, Sandy Stream, None, Good water source
+2028.0, East Carry Pond, None, Good water source
+2029.7, Logging Rd, None, Road
+2030.4, North Branch Carrying Place Stream, None, Good water source
+2033.9, Pierce Pond Lean-to, None, Shelter
+2033.9, Pierce Pond Lean-to Water Source, None, Good water source
+2037.6, Kennebec River, None, Good water source
+2037.6, Kennebec River, None, River ford
+2037.9, The Sterling Inn, Some(0.3E, 1.0E), Hotel
+2037.9, The Sterling Inn, Some(0.3E, 1.0E), Restaurant
+2037.9, Caratunk, ME, Some(0.3E), Town
+2037.9, Caratunk, ME PO, Some(0.3E), Post office
+2040.6, Holly Brook, None, Good water source
+2043.2, Boise-Cascade Logging Rd, None, Road
+2043.6, Pleasant Pond Lean-to, None, Shelter
+2043.6, Pleasant Pond Lean-to Water Source, None, Good water source
+2049.8, Moxie Pond, None, Good water source
+2049.8, road, None, Road
+2052.6, Bald Mountain Brook Lean-to, Some(0.1W), Shelter
+2052.6, Bald Mountain Brook Lean-to Water Source, Some(0.1W), Good water source
+2054.6, Moxie Bald Mtn, None, Other
+2056.7, Moxie Bald Lean-to, None, Shelter
+2056.7, Moxie Bald Lean-to Water Source, None, Good water source
+2058.8, Bald Mtn Pond, None, Good water source
+2062.5, W Branch Piscataquis River, None, Good water source
+2062.5, W Branch Piscataquis River, None, River ford
+2065.6, Horseshoe Canyon Lean-to, None, Shelter
+2065.6, Horseshoe Canyon Lean-to Water Source, None, Good water source
+2067.9, E Branch Piscataquis River, None, Good water source
+2067.9, E Branch Piscataquis River, None, River ford
+2068.3, Shirley-Blanchard Rd, None, Road
+2074.6, Shaws Lodging, Some(4.0E), Hostel
+2074.6, Lakeshore House Lodging and Pub, Some(4.0E), Hostel
+2074.6, Shaws Lodging, Some(4.0E), Restaurant
+2074.6, Tims Monson General Store, Some(4.0E), Short term resupply
+2074.6, Lakeshore House Lodging and Pub, Some(4.0E), Long term resupply
+2074.6, Spring Creek BBQ, Some(4.0E), Restaurant
+2074.6, ME 15, None, Road
+2074.6, Monson, ME, Some(4.0E), Town
+2074.6, Buddy Ward, Some(4.0E), Shuttle
+2074.6, Nancy Putnam, Some(4.0E), Shuttle
+2074.6, Monson, ME PO, Some(4.0E), Post office
+2074.6, Shaws Lodging, Some(4.0E), Hostel
+2074.6, Lakeshore House Lodging and Pub, Some(4.0E), Hostel
+2074.6, Shaws Lodging, Some(4.0E), Restaurant
+2074.6, Tims Monson General Store, Some(4.0E), Short term resupply
+2074.6, Lakeshore House Lodging and Pub, Some(4.0E), Long term resupply
+2074.6, Spring Creek BBQ, Some(4.0E), Restaurant
+2074.6, ME 15, None, Road
+2074.6, Monson, ME, Some(4.0E), Town
+2074.6, Buddy Ward, Some(4.0E), Shuttle
+2074.6, Nancy Putnam, Some(4.0E), Shuttle
+2074.6, Monson, ME PO, Some(4.0E), Post office
+2074.7, Spectacle Pond (outlet), None, Good water source
+2075.8, Bell Pond, None, Good water source
+2076.5, Lily Pond, None, Good water source
+2077.6, Leeman Brook Lean-to, None, Shelter
+2077.6, Leeman Brook Lean-to Water Source, None, Good water source
+2078.4, North Pond (outlet), None, Good water source
+2081.2, Little Wilson Falls, None, View
+2081.4, Little Wilson Stream, None, River ford
+2081.4, Little Wilson Stream, None, Good water source
+2084.3, Big Wilson Stream, None, River ford
+2084.3, Big Wilson Stream, None, Good water source
+2085.0, Wilson Valley Lean-to, None, Shelter
+2085.0, Wilson Valley Lean-to Water Source, None, Good water source
+2088.9, Long Pond Stream, None, Good water source
+2088.9, Long Pond Stream, None, River ford
+2089.7, Long Pond Stream Lean-to, Some(0.1W), Shelter
+2089.7, Long Pond Stream Lean-to Water Source, Some(0.1W), Good water source
+2093.7, Cloud Pond Lean-to, Some(0.4E), Shelter
+2093.7, Cloud Pond Lean-to Water Source, Some(0.4E), Good water source
+2095.8, Fourth Mtn, None, Other
+2098.3, Third Mtn, None, Other
+2098.9, West Chairback Pond, None, Good water source
+2100.2, Columbus Mtn, None, Other
+2100.6, Chairback Gap Lean-to, None, Shelter
+2100.6, Chairback Gap Lean-to Water Source, None, Good water source
+2101.1, Chairback Mtn, None, Other
+2103.3, East Chairback Pond, Some(0.2W), Good water source
+2104.5, Katahdin Iron Works Rd, None, Road
+2105.0, West Branch Pleasant River, None, Good water source
+2105.0, West Branch Pleasant River, None, River ford
+2106.3, water source, None, Good water source
+2106.3, Gulf Hagas Trail, None, Side trail
+2107.0, Gulf Hagas Cut-off Trail, None, Side trail
+2107.0, water source, None, Good water source
+2110.5, Carl A. Newhall Lean-to, None, Shelter
+2110.5, Carl A. Newhall Lean-to Water Source, None, Good water source
+2112.3, Sidney Tappan Campsite, None, Campsite
+2112.3, water source, Some(0.1E), Good water source
+2116.3, White Cap Mtn, None, Other
+2117.7, Logan Brook Lean-to, None, Shelter
+2117.7, Logan Brook Lean-to Water Source, None, Good water source
+2119.3, W Branch Ponds Rd, None, Road
+2121.3, East Branch Lean-to, None, Shelter
+2121.3, East Branch Lean-to Water Source, None, Good water source
+2121.6, East Branch Pleasant River, None, Good water source
+2121.6, East Branch Pleasant River, None, River ford
+2123.2, Mtn View Pond, None, Good water source
+2123.5, Spring, None, Good water source
+2124.8, Little Boardman Mtn, None, Other
+2126.2, Kokadjo-B Pond Rd, None, Road
+2127.1, Crawford Pond, None, Good water source
+2129.4, Cooper Brook Falls Lean-to, None, Shelter
+2129.4, Cooper Brook Falls Lean-to Water Source, None, Good water source
+2133.1, Smiths Jo-Mary Lake Campground, Some(6.0E), Campsite
+2133.1, Smiths Jo-Mary Lake Campground, Some(6.0E), Restaurant
+2133.1, water source, None, Good water source
+2133.1, Jo-Mary Rd, None, Road
+2136.0, Mud Pond (outlet), None, Good water source
+2137.3, Antlers Campsite, None, Campsite
+2137.3, water source, None, Good water source
+2139.0, Lower Jo-Mary Lake, None, Good water source
+2140.8, Potaywadjo Spring Lean-to, None, Shelter
+2140.8, Potaywadjo Spring Lean-to Water Source, None, Good water source
+2141.4, Pemadumcook Lake, None, Good water source
+2143.1, Logging Rd, None, Road
+2145.1, Nahmakanta Stream Campsite, None, Campsite
+2145.1, water source, None, Good water source
+2148.3, Nahmakanta Lake, None, Good water source
+2148.3, road, None, Road
+2150.9, Wadleigh Stream Lean-to, None, Shelter
+2150.9, Wadleigh Stream Lean-to Water Source, None, Good water source
+2152.8, Nesuntabunt Mtn, None, Other
+2155.2, Crescent Pond, None, Good water source
+2156.6, Pollywog Stream, None, Good water source
+2159.0, Rainbow Stream Lean-to, None, Shelter
+2159.0, Rainbow Stream Lean-to Water Source, None, Good water source
+2161.0, Rainbow Lake, None, Good water source
+2162.8, Rainbow Spring Campsite, None, Campsite
+2162.8, water source, None, Good water source
+2166.2, Rainbow Lake, None, Good water source
+2168.0, Rainbow Ledges, None, Other
+2170.5, Hurd Brook Lean-to, None, Shelter
+2170.5, Hurd Brook Lean-to Water Source, None, Good water source
+2174.0, Appalachian Trail Lodge and Cafe, Some(20.0E), Hostel
+2174.0, Econolodge Inn and Suites, Some(20.0E), Hotel
+2174.0, Pamola Motor Lodge, Some(20.0E, 30.0), Hotel
+2174.0, Best Value Heritage Motor Inn, Some(20.0E), Restaurant
+2174.0, Econolodge Inn and Suites, Some(20.0E), Restaurant
+2174.0, Abol Bridge Campstore, None, Restaurant
+2174.0, Pamola Motor Lodge, Some(20.0E, 30.0), Restaurant
+2174.0, Abol Br, None, Road
+2174.0, Millinocket, ME, Some(20.0E), Town
+2174.0, Blue Ox Saloon, Some(20.0E), Bar
+2174.0, Millinocket Regional Hospital, Some(20.0E), Medical
+2174.0, Millinocket, ME PO, Some(20.0E), Post office
+2174.0, Town Taxi, Some(20.0E), Shuttle
+2174.0, Highlands Tavern, Some(20.0E), Bar
+2174.0, Pamola Shuttle, Some(20.0E), Shuttle
+2174.0, Appalachian Trail Lodge and Cafe, Some(20.0E), Hostel
+2174.0, Econolodge Inn and Suites, Some(20.0E), Hotel
+2174.0, Pamola Motor Lodge, Some(20.0E, 30.0), Hotel
+2174.0, Best Value Heritage Motor Inn, Some(20.0E), Restaurant
+2174.0, Econolodge Inn and Suites, Some(20.0E), Restaurant
+2174.0, Abol Bridge Campstore, None, Restaurant
+2174.0, Pamola Motor Lodge, Some(20.0E, 30.0), Restaurant
+2174.0, Abol Br, None, Road
+2174.0, Millinocket, ME, Some(20.0E), Town
+2174.0, Blue Ox Saloon, Some(20.0E), Bar
+2174.0, Millinocket Regional Hospital, Some(20.0E), Medical
+2174.0, Millinocket, ME PO, Some(20.0E), Post office
+2174.0, Town Taxi, Some(20.0E), Shuttle
+2174.0, Highlands Tavern, Some(20.0E), Bar
+2174.0, Pamola Shuttle, Some(20.0E), Shuttle
+2175.1, Katahdin Stream, None, Good water source
+2178.1, Pine Point, None, Good water source
+2178.6, Lower Fork Nesowadnehunk Stream, None, River ford
+2178.6, Lower Fork Nesowadnehunk Stream, None, Good water source
+2179.5, Upper Fork Nesowadnehunk Stream, None, Good water source
+2179.5, Upper Fork Nesowadnehunk Stream, None, River ford
+2180.3, Big Niagara Falls, None, Good water source
+2183.9, The Birches Shelters, Some(0.2E), Shelter
+2183.9, The Birches Shelters Water Source, Some(0.2E), Good water source
+2185.1, Katahdin Stream Falls, None, Good water source
+2188.1, Thoreau Spring, None, Good water source
+2189.1, Katahdin, None, View
